@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " ... and Noah ___________ with God.",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. taught"
+        },
+        {
+          "choice": "b. walked"
+        },
+        {
+          "choice": "c. ate"
+        },
+        {
+          "choice": "d. served"
+        }
+      ],
+      "answer": "b. walked",
+      "type": "epi_4"
+    },
+    {
+      "question": "Who was Noah's father? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Lamech"
+        },
+        {
+          "choice": "b. Abel"
+        },
+        {
+          "choice": "c. Hunter"
+        },
+        {
+          "choice": "d. Enoch"
+        }
+      ],
+      "answer": "a. Lamech",
+      "type": "epi_4"
+    },
+    {
+      "question": " Which humans boarded the ark? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. Only Noah"
+        },
+        {
+          "choice": "b. Noah and his wife and sons"
+        },
+        {
+          "choice": "c. Noah, his wife, and Noah's sons and their wives"
+        },
+        {
+          "choice": "d. Noah, Noah's sons, Noah's brothers, and all their wives"
+        }
+      ],
+      "answer": "c. Noah, his wife, and Noah's sons and their wives",
+      "type": "epi_4"
+    },
+    {
+      "question": "What unit of measurement was used to measure the ark?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Cubit"
+        },
+        {
+          "choice": "b. Meter"
+        },
+        {
+          "choice": "c. Furlong"
+        },
+        {
+          "choice": "d. Beam"
+        }
+      ],
+      "answer": "a. Cubit",
+      "type": "epi_4"
+    },
+    {
+      "question": "Which of these men was NOT a son of Noah? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Shem"
+        },
+        {
+          "choice": "b. Canaan"
+        },
+        {
+          "choice": "c. Japheth"
+        },
+        {
+          "choice": "d. Ham"
+        }
+      ],
+      "answer": "b. Canaan",
+      "type": "epi_4"
+    },
+    {
+      "question": " How would the Lord destroy mankind during the time of Noah? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Famine "
+        },
+        {
+          "choice": "b. Earthquake "
+        },
+        {
+          "choice": "c. Flood"
+        },
+        {
+          "choice": "d. Fire"
+        }
+      ],
+      "answer": "c. Flood",
+      "type": "epi_4"
+    },
+    {
+      "question": "Why did the Lord want to destroy man during the time of Noah? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Man was too strong "
+        },
+        {
+          "choice": "b. Man was too smart "
+        },
+        {
+          "choice": "c. Man was too slothful "
+        },
+        {
+          "choice": "d. Man was too wicked "
+        }
+      ],
+      "answer": "d. Man was too wicked ",
+      "type": "epi_4"
+    },
+    {
+      "question": " With what material would Noah coat the ark? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Grease"
+        },
+        {
+          "choice": "b. Tar"
+        },
+        {
+          "choice": "c. Animal fat"
+        },
+        {
+          "choice": "d. Straw"
+        }
+      ],
+      "answer": "b. Tar",
+      "type": "epi_4"
+    },
+    {
+      "question": " How many stories high was the ark of Noah?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": " a. 7"
+        },
+        {
+          "choice": " b. 3"
+        },
+        {
+          "choice": " c. 5"
+        },
+        {
+          "choice": " d. 1"
+        }
+      ],
+      "answer": " b. 3",
+      "type": "epi_4"
+    },
+    {
+      "question": " What kind of wood did Noah use to build the ark?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": " a. Cedar"
+        },
+        {
+          "choice": " b. Gopher"
+        },
+        {
+          "choice": " c. Nara"
+        },
+        {
+          "choice": " d. Oak"
+        }
+      ],
+      "answer": " b. Gopher",
+      "type": "epi_4"
+    }
+  ]
+}

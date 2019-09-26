@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425932983775",
+    "firebase_url": "https://biblegame-3082f.firebaseio.com",
+    "project_id": "biblegame-3082f",
+    "storage_bucket": "biblegame-3082f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425932983775:android:d708f4c0dda4cdb2",
+        "android_client_info": {
+          "package_name": "com.thesis.biblegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425932983775-8sev9hglhd0t7n9povmstdo59k590ugm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesis.biblegame",
+            "certificate_hash": "30c2b65e7dcbebf1f6c66e5705e502031046b670"
+          }
+        },
+        {
+          "client_id": "425932983775-0njg75bbpdtiqugjn01bv8a0fga5j1le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HChhFSk1HSTuSNAyT8IUDxNj6TYlLQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425932983775-0njg75bbpdtiqugjn01bv8a0fga5j1le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

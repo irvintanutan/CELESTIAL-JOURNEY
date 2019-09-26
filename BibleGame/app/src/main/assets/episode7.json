@@ -1,0 +1,229 @@
+{
+  "task": [
+    {
+      "question": " What was the token of the covenant between Abraham and God?",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Circumcision"
+        },
+        {
+          "choice": "b. Sacraments "
+        },
+        {
+          "choice": "c. Burnt sacrifice "
+        },
+        {
+          "choice": "d. Tithes "
+        }
+      ],
+      "answer": " a. Circumcision",
+      "type": "epi_7"
+    },
+    {
+      "question": " What would be the name of Sarah's son? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a.  Abraham "
+        },
+        {
+          "choice": "b. Jacob "
+        },
+        {
+          "choice": "c. Isaac "
+        },
+        {
+          "choice": "d. raven "
+        }
+      ],
+      "answer": "c. Isaac ",
+      "type": "epi_7"
+    },
+    {
+      "question": " Whose name was changed to Abraham ?",
+      "time": "20000",
+      "choices": [
+        {
+          "choice": "a. Rahab "
+        },
+        {
+          "choice": "b. Jacob "
+        },
+        {
+          "choice": "c. Isaac"
+        },
+        {
+          "choice": "d. Abram "
+        }
+      ],
+      "answer": "d. Abram ",
+      "type": "epi_7"
+    },
+    {
+      "question": " How did Sarah learn that she would have a child?  ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": " a. She overheard it "
+        },
+        {
+          "choice": " b. God told her in a dream "
+        },
+        {
+          "choice": " c. The men who visited Abraham told her "
+        },
+        {
+          "choice": " d. Abraham told her "
+        }
+      ],
+      "answer": " a. She overheard it ",
+      "type": "epi_7"
+    },
+    {
+      "question": " Which of Abraham's sons would the Lord establish His covenant with? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Jacob "
+        },
+        {
+          "choice": "b. Isaac "
+        },
+        {
+          "choice": "c. Ishmael "
+        },
+        {
+          "choice": "d. Joseph"
+        }
+      ],
+      "answer": "b. Isaac ",
+      "type": "epi_7"
+    },
+    {
+      "question": " To Whom did the Lord rename Sarah ?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a Hagar "
+        },
+        {
+          "choice": "b.  Rachel "
+        },
+        {
+          "choice": "c.  Rebecca "
+        },
+        {
+          "choice": "d. Sarai "
+        }
+      ],
+      "answer": "d. Sarai ",
+      "type": "epi_7"
+    },
+    {
+      "question": " How many men came to visit Abraham in the plains of Mamre?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 1 "
+        },
+        {
+          "choice": "b. 2 "
+        },
+        {
+          "choice": "c. 3 "
+        },
+        {
+          "choice": "d. 4 "
+        }
+      ],
+      "answer": "c. 3 ",
+      "type": "epi_7"
+    },
+    {
+      "question": " When the Lord told Abraham that his wife would have a child, what was Sarah’s reaction?",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. she jumped"
+        },
+        {
+          "choice": "b. she’s happy"
+        },
+        {
+          "choice": "c. she laughed"
+        },
+        {
+          "choice": "d. she‘s confused "
+        }
+      ],
+      "answer": "c. she laughed",
+      "type": "epi_7"
+    },
+    {
+      "question": " Why did Sarah have this reaction? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": " a. She thought she was too old to have children"
+        },
+        {
+          "choice": " b. She was too excited "
+        },
+        {
+          "choice": " c. She wanted a daughter "
+        },
+        {
+          "choice": " d. She did not want a child "
+        }
+      ],
+      "answer": " a. She thought she was too old to have children",
+      "type": "epi_7"
+    },
+    {
+      "question": " What did the Lord say in response to Sarah's reaction? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. Thou art blessed, daughter."
+        },
+        {
+          "choice": "b. Is anything too hard for the Lord?"
+        },
+        {
+          "choice": "c. How is it that thou canst believe?"
+        },
+        {
+          "choice": "d. Be of good comfort."
+        }
+      ],
+      "answer": "b. Is anything too hard for the Lord?",
+      "type": "epi_7"
+    },
+    {
+      "question": " Where did Cain dwell after being cast out by the Lord? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Nod "
+        },
+        {
+          "choice": "b Sodom "
+        },
+        {
+          "choice": "c. Gomorrah "
+        },
+        {
+          "choice": "d. Eden "
+        }
+      ],
+      "answer": "a. Nod ",
+      "type": "epi_7"
+    }
+  ]
+}
+
+
+
+
+

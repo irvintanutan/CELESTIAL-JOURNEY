@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Who was Eve's first child?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Cain"
+        },
+        {
+          "choice": "b. Abel"
+        },
+        {
+          "choice": "c. Enoch"
+        },
+        {
+          "choice": "d. Seth"
+        }
+      ],
+      "answer": "a. Cain",
+      "type": "epi_3"
+    },
+    {
+      "question": " What was Cain's profession?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Shepherd "
+        },
+        {
+          "choice": "b. Tailor"
+        },
+        {
+          "choice": "c. Hunter "
+        },
+        {
+          "choice": "d. Tiller "
+        }
+      ],
+      "answer": "d. Tiller ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Which of these were NOT part of God's curse on Cain?   ",
+      "time": "15000",
+      "choices": [
+        {
+          "choice": "a. He would have poor harvests all his life "
+        },
+        {
+          "choice": "b. He would be separated from the Lord"
+        },
+        {
+          "choice": "c. His first-born son and those of his descendants would all be born malformed"
+        },
+        {
+          "choice": "d. He would be a wanderer for life"
+        }
+      ],
+      "answer": "c. His first-born son and those of his descendants would all be born malformed",
+      "type": "epi_3"
+    },
+    {
+      "question": " What Cain offered as a sacrifice to God?    ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Vegetable of the soil"
+        },
+        {
+          "choice": " Sheep"
+        },
+        {
+          "choice": "c. Goat"
+        },
+        {
+          "choice": "d. Fruit of the Soil"
+        }
+      ],
+      "answer": "d. Fruit of the Soil",
+      "type": "epi_3"
+    },
+    {
+      "question": " Because Cain murdered Abel, the Lord curses him to a life as a?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Vagabond"
+        },
+        {
+          "choice": "b. Leper"
+        },
+        {
+          "choice": "c. Beggar "
+        },
+        {
+          "choice": "d. Hermit "
+        }
+      ],
+      "answer": "a. Vagabond",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did God say He knew what Cain had done? ",
+      "time": "15000",
+      "choices": [
+        {
+          "choice": "a. Lucifer told the Lord what Cain had done"
+        },
+        {
+          "choice": "b. Adam told Him"
+        },
+        {
+          "choice": "c. He was watching Cain from behind a bush"
+        },
+        {
+          "choice": "d. Abel's blood cried to the Lord from the ground"
+        }
+      ],
+      "answer": "d. Abel's blood cried to the Lord from the ground",
+      "type": "epi_3"
+    },
+    {
+      "question": " The Lord declared that if Cain were to be killed: ",
+      "time": "15000",
+      "choices": [
+        {
+          "choice": "a. Cain's murderer would be hunted as Cain was hunted "
+        },
+        {
+          "choice": "b Cain's murderer would be sentenced to the same punishment"
+        },
+        {
+          "choice": "c. Cain would be avenged seven times over "
+        },
+        {
+          "choice": "d. The entire family of Cain's murderer would be killed "
+        }
+      ],
+      "answer": "c. Cain would be avenged seven times over ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How was Cain's punishment that is similar to the punishment of his parents, Adam and Eve? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. He was separated from God"
+        },
+        {
+          "choice": "b. He gained more knowledge"
+        },
+        {
+          "choice": "c. God hated him from then on"
+        },
+        {
+          "choice": "d. God would send Cain to hell"
+        }
+      ],
+      "answer": "a. He was separated from God",
+      "type": "epi_3"
+    },
+    {
+      "question": " Cain built a city and named it after his son. What was the name of this city?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Lamech"
+        },
+        {
+          "choice": "b. Enoch"
+        },
+        {
+          "choice": "c. Irad"
+        },
+        {
+          "choice": "d. Mehujael"
+        }
+      ],
+      "answer": "b. Enoch",
+      "type": "epi_3"
+    },
+    {
+      "question": " Where did Cain dwell after being cast out by the Lord? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Nod "
+        },
+        {
+          "choice": "b Sodom "
+        },
+        {
+          "choice": "c. Gomorrah "
+        },
+        {
+          "choice": "d. Eden "
+        }
+      ],
+      "answer": "a. Nod ",
+      "type": "epi_3"
+    }
+  ]
+}

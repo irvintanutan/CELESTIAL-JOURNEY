@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How many birds of each kind did Noah gather onto the ark?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 5"
+        },
+        {
+          "choice": "b. 8"
+        },
+        {
+          "choice": "c. 7"
+        },
+        {
+          "choice": "d. 6"
+        }
+      ],
+      "answer": "c. 7",
+      "type": "epi_5"
+    },
+    {
+      "question": " What was the first animal that Noah let out of the ark? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a.  sparrow "
+        },
+        {
+          "choice": "b. pigeon "
+        },
+        {
+          "choice": "c. dove"
+        },
+        {
+          "choice": "d. raven"
+        }
+      ],
+      "answer": "d. raven",
+      "type": "epi_5"
+    },
+    {
+      "question": " How long did it rain? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 50 days and nights "
+        },
+        {
+          "choice": "b. 30 days and nights "
+        },
+        {
+          "choice": "c. 20 days and nights "
+        },
+        {
+          "choice": "d. 40 days and nights "
+        }
+      ],
+      "answer": "d. 40 days and nights ",
+      "type": "epi_5"
+    },
+    {
+      "question": "How many times did the bird that Noah released return to him?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 5 "
+        },
+        {
+          "choice": "b. 4 "
+        },
+        {
+          "choice": "c. 2"
+        },
+        {
+          "choice": "d. 3 "
+        }
+      ],
+      "answer": "c. 2",
+      "type": "epi_5"
+    },
+    {
+      "question": " How long did the water cover the entire earth? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 150 days"
+        },
+        {
+          "choice": "b. 160 days "
+        },
+        {
+          "choice": "c. 170 days "
+        },
+        {
+          "choice": "d. 120 days"
+        }
+      ],
+      "answer": "a. 150 days",
+      "type": "epi_5"
+    },
+    {
+      "question": "The last time the dove returned, what did she have in her beak?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. earthworm "
+        },
+        {
+          "choice": "b. balloon "
+        },
+        {
+          "choice": "c. ribbon "
+        },
+        {
+          "choice": "d. olive leaf"
+        }
+      ],
+      "answer": "d. olive leaf",
+      "type": "epi_5"
+    },
+    {
+      "question": "How many of each animal did the Lord command Noah to bring on the ark? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 1 "
+        },
+        {
+          "choice": "b. 2 "
+        },
+        {
+          "choice": "c. 3 "
+        },
+        {
+          "choice": "d. Only clean Animals"
+        }
+      ],
+      "answer": "b. 2 ",
+      "type": "epi_5"
+    },
+    {
+      "question": "Who are the sons of Noah? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Shem, Ham & Japheth"
+        },
+        {
+          "choice": "b. Shechem, Abel & Cain "
+        },
+        {
+          "choice": "c. Absalom, Solomon & Jeroboam "
+        },
+        {
+          "choice": "d. Asher, Naphtali & Gad"
+        }
+      ],
+      "answer": "a. Shem, Ham & Japheth",
+      "type": "epi_5"
+    },
+    {
+      "question": " What was the token of the Lord's promise to never destroy humankind again?",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": " a. The stars"
+        },
+        {
+          "choice": " b. The rainbow"
+        },
+        {
+          "choice": " c. The eclipse"
+        },
+        {
+          "choice": " d. The sun"
+        }
+      ],
+      "answer": " b. The rainbow",
+      "type": "epi_5"
+    },
+    {
+      "question": "What did Noah do to show his thanks to God?  ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": " a. Make animal sacrifices on an altar"
+        },
+        {
+          "choice": " b. Sing a psalm to praise the Lord "
+        },
+        {
+          "choice": " c. Sacrifice his youngest son "
+        },
+        {
+          "choice": " d. Build a monument on Mt. Ararat "
+        }
+      ],
+      "answer": " a. Make animal sacrifices on an altar",
+      "type": "epi_5"
+    }
+  ]
+}

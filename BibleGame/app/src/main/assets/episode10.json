@@ -1,0 +1,206 @@
+{
+  "task": [
+    {
+      "question": " What was the name of Abraham's son born to Sarah?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Jacob"
+        },
+        {
+          "choice": "b. Ishmael"
+        },
+        {
+          "choice": "c. Isaac"
+        },
+        {
+          "choice": "d. Abimelech"
+        }
+      ],
+      "answer": "c. Isaac",
+      "type": "epi_10"
+    },
+    {
+      "question": " Where did Hagar and Ishmael wander after they left Abraham? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. The hill country of Hebron "
+        },
+        {
+          "choice": "b. The desert of Arabia "
+        },
+        {
+          "choice": "c.  The region by the Salt Sea "
+        },
+        {
+          "choice": "d.  The wilderness of Beersheba "
+        }
+      ],
+      "answer": "d. The wilderness of Beersheba ",
+      "type": "epi_10"
+    },
+    {
+      "question": " When God opened the eyes of Hagar what did she see?  ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a.  A fountain "
+        },
+        {
+          "choice": "b.  A stream "
+        },
+        {
+          "choice": "c.  An oasis "
+        },
+        {
+          "choice": "d. A well "
+        }
+      ],
+      "answer": "d. A well ",
+      "type": "epi_10"
+    },
+    {
+      "question": " When did Abraham circumcise his son?    ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. The twelfth day "
+        },
+        {
+          "choice": " b. The third day "
+        },
+        {
+          "choice": "c.  The seventh day "
+        },
+        {
+          "choice": "d. The eighth day "
+        }
+      ],
+      "answer": "d. The eighth day ",
+      "type": "epi_10"
+    },
+    {
+      "question": " Who made a treaty with Abraham and received seven lambs? ",
+      "time": "11000",
+      "choices": [
+        {
+          "choice": "a. Abimelech and Phicol "
+        },
+        {
+          "choice": "b. Melchizedek and Abimelech "
+        },
+        {
+          "choice": "c. Lot and Melchizedek "
+        },
+        {
+          "choice": "d. Og and Sihon "
+        }
+      ],
+      "answer": "a. Abimelech and Phicol",
+      "type": "epi_10"
+    },
+    {
+      "question": " How old was Abraham when his son by Sarah was born? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. 75 "
+        },
+        {
+          "choice": "b. 110 "
+        },
+        {
+          "choice": "c. 90 "
+        },
+        {
+          "choice": "d. 100 "
+        }
+      ],
+      "answer": "d. 100 ",
+      "type": "epi_10"
+    },
+    {
+      "question": " Where did Hagar put Ishmael when she thought he was going to die? ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. Under some bushes "
+        },
+        {
+          "choice": "b. Under the shade of a rock "
+        },
+        {
+          "choice": "c.  Beside an altar "
+        },
+        {
+          "choice": "d. In the gateway of a city "
+        }
+      ],
+      "answer": "a. Under some bushes ",
+      "type": "epi_10"
+    },
+    {
+      "question": " What was Sarah's response to Ishmael's the mocking of her son?",
+      "time": "15000",
+      "choices": [
+        {
+          "choice": "a. She told Abraham to get rid of Hagar and Ishmael "
+        },
+        {
+          "choice": "b. She told Abraham that Hagar and Ishmael should be killed "
+        },
+        {
+          "choice": "c.  She told Abraham that Hagar and Ishmael should be sold as slaves "
+        },
+        {
+          "choice": "d.  She told Abraham he should do what is right in his eyes with Ishmael and Hagar "
+        }
+      ],
+      "answer": "a. She told Abraham to get rid of Hagar and Ishmael",
+      "type": "epi_10"
+    },
+    {
+      "question": " What did the response of those who hear about Sarah having a son?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Joy "
+        },
+        {
+          "choice": "b. Laughter "
+        },
+        {
+          "choice": "c.  Strength "
+        },
+        {
+          "choice": "d. Praise "
+        }
+      ],
+      "answer": "b. Laughter ",
+      "type": "epi_10"
+    },
+    {
+      "question": " What promise did God make to both Abraham and Hagar concerning Ishmael?  ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. He would become a nation "
+        },
+        {
+          "choice": "b. He would be an adversary to all his brothers "
+        },
+        {
+          "choice": "c. He would be blessed "
+        },
+        {
+          "choice": "d. He would live in the desert "
+        }
+      ],
+      "answer": "a. He would become a nation ",
+      "type": "epi_10"
+    }
+  ]
+}
+
+

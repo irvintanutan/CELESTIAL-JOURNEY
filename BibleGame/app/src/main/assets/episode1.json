@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": "What two things did God create in the beginning (Gen. 1:1)?",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. The light and the darkness "
+        },
+        {
+          "choice": "b. The heavens and the earth"
+        },
+        {
+          "choice": "c. The land and the sea "
+        },
+        {
+          "choice": "d. The world and the stars "
+        }
+      ],
+      "answer": "b. The heavens and the earth",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God create in the first day?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Water "
+        },
+        {
+          "choice": "b. Light "
+        },
+        {
+          "choice": "c. Celestial bodies (planets, moons, stars, etc.)"
+        },
+        {
+          "choice": "d. Air "
+        }
+      ],
+      "answer": "b. Light ",
+      "type": "epi_1"
+    },
+    {
+      "question": "On the first day after God made the light, what two things did He separate (Gen. 1:4)?   ",
+      "time": "12000",
+      "choices": [
+        {
+          "choice": "a. Land and the sea "
+        },
+        {
+          "choice": "b. The light on the earth and the light of His presence "
+        },
+        {
+          "choice": "c. Light and darkness "
+        },
+        {
+          "choice": "d. The sun and moon "
+        }
+      ],
+      "answer": "c. Light and darkness ",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God create on the second day?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Sky &heaven "
+        },
+        {
+          "choice": "b. Oceans &seas"
+        },
+        {
+          "choice": "c. Outer space &stars "
+        },
+        {
+          "choice": "d. Clouds &Vapors"
+        }
+      ],
+      "answer": "a. Sky &heaven ",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God create on the third day ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Plant Life "
+        },
+        {
+          "choice": "b. All of these"
+        },
+        {
+          "choice": "c. Land "
+        },
+        {
+          "choice": "d. The seas "
+        }
+      ],
+      "answer": "b. All of these",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did God create on the fourth day? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Animals "
+        },
+        {
+          "choice": "b. Celestial bodies (planets, moons, stars, etc.)"
+        },
+        {
+          "choice": "c. Plants "
+        },
+        {
+          "choice": "d. The waters   "
+        }
+      ],
+      "answer": "b. Celestial bodies (planets, moons, stars, etc.)",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God create on the fifth day?",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. All animals "
+        },
+        {
+          "choice": "b. All animals except those that live on the land"
+        },
+        {
+          "choice": "c. All animals except those that live in the ocean"
+        },
+        {
+          "choice": "d. All animals except those that live in the sky "
+        }
+      ],
+      "answer": "b. All animals except those that live on the land",
+      "type": "epi_1"
+    },
+    {
+      "question": " Which did God NOT create on the sixth day? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Some animals   "
+        },
+        {
+          "choice": "b. Man"
+        },
+        {
+          "choice": "c. Birds"
+        },
+        {
+          "choice": "d. Woman"
+        }
+      ],
+      "answer": "c. Birds",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God create on the seventh day?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Man"
+        },
+        {
+          "choice": "b. Language "
+        },
+        {
+          "choice": "c. Woman"
+        },
+        {
+          "choice": "d. Nothing "
+        }
+      ],
+      "answer": "d. Nothing ",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did God think of His work?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. It was sufficient"
+        },
+        {
+          "choice": "b. It was good"
+        },
+        {
+          "choice": "c. It was perfect"
+        },
+        {
+          "choice": "d. It was glorious"
+        }
+      ],
+      "answer": "b. It was good",
+      "type": "epi_1"
+    }
+  ]
+}

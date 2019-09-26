@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": "What did God call the firmament? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Earth"
+        },
+        {
+          "choice": "b. Heaven"
+        },
+        {
+          "choice": "c. Cloud "
+        },
+        {
+          "choice": "d. Space "
+        }
+      ],
+      "answer": "b. Heaven",
+      "type": "epi_2"
+    },
+    {
+      "question": "What did God call the dry land and the waters? ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Mountains; Oceans"
+        },
+        {
+          "choice": "b. Valleys; Lakes"
+        },
+        {
+          "choice": "c. Earth; Seas"
+        },
+        {
+          "choice": "d. Stone; Water "
+        }
+      ],
+      "answer": "c. Earth; Seas",
+      "type": "epi_2"
+    },
+    {
+      "question": "How did God create humans? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. In His image"
+        },
+        {
+          "choice": "b. Through evolution of primates"
+        },
+        {
+          "choice": "c. The goodness and love"
+        },
+        {
+          "choice": "d. The dust of the earth "
+        }
+      ],
+      "answer": "a. In His image",
+      "type": "epi_2"
+    },
+    {
+      "question": "God command the following to Adam and Eve except?  ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Have dominion over all living things "
+        },
+        {
+          "choice": "b. Work and be industrious"
+        },
+        {
+          "choice": "c. Be fruitful and multiply"
+        },
+        {
+          "choice": "d. Subdue the earth "
+        }
+      ],
+      "answer": "b. Work and be industrious",
+      "type": "epi_2"
+    },
+    {
+      "question": "What God did on the seventh day?   ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Create children for the man and woman "
+        },
+        {
+          "choice": "b. Rest"
+        },
+        {
+          "choice": "c. Create wind "
+        },
+        {
+          "choice": "d. Light "
+        }
+      ],
+      "answer": "b. Rest",
+      "type": "epi_2"
+    },
+    {
+      "question": "God made the man out of ________?   ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Stone"
+        },
+        {
+          "choice": "b. Dew"
+        },
+        {
+          "choice": "c. A piece of His own body "
+        },
+        {
+          "choice": "d. Dust"
+        }
+      ],
+      "answer": "d. Dust",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did God place His human creations?",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. Garden"
+        },
+        {
+          "choice": "b. Paradise"
+        },
+        {
+          "choice": "c. Zion "
+        },
+        {
+          "choice": "d. The wilderness"
+        }
+      ],
+      "answer": "a. Garden",
+      "type": "epi_2"
+    },
+    {
+      "question": "God create the woman out of _________? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. Dust "
+        },
+        {
+          "choice": "b. Dew"
+        },
+        {
+          "choice": "c. From the rib of man"
+        },
+        {
+          "choice": "d. Stone   "
+        }
+      ],
+      "answer": "c. From the rib of man",
+      "type": "epi_2"
+    },
+    {
+      "question": " Why did God create  woman ________? ",
+      "time": "10000",
+      "choices": [
+        {
+          "choice": "a. So she could oversee the man"
+        },
+        {
+          "choice": "b. So she could keep the man company"
+        },
+        {
+          "choice": "c. So she could serve the man"
+        },
+        {
+          "choice": "d. So she could help the man"
+        }
+      ],
+      "answer": "d. So she could help the man",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who named the living creatures?  ",
+      "time": "8000",
+      "choices": [
+        {
+          "choice": "a. God"
+        },
+        {
+          "choice": "b. Adam & Eve"
+        },
+        {
+          "choice": "c. Eve"
+        },
+        {
+          "choice": "d. Adam"
+        }
+      ],
+      "answer": "d. Adam",
+      "type": "epi_2"
+    }
+  ]
+}
