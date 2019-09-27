@@ -54,7 +54,7 @@
                 android:padding="10dp"
                 android:text="OK"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:textColor="#fff"
+                android:textColor="#211062"
                 android:textStyle="bold" />
 
 

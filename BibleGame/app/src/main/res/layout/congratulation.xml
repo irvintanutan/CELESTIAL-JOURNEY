@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/congrats"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_200sdp"
+        android:scaleType="fitXY">
+
+    </androidx.appcompat.widget.AppCompatImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="right"
+        android:padding="15dp">
+
+        <Button
+            android:id="@+id/positive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transparent_bg_bordered2"
+            android:text="OK"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="#211062"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -211,34 +211,9 @@ public class MapActivity extends AppCompatActivity {
 
     private void mapStarInit() {
 
-        //For the number of rows and columns of the grid to be displayed
-        int rows, cols;
 
-        //For height and width of the small image chunks
-        int chunkHeight, chunkWidth;
-
-        //To store all the small image chunks in bitmap format in this list
-        ArrayList<Bitmap> chunkedImages = new ArrayList<Bitmap>(50);
-        Bitmap epiSprite = getBitmapFromAssets(this, "epi_sprite.png");
-        //Getting the scaled bitmap of the source image
-        Bitmap scaledBitmap = Bitmap.createScaledBitmap(epiSprite, epiSprite.getWidth(), epiSprite.getHeight(), true);
-
-        rows = 10;
-        cols = 5;
-        chunkHeight = epiSprite.getHeight() / rows;
-        chunkWidth = epiSprite.getWidth() / cols;
-
-        //xCoord and yCoord are the pixel positions of the image chunks
-        int yCoord = 0;
-        for (int x = 0; x < rows; x++) {
-            int xCoord = 0;
-            for (int y = 0; y < cols; y++) {
-                chunkedImages.add(Bitmap.createBitmap(scaledBitmap, xCoord, yCoord, chunkWidth, chunkHeight));
-                xCoord += chunkWidth;
-            }
-            yCoord += chunkHeight;
-        }
-
+        List<Bitmap> chunkedImages = new Sprite(getApplicationContext()).sprites("epi_sprite.png",
+                10 , 5);
 
         int score = pref.getInt("score", 1);
         int epiScore = pref.getInt("epi1", 0);
@@ -382,29 +357,6 @@ public class MapActivity extends AppCompatActivity {
         AlertDialog alert = builder.create();
         alert.show();
 
-    }
-
-    private Bitmap getBitmapFromAssets(MapActivity mainActivity,
-                                       String filepath) {
-        AssetManager assetManager = mainActivity.getAssets();
-        InputStream istr = null;
-        Bitmap bitmap = null;
-
-        try {
-            istr = assetManager.open(filepath);
-            bitmap = BitmapFactory.decodeStream(istr);
-        } catch (IOException ioe) {
-            // manage exception
-        } finally {
-            if (istr != null) {
-                try {
-                    istr.close();
-                } catch (IOException e) {
-                }
-            }
-        }
-
-        return bitmap;
     }
 
 

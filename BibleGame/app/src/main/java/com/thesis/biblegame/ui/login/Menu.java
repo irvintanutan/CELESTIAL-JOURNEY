@@ -2,11 +2,12 @@ package com.thesis.biblegame.ui.login;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.cardview.widget.CardView;
+import androidx.appcompat.widget.AppCompatImageView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -19,14 +20,14 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.thesis.biblegame.R;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import co.chatsdk.core.session.ChatSDK;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 
 public class Menu extends AppCompatActivity {
-
-    CardView playButton, howToPlay, settingsButton, quitButton , chatButton , leaderBoardButton;
+    AppCompatImageView playButton, howToPlay, settingsButton, quitButton, chatButton, leaderBoardButton;
     SharedPreferences.Editor editor;
 
     @Override
@@ -46,11 +47,11 @@ public class Menu extends AppCompatActivity {
         editor = pref.edit();
         int total = 0;
 
-        for (int a = 1 ; a <= 10 ; a++ ){
+        for (int a = 1; a <= 10; a++) {
             total += pref.getInt("epi" + a, 0);
         }
 
-        FirebaseUser usersRef = FirebaseAuth.getInstance().getCurrentUser() ;
+        FirebaseUser usersRef = FirebaseAuth.getInstance().getCurrentUser();
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference("score");
 
@@ -62,16 +63,18 @@ public class Menu extends AppCompatActivity {
         hopperRef.updateChildren(hopperUpdates);
 
 
-
-        Intent svc=new Intent(this, BackgroundSoundService.class);
+        Intent svc = new Intent(this, BackgroundSoundService.class);
         stopService(svc);
         startService(svc);
+
 
         init();
     }
 
 
     private void init() {
+        List<Bitmap> menu = new Sprite(getApplicationContext()).sprites("MENU_BUTTONS.png", 2, 3);
+
 
         playButton = findViewById(R.id.playButton);
         howToPlay = findViewById(R.id.howToPlay);
@@ -80,15 +83,22 @@ public class Menu extends AppCompatActivity {
         chatButton = findViewById(R.id.chatButton);
         leaderBoardButton = findViewById(R.id.leaderBoard);
 
+        playButton.setImageBitmap(menu.get(0));
+        howToPlay.setImageBitmap(menu.get(1));
+        settingsButton.setImageBitmap(menu.get(2));
+        chatButton.setImageBitmap(menu.get(3));
+        leaderBoardButton.setImageBitmap(menu.get(4));
+        quitButton.setImageBitmap(menu.get(5));
+
         playButton.setOnClickListener(view -> {
-            startActivity(new Intent(Menu.this , MapActivity.class));
+            startActivity(new Intent(Menu.this, MapActivity.class));
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
         });
 
 
         howToPlay.setOnClickListener(view -> {
-            startActivity(new Intent(Menu.this , HowToPlayActivity.class));
+            startActivity(new Intent(Menu.this, HowToPlayActivity.class));
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
         });
@@ -114,7 +124,7 @@ public class Menu extends AppCompatActivity {
             AlertDialog alert = builder.create();
             alert.show();*/
 
-            startActivity(new Intent(Menu.this , SettingsActivity.class));
+            startActivity(new Intent(Menu.this, SettingsActivity.class));
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
 
@@ -144,7 +154,7 @@ public class Menu extends AppCompatActivity {
         });
 
         leaderBoardButton.setOnClickListener(v -> {
-            startActivity(new Intent(Menu.this , LeaderBoardActivity.class));
+            startActivity(new Intent(Menu.this, LeaderBoardActivity.class));
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
         });
@@ -160,7 +170,7 @@ public class Menu extends AppCompatActivity {
                         }, throwable -> {
                             // Setup failed
                         })
-                );
+        );
 
     }
 

@@ -5,7 +5,9 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.AssetFileDescriptor;
+import android.graphics.Color;
 import android.graphics.Typeface;
+import android.graphics.drawable.ColorDrawable;
 import android.media.MediaPlayer;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
@@ -25,6 +27,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.AppCompatImageView;
 import androidx.preference.PreferenceManager;
 
 import com.google.android.gms.ads.AdRequest;
@@ -243,39 +246,48 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
 
             if (score == length) {
                 countDownTimer.pause();
+                LayoutInflater inflater = getLayoutInflater();
+                View alertLayout = inflater.inflate(R.layout.congratulation, null);
 
-                final AlertDialog.Builder dialog = new AlertDialog.Builder(this);
-                dialog.setCancelable(false);
-                dialog.setTitle("Congratulation")
-                        .setMessage("You've finished this episode. You can now proceed to the next level")
-                        .setPositiveButton("Ok", new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface paramDialogInterface, int paramInt) {
+                final Button positive = alertLayout.findViewById(R.id.positive);
+                final AppCompatImageView imageView = alertLayout.findViewById(R.id.congrats);
+                imageView.setImageBitmap(new Sprite(GameActivity.this).getBitmapFromAssets("congratulation.png"));
 
-                                pref = getApplicationContext().getSharedPreferences("MyPref", 0);
-                                editor = pref.edit();
-
-                                int lastScore = pref.getInt("score", 0);
-
-                                if (lastScore < ModGLobal.level) {
-                                    editor.putInt("score", ModGLobal.level);
-                                    editor.apply();
-                                }
-
-                                int epiScore = pref.getInt(ModGLobal.episodePref, 0);
-                                if (epiScore < life) {
-                                    editor.putInt(ModGLobal.episodePref, life);
-                                    editor.apply();
-                                }
-
-                                startActivity(new Intent(GameActivity.this, MapActivity.class));
-                                finish();
-
-                                overridePendingTransition(R.anim.enter_from_left, R.anim.exit_to_right);
-                            }
-                        });
-
+                AlertDialog.Builder alert = new AlertDialog.Builder(GameActivity.this);
+                // this is set the view from XML inside AlertDialog
+                alert.setView(alertLayout);
+                // disallow cancel of AlertDialog on click of back button and outside touch
+                alert.setCancelable(false);
+                final AlertDialog dialog = alert.create();
+                dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
                 dialog.show();
+
+                positive.setOnClickListener(v1 -> {
+                    dialog.dismiss();
+                    pref = getApplicationContext().getSharedPreferences("MyPref", 0);
+                    editor = pref.edit();
+
+                    int lastScore = pref.getInt("score", 0);
+
+                    if (lastScore < ModGLobal.level) {
+                        editor.putInt("score", ModGLobal.level);
+                        editor.apply();
+                    }
+
+                    int epiScore = pref.getInt(ModGLobal.episodePref, 0);
+                    if (epiScore < life) {
+                        editor.putInt(ModGLobal.episodePref, life);
+                        editor.apply();
+                    }
+
+                    startActivity(new Intent(GameActivity.this, MapActivity.class));
+                    finish();
+
+                    overridePendingTransition(R.anim.enter_from_left, R.anim.exit_to_right);
+                });
+
+
+
             } else {
 
                 score++;
