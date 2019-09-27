@@ -91,7 +91,8 @@ public class Menu extends AppCompatActivity {
         quitButton.setImageBitmap(menu.get(5));
 
         playButton.setOnClickListener(view -> {
-            startActivity(new Intent(Menu.this, MapActivity.class));
+
+            startActivity(new Intent(Menu.this, StoryLineActivity.class));
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
         });
@@ -104,25 +105,6 @@ public class Menu extends AppCompatActivity {
         });
 
         settingsButton.setOnClickListener(view -> {
-
-
-
-     /*       AlertDialog.Builder builder = new AlertDialog.Builder(Menu.this);
-
-            builder.setTitle("Horaayyy!");
-            builder.setMessage("Settings under construction.");
-
-            builder.setPositiveButton("Ok", (dialog, which) -> {
-                // Do nothing but close the dialog
-                // Do nothing
-                dialog.dismiss();
-
-
-            });
-
-
-            AlertDialog alert = builder.create();
-            alert.show();*/
 
             startActivity(new Intent(Menu.this, SettingsActivity.class));
             finish();

@@ -3,42 +3,25 @@ package com.thesis.biblegame.ui.login;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.res.AssetManager;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 import android.widget.ImageView;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.thesis.biblegame.R;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
 import java.util.List;
 
 public class MapActivity extends AppCompatActivity {
 
-    // frame width
-    private static final int FRAME_W = 750;
-    // frame height
-    private static final int FRAME_H = 1500;
-    // number of frames
-    private static final int NB_FRAMES = 50;
-    // nb of frames in x
-    private static final int COUNT_X = 5;
-    // nb of frames in y
-    private static final int COUNT_Y = 10;
-    // stores each frame
-    private Bitmap[] bmps;
-    // scale factor for each frame
-    private static final int SCALE_FACTOR = 5;
 
     ImageView episode1, episode2, episode3, episode4, episode5, episode6, episode7, episode8, episode9, episode10;
+    FloatingActionButton fab;
 
 
     SharedPreferences pref;
@@ -66,6 +49,8 @@ public class MapActivity extends AppCompatActivity {
         episode8 = findViewById(R.id.button8);
         episode9 = findViewById(R.id.button9);
         episode10 = findViewById(R.id.button10);
+        fab = findViewById(R.id.floating_action_button);
+
 
         mapStarInit();
 
@@ -206,10 +191,32 @@ public class MapActivity extends AppCompatActivity {
                 showAlert("9");
             }
         });
+
+        fab.setOnClickListener(v -> {
+            AlertDialog.Builder builder = new AlertDialog.Builder(MapActivity.this);
+
+            builder.setTitle("Confirm");
+            builder.setMessage("Are you sure you want to go to main World Map ?");
+
+            builder.setPositiveButton("YES", (dialog, which) -> {
+                // Do nothing but close the dialog
+                // Do nothing
+                startActivity(new Intent(MapActivity.this, WorldMapActivity.class));
+                finish();
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+
+            });
+            builder.setNegativeButton("NO", (dialog, which) -> dialog.dismiss());
+
+            AlertDialog alert = builder.create();
+            alert.show();
+        });
+
     }
 
 
     private void mapStarInit() {
+
 
 
         List<Bitmap> chunkedImages = new Sprite(getApplicationContext()).sprites("epi_sprite.png",
@@ -332,27 +339,17 @@ public class MapActivity extends AppCompatActivity {
         AlertDialog.Builder builder = new AlertDialog.Builder(MapActivity.this);
 
         builder.setTitle("Confirm");
-        builder.setMessage("Are you sure you want to go to main MENU ?");
+        builder.setMessage("Are you sure you want to go to main World Map ?");
 
-        builder.setPositiveButton("YES", new DialogInterface.OnClickListener() {
-
-            public void onClick(DialogInterface dialog, int which) {
-                // Do nothing but close the dialog
-                // Do nothing
-                startActivity(new Intent(MapActivity.this, Menu.class));
-                finish();
-                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-
-            }
+        builder.setPositiveButton("YES", (dialog, which) -> {
+            // Do nothing but close the dialog
+            // Do nothing
+            startActivity(new Intent(MapActivity.this, WorldMapActivity.class));
+            finish();
+            overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
 
         });
-        builder.setNegativeButton("NO", new DialogInterface.OnClickListener() {
-
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-            }
-        });
+        builder.setNegativeButton("NO", (dialog, which) -> dialog.dismiss());
 
         AlertDialog alert = builder.create();
         alert.show();
