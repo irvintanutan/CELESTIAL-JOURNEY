@@ -1,0 +1,205 @@
+{
+  "task": [
+    {
+      "question": " What did the Levite explain to the Danite spies (Judg 18:4)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " How Micah had hired him as his priest"
+        },
+        {
+          "choice": " How he had left the home of his youth"
+        },
+        {
+          "choice": " How he built the idols for Micah"
+        },
+        {
+          "choice": " Where the spies would find open land"
+        }
+      ],
+      "answer": " How Micah had hired him as his priest ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What did the Danite spies request of the Levite (Judg 18:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To persuade Micah to let them stay in his house "
+        },
+        {
+          "choice": " To inquire of God whether their journey would be successful "
+        },
+        {
+          "choice": " To pray to the Lord to bless their journey "
+        },
+        {
+          "choice": " For food and wine to sustain them on their journey "
+        }
+      ],
+      "answer": " To inquire of God whether their journey would be successful ",
+      "type": "epi_3"
+    },
+    {
+      "question": " According to the Levite, the Danite spies journey _____ (Judg 18:6). ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Would result in their deaths "
+        },
+        {
+          "choice": " Had the Lord’s approval "
+        },
+        {
+          "choice": " Would be lead them into new territory "
+        },
+        {
+          "choice": " Would end in them capturing Laish "
+        }
+      ],
+      "answer": " Had the Lord’s approval ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When the Danite spies arrived, how were the people of Laish living (Judg 18:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Wickedly "
+        },
+        {
+          "choice": " In accordance with the Lord "
+        },
+        {
+          "choice": " In safety and security "
+        },
+        {
+          "choice": " In close community and alliances with the nearby towns "
+        }
+      ],
+      "answer": " In safety and security ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Why were the people of Laish prosperous (Judg 18:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Their land lacked nothing "
+        },
+        {
+          "choice": " They had the Lord’s favor "
+        },
+        {
+          "choice": " They were valiant warriors "
+        },
+        {
+          "choice": " They were wealthy "
+        }
+      ],
+      "answer": " Their land lacked nothing ",
+      "type": "epi_3"
+    },
+    {
+      "question": " With what other city did the people of Laish have a relationship (Judg 18:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Tyre "
+        },
+        {
+          "choice": " Sidon "
+        },
+        {
+          "choice": " Gilead "
+        },
+        {
+          "choice": " Damascus "
+        }
+      ],
+      "answer": " Sidon ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did the people of Laish interact with those close around them (Judg 18:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They traded with those nearby "
+        },
+        {
+          "choice": " They lived in close community with several other towns "
+        },
+        {
+          "choice": " They shared a temple and a high place with Hazor "
+        },
+        {
+          "choice": " They had no relationship with anyone else "
+        }
+      ],
+      "answer": " They had no relationship with anyone else ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What report did the five Danite spies give to Eshtaol and Zorah about Laish (Judg18:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The land was deserted "
+        },
+        {
+          "choice": " The men at Laish were weak "
+        },
+        {
+          "choice": " The land is very good "
+        },
+        {
+          "choice": " The men have alliances with many cities "
+        }
+      ],
+      "answer": " The land is very good ",
+      "type": "epi_3"
+    },
+    {
+      "question": " 14. What kind of land did the Danites say would be found (Judg 18:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A spacious land that lacks nothing "
+        },
+        {
+          "choice": " A prosperous land with olive groves "
+        },
+        {
+          "choice": " A wealthy land from trading "
+        },
+        {
+          "choice": " A promised land upon which the Lord’s blessing rests "
+        }
+      ],
+      "answer": " A spacious land that lacks nothing ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How many men from the Danites went out from Zorah and Eshtaol to attack Laish (Judg 18:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Fourteen hundred men "
+        },
+        {
+          "choice": " A thousand men "
+        },
+        {
+          "choice": " Six hundred men "
+        },
+        {
+          "choice": " Ten thousand men "
+        }
+      ],
+      "answer": " Six hundred men ",
+      "type": "epi_3"
+    }
+  ]
+}
+

@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What did Nehemiah ask God to show him (Neh 13:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " His mighty power "
+        },
+        {
+          "choice": " His mercy "
+        },
+        {
+          "choice": " His forgiveness "
+        },
+        {
+          "choice": " His faithfulness "
+        }
+      ],
+      "answer": " His mercy ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What did the children of those who had intermarried not know (Neh 13:24)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The ways of the Lord"
+        },
+        {
+          "choice": " The God’s mighty acts"
+        },
+        {
+          "choice": " The language of Judah"
+        },
+        {
+          "choice": " The law of Moses"
+        }
+      ],
+      "answer": " The language of Judah ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Nehemiah lists all of the following places where the men he saw took wives from EXCEPT (Neh 13:23) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ashdod "
+        },
+        {
+          "choice": " Ammon "
+        },
+        {
+          "choice": " Moab "
+        },
+        {
+          "choice": " Edom "
+        }
+      ],
+      "answer": " Edom ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What language did the children of mixed marriages know how to speak (Neh 13:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The language of Aram "
+        },
+        {
+          "choice": " The language of Ashdod "
+        },
+        {
+          "choice": " The language of Egypt "
+        },
+        {
+          "choice": " The Persian language "
+        }
+      ],
+      "answer": " The language of Ashdod ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Nehemiah did all of the following to those who had intermarried EXCEPT (Neh 13:25) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Drove them out of the city "
+        },
+        {
+          "choice": " Pulled out their hair "
+        },
+        {
+          "choice": " Called down curses on them "
+        },
+        {
+          "choice": " Beat them "
+        }
+      ],
+      "answer": " Drove them out of the city ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What oath did Nehemiah make the people take (Neh 13:25)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They would follow in the ways of the Lord "
+        },
+        {
+          "choice": " They would not give their daughters to the foreigners’ sons "
+        },
+        {
+          "choice": " They would not violate the Sabbath "
+        },
+        {
+          "choice": "  They would not harvest grain on the Sabbath "
+        }
+      ],
+      "answer": " They would not give their daughters to the foreigners’ sons ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What king of Israel does Nehemiah focus on as sinning (Neh 13:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Saul "
+        },
+        {
+          "choice": " David "
+        },
+        {
+          "choice": " Solomon "
+        },
+        {
+          "choice": " Ahab "
+        }
+      ],
+      "answer": " Solomon ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How does Nehemiah characterize Solomon’s relationship to God (Neh 13:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He was loved by God "
+        },
+        {
+          "choice": " He was a man after God’s own heart "
+        },
+        {
+          "choice": " He turned away from the Lord his God "
+        },
+        {
+          "choice": " God made him the wisest of men "
+        }
+      ],
+      "answer": " He was loved by God ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What does Nehemiah say led Solomon into sin (Neh 13:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Pride "
+        },
+        {
+          "choice": " He forgot the Lord "
+        },
+        {
+          "choice": " He violated the temple "
+        },
+        {
+          "choice": " Foreign wives "
+        }
+      ],
+      "answer": " Foreign wives ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who was the high priest during Nehemiah’s days (Neh 13:28)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Eliashib "
+        },
+        {
+          "choice": " Zadok "
+        },
+        {
+          "choice": " Pashhur "
+        },
+        {
+          "choice": " Hilkiah "
+        }
+      ],
+      "answer": " Eliashib ",
+      "type": "epi_5"
+    }
+  ]
+}

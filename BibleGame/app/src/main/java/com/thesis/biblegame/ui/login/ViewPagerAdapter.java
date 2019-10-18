@@ -42,7 +42,7 @@ public class ViewPagerAdapter extends PagerAdapter {
         View view = layoutInflater.inflate(R.layout.fragment_detail, null);
         ImageView imageView = view.findViewById(R.id.detail_image);
 
-        Glide.with(context).load(
+        Glide.with(context).asBitmap().load(
                  imageModels.get(position)).into(imageView);
 
 

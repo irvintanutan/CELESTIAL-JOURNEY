@@ -1,0 +1,215 @@
+{
+  "task": [
+    {
+      "question": "What common element, other than diet, did the birds of the air and beasts of the earth share with humankind (Gen. 1:30)?  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The image of God "
+        },
+        {
+          "choice": "The breath of life "
+        },
+        {
+          "choice": "The good land that God had made "
+        },
+        {
+          "choice": "They were able to move on the earth "
+        }
+      ],
+      "answer": "The breath of life ",
+      "type": "epi_5"
+    },
+    {
+      "question": "After God's creation on each day what did God do? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Saw that what He had made was good  "
+        },
+        {
+          "choice": "He rested "
+        },
+        {
+          "choice": "He commanded the evening and morning to pass "
+        },
+        {
+          "choice": "He divided something "
+        }
+      ],
+      "answer": "Saw that what He had made was good  ",
+      "type": "epi_5"
+    },
+    {
+      "question": "What two qualities did God pronounce on the seventh day (Gen. 2:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "He blessed it and made it holy  "
+        },
+        {
+          "choice": "He pronounced it good and holy "
+        },
+        {
+          "choice": "He blessed it and pronounced it good"
+        },
+        {
+          "choice": "He made its morning holy and its evening blessed "
+        }
+      ],
+      "answer": "He blessed it and made it holy  ",
+      "type": "epi_5"
+    },
+    {
+      "question": "When God originally made the earth, Gen. 2 lists all of the following as not being present EXCEPT (Gen. 2:5f)   ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "No man to till the ground "
+        },
+        {
+          "choice": "No shrub of the field "
+        },
+        {
+          "choice": "No streams of water "
+        },
+        {
+          "choice": "No rain from the sky "
+        }
+      ],
+      "answer": "No streams of water ",
+      "type": "epi_5"
+    },
+    {
+      "question": "God formed humankind from the __________ (Gen. 2:7) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Beasts of the field "
+        },
+        {
+          "choice": "Dust of the ground  "
+        },
+        {
+          "choice": "Water of the sea"
+        },
+        {
+          "choice": "From the word of His mouth "
+        }
+      ],
+      "answer": "Dust of the ground  ",
+      "type": "epi_5"
+    },
+    {
+      "question": "When did humankind become a living being/soul (Gen. 2:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "When God shaped the human in His image "
+        },
+        {
+          "choice": "When God placed the human in the garden"
+        },
+        {
+          "choice": "When God took Eve out of Adam's side "
+        },
+        {
+          "choice": "When God breathed into the human's nostrils "
+        }
+      ],
+      "answer": "When God breathed into the human's nostrils ",
+      "type": "epi_5"
+    },
+    {
+      "question": "Where did God put the human that He had made (Gen. 2:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "On the dry land that had appeared  "
+        },
+        {
+          "choice": "On the mountain of the Lord  "
+        },
+        {
+          "choice": "In the garden of Eden"
+        },
+        {
+          "choice": "Between the rivers of life "
+        }
+      ],
+      "answer": "In the garden of Eden",
+      "type": "epi_5"
+    },
+    {
+      "question": "All of the following were rivers flowing from Eden EXCEPT (Gen. 2:11ff) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Tigris"
+        },
+        {
+          "choice": "Euphrates"
+        },
+        {
+          "choice": "Pishon "
+        },
+        {
+          "choice": "Nile"
+        }
+      ],
+      "answer": "Nile",
+      "type": "epi_5"
+    },
+    {
+      "question": "What part of Adam did God use to make the woman (Gen. 2:21)?  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Heart"
+        },
+        {
+          "choice": "Rib"
+        },
+        {
+          "choice": "Arm"
+        },
+        {
+          "choice": "Head "
+        }
+      ],
+      "answer": "Rib",
+      "type": "epi_5"
+    },
+    {
+      "question": "What was the first thing God pronounced not good (Gen. 2:18)?   ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Sin "
+        },
+        {
+          "choice": "Darkness"
+        },
+        {
+          "choice": "Aloneness"
+        },
+        {
+          "choice": "Having to work the garden  "
+        }
+      ],
+      "answer": "Aloneness",
+      "type": "epi_5"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+

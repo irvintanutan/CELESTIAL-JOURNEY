@@ -5,6 +5,7 @@ import android.graphics.Typeface;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
@@ -24,16 +25,29 @@ public class SplashScreen extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
         custom_font = Typeface.createFromAsset(getAssets(), "fonts/bubbles.ttf");
 
+        ModGLobal.storySprite = new Sprite(getApplicationContext())
+                .sprites("sprite_storyline.jpg", 1, 5);
+
+        ModGLobal.howToSprite = new Sprite(getApplicationContext())
+                .sprites("howtoplay.jpg", 1, 5);
+
+        ModGLobal.episodeSprites = new Sprite(getApplicationContext()).sprites("epi_sprite.png",
+                10, 5);
+
+        ModGLobal.worldMapSprite = new Sprite(getApplicationContext()).sprites("places.png",
+                2, 6);
+
        /* splash = (TextView) findViewById(R.id.splash);
         splash.setTypeface(custom_font);*/
 
-         new CountDownTImer(3000, 1000) {
+        new CountDownTImer(3000, 1000) {
 
             public void onTick(long millisUntilFinished) {
 
             }
+
             public void onFinish() {
-                startActivity(new Intent(SplashScreen.this , LoginActivity.class));
+                startActivity(new Intent(SplashScreen.this, LoginActivity.class));
                 finish();
                 overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
             }

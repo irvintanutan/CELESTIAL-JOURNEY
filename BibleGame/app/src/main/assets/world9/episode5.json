@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " When did Pharaoh usually go out to the Nile waters (Ex. 7:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Evenings "
+        },
+        {
+          "choice": " Mid-day "
+        },
+        {
+          "choice": " Mornings "
+        },
+        {
+          "choice": " At sun set "
+        }
+      ],
+      "answer": " Mornings ",
+      "type": " epi_5"
+    },
+    {
+      "question": " All of the following happened when Aaron struck the Nile river with the rod EXCEPT (Ex. 7:18) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It turned to blood "
+        },
+        {
+          "choice": " The river dried up "
+        },
+        {
+          "choice": " The fish died "
+        },
+        {
+          "choice": " The Egyptians could not drink it "
+        }
+      ],
+      "answer": " The river dried up ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What happened just before Pharaoh's heart was hardened after seeing the blood in the Nile (Ex. 7:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He prayed to the god of the Nile "
+        },
+        {
+          "choice": " He heard his people crying out for water "
+        },
+        {
+          "choice": " He threatened Moses with death "
+        },
+        {
+          "choice": " His magicians did the same things "
+        }
+      ],
+      "answer": " His magicians did the same things ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How did the Egyptians get drinking water when the Nile was turned to blood (Ex. 7:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They ran the water through straw "
+        },
+        {
+          "choice": " They had no water at all "
+        },
+        {
+          "choice": " They dug outside the river for water "
+        },
+        {
+          "choice": " They sent to Canaan to get water "
+        }
+      ],
+      "answer": " They dug outside the river for water ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How many days after the Nile was turned to blood did the Lord strike Egypt with frogs (Ex. 8:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 3 days "
+        },
+        {
+          "choice": " 7 days "
+        },
+        {
+          "choice": " 14 days "
+        },
+        {
+          "choice": " 21 days "
+        }
+      ],
+      "answer": " 7 days ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Moses warned, frogs would come into what part of Pharaoh's house ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kitchen "
+        },
+        {
+          "choice": " Living room "
+        },
+        {
+          "choice": " Bedroom "
+        },
+        {
+          "choice": " Roof of his house "
+        }
+      ],
+      "answer": " Bedroom ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who stretched out his hands to bring the frogs on Egypt (Ex. 8:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Moses "
+        },
+        {
+          "choice": " Miriam "
+        },
+        {
+          "choice": " Korah "
+        },
+        {
+          "choice": " Aaron "
+        }
+      ],
+      "answer": " Aaron ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Pharaoh asked Moses to take the frogs away and Moses allowed Pharaoh (Ex. 8:9) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To set the time when the frogs would leave "
+        },
+        {
+          "choice": " To set the places where the frogs would leave "
+        },
+        {
+          "choice": " To set the place where the frogs would go "
+        },
+        {
+          "choice": " To gather the frogs into the Nile "
+        }
+      ],
+      "answer": " To set the time when the frogs would leave ",
+      "type": "epi_5"
+    },
+    {
+      "question": " After the frogs died, what did the Egyptians do with them (Ex. 8:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They buried them "
+        },
+        {
+          "choice": " They threw them into the Nile "
+        },
+        {
+          "choice": " They piled them into heaps "
+        },
+        {
+          "choice": " They burned them up "
+        }
+      ],
+      "answer": " They piled them into heaps ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Pharaoh said that if Moses removed the frogs he would do what (Ex. 8:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Leave Egypt forever "
+        },
+        {
+          "choice": " Let the Israelites go offer sacrifices to the LORD "
+        },
+        {
+          "choice": " Not kill the infants "
+        },
+        {
+          "choice": " Destroy his own magicians "
+        }
+      ],
+      "answer": " Let the Israelites go offer sacrifices to the LORD ",
+      "type": "epi_5"
+    }
+  ]
+}

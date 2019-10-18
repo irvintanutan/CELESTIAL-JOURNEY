@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " According to Jonathan, son of Abiathar, who made Solomon king (1 Kgs 1:43)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nathan the prophet "
+        },
+        {
+          "choice": " The LORD"
+        },
+        {
+          "choice": " Zadok the priest"
+        },
+        {
+          "choice": " King David"
+        }
+      ],
+      "answer": " King David ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What was the noise Adonijah and his guests heard (1 Kgs 1:45)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Trumpets blasting "
+        },
+        {
+          "choice": " People cheering "
+        },
+        {
+          "choice": " Livestock lowing "
+        },
+        {
+          "choice": " Bathsheba weeping "
+        }
+      ],
+      "answer": " People cheering ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who said, “May your God make Solomon’s name more famous than yours” (1 Kgs 1:47)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The royal officials "
+        },
+        {
+          "choice": " The Kerethites and Pelethites "
+        },
+        {
+          "choice": " Nathan the prophet "
+        },
+        {
+          "choice": " The priests "
+        }
+      ],
+      "answer": " The royal officials ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What was the response of Adonijah’s guests when they heard David had made Solomon king (1 Kgs 1:49)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They put on their swords preparing to attack "
+        },
+        {
+          "choice": " They grabbed Adonijah and killed him "
+        },
+        {
+          "choice": " They fled to the spring at En Rogel "
+        },
+        {
+          "choice": " They dispersed "
+        }
+      ],
+      "answer": " They dispersed ",
+      "type": "epi_5"
+    },
+    {
+      "question": " When Solomon was made king why did David praise God (1 Kgs 1:48)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " That God had raised up a king in Israel "
+        },
+        {
+          "choice": " That God had allowed him to see his successor "
+        },
+        {
+          "choice": " That God had given Solomon such great wisdom "
+        },
+        {
+          "choice": " That God had kept his promise to David by giving him a successor "
+        }
+      ],
+      "answer": " That God had allowed him to see his successor ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did the king bow and worship when Solomon was made king (1 Kgs 1:48)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " On his bed "
+        },
+        {
+          "choice": " In the LORD’s house "
+        },
+        {
+          "choice": " At Gihon "
+        },
+        {
+          "choice": " Before Solomon "
+        }
+      ],
+      "answer": " On his bed ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What did Adonijah do when he heard Solomon had become king (1 Kgs 1:50)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Prepared for battle "
+        },
+        {
+          "choice": " Took hold of the horns of the altar "
+        },
+        {
+          "choice": " Prayed to the LORD "
+        },
+        {
+          "choice": " Fled to the wilderness "
+        }
+      ],
+      "answer": " Took hold of the horns of the altar ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What did Adonijah fear would happen to him (1 Kgs 1:51)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He would be put to death by the sword "
+        },
+        {
+          "choice": " He would be exiled from the land "
+        },
+        {
+          "choice": " He would be disgraced in the eyes of Israel "
+        },
+        {
+          "choice": " He would be tortured and left for dead "
+        }
+      ],
+      "answer": " He would be put to death by the sword ",
+      "type": "epi_5"
+    },
+    {
+      "question": " If Adonijah showed himself to be a worthy man, what did Solomon say would happen to him (1 Kgs 1:52)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He would also come to rule over a people "
+        },
+        {
+          "choice": " His former wealth and honor would be restored to him "
+        },
+        {
+          "choice": " The LORD would pour out his blessings upon him "
+        },
+        {
+          "choice": " Not a hair of his head would fall to the ground "
+        }
+      ],
+      "answer": " Not a hair of his head would fall to the ground ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did Solomon send Adonijah after he came down from grabbing onto the hors of the altar? (1 Kgs 1:53)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To the temple to worship "
+        },
+        {
+          "choice": " To the palace prison "
+        },
+        {
+          "choice": " Exiled out of the city gate "
+        },
+        {
+          "choice": " Home "
+        }
+      ],
+      "answer": " Home ",
+      "type": "epi_5"
+    }
+  ]
+}

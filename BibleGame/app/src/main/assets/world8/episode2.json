@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " After the midwives, how did Pharaoh seek to kill the Israelite baby boys (Ex. 1:22)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bury them in the mud"
+        },
+        {
+          "choice": " Not feed them"
+        },
+        {
+          "choice": " Throw them into the river"
+        },
+        {
+          "choice": " Expose them out on the hillside"
+        }
+      ],
+      "answer": " Throw them into the river ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Moses' parents were of what tribe in Israel (Ex. 2:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Judah "
+        },
+        {
+          "choice": " Levi "
+        },
+        {
+          "choice": " Ephraim "
+        },
+        {
+          "choice": " Asher "
+        }
+      ],
+      "answer": " Levi ",
+      "type": "epi_2"
+    },
+    {
+      "question": " For how many months did Moses' mother hide him (Ex. 2:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 1 month "
+        },
+        {
+          "choice": " 2 months "
+        },
+        {
+          "choice": " 3 months "
+        },
+        {
+          "choice": " 4 months "
+        }
+      ],
+      "answer": " 3 months ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What was the basket made out of that Moses' mother put him in (Ex. 2:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Papyrus "
+        },
+        {
+          "choice": " Bark "
+        },
+        {
+          "choice": " Wood "
+        },
+        {
+          "choice": " Animal hides "
+        }
+      ],
+      "answer": " Papyrus ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who watched the basket with baby Moses in it (Ex. 2:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " His brother "
+        },
+        {
+          "choice": " His mother "
+        },
+        {
+          "choice": " His father "
+        },
+        {
+          "choice": " His sister "
+        }
+      ],
+      "answer": " His sister ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who discovered Moses in the basket in the Nile River (Ex. 2:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Potiphar's wife "
+        },
+        {
+          "choice": " Pharaoh's daughter "
+        },
+        {
+          "choice": " Pharaoh's wife "
+        },
+        {
+          "choice": "  Pharaoh's servant girls "
+        }
+      ],
+      "answer": " Pharaoh's daughter ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The one finding Moses in the Nile desired that who should rear the young child (Ex. 2:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Her mother "
+        },
+        {
+          "choice": " His sister "
+        },
+        {
+          "choice": " A Hebrew woman "
+        },
+        {
+          "choice": " The Egyptian nurses "
+        }
+      ],
+      "answer": " A Hebrew woman ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Pharaoh's daughter named the baby Moses because (Ex. 2:10) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He came to her in the Nile "
+        },
+        {
+          "choice": " He was a basket boy "
+        },
+        {
+          "choice": " He was delivered from Pharaoh's command "
+        },
+        {
+          "choice": " She drew him out of the water "
+        }
+      ],
+      "answer": " She drew him out of the water ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Why did Moses kill the Egyptian (Ex. 2:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He was beating a Hebrew "
+        },
+        {
+          "choice": " He was killing a Hebrew "
+        },
+        {
+          "choice": " He was killing Hebrew babies "
+        },
+        {
+          "choice": " He was the taskmaster enslaving the Hebrews "
+        }
+      ],
+      "answer": " He was beating a Hebrew ",
+      "type": "epi_2"
+    },
+    {
+      "question": " When Moses stopped the two Hebrews from fighting, what did they say to him that scared him (Ex. 2:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Why did you kill the Egyptian yesterday? "
+        },
+        {
+          "choice": " We will tell Pharaoh what you did "
+        },
+        {
+          "choice": " You are not our deliverer "
+        },
+        {
+          "choice": " Are you going to kill me like you did the Egyptian? "
+        }
+      ],
+      "answer": " Are you going to kill me like you did the Egyptian? ",
+      "type": "epi_2"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Why did the angel of the LORD command Moses to take off his sandals (Ex. 3:5)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Because he was to be the servant of the LORD"
+        },
+        {
+          "choice": " Because the place was holy ground"
+        },
+        {
+          "choice": " Because it was necessary for the LORD to visit Moses"
+        },
+        {
+          "choice": " Because the people in Egypt were bare foot"
+        }
+      ],
+      "answer": " Because the place was holy ground ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How did God initially identify himself from the burning bush (Ex. 3:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " God of your father "
+        },
+        {
+          "choice": " God of all "
+        },
+        {
+          "choice": " Lord of heaven and earth "
+        },
+        {
+          "choice": " God of Joseph "
+        }
+      ],
+      "answer": " God of your father ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Why did Moses hide his face after God spoke to him from the bush (Ex. 3:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He realized he was sinful "
+        },
+        {
+          "choice": " He humbled himself before God "
+        },
+        {
+          "choice": " He was afraid to look at God "
+        },
+        {
+          "choice": " He was afraid he was too close to God "
+        }
+      ],
+      "answer": " He was afraid to look at God ",
+      "type": "epi_4"
+    },
+    {
+      "question": " All of the following were cited as reasons why God was appearing to Moses in the bush EXCEPT (Ex. 3:7) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He had seen the misery of his people in Egypt "
+        },
+        {
+          "choice": " He had witnessed Pharaoh's attempt to kill Israel's children "
+        },
+        {
+          "choice": " He had heard them cry out because of their slave drivers "
+        },
+        {
+          "choice": " He was concerned about their suffering "
+        }
+      ],
+      "answer": " He had witnessed Pharaoh's attempt to kill Israel's children ",
+      "type": "epi_4"
+    },
+    {
+      "question": " God was about to rescue Israel to bring them into a land _______ ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Filled with wheat and barley "
+        },
+        {
+          "choice": " Flowing with streams and rivers "
+        },
+        {
+          "choice": " Producing olives and figs "
+        },
+        {
+          "choice": " Flowing with milk and honey "
+        }
+      ],
+      "answer": " Flowing with milk and honey ",
+      "type": "epi_4"
+    },
+    {
+      "question": " God, from the bush, lists all the following inhabitants of Canaan EXCEPT (Ex. 3:8) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Philistines "
+        },
+        {
+          "choice": " Hittites "
+        },
+        {
+          "choice": " Amorites "
+        },
+        {
+          "choice": "  Jebusites "
+        }
+      ],
+      "answer": " Philistines ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What was to be a sign that God would be with Moses (Ex. 3:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He would defeat and humble Pharaoh "
+        },
+        {
+          "choice": " He would worship God on mount Horeb "
+        },
+        {
+          "choice": " He would lead Israel through the Red Sea "
+        },
+        {
+          "choice": " His children would multiply as the sand "
+        }
+      ],
+      "answer": " He would worship God on mount Horeb ",
+      "type": "epi_4"
+    },
+    {
+      "question": " When Moses asked what God's name was, what most sacred name did God respond with (Ex. 3:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " El Shaddai "
+        },
+        {
+          "choice": " I am love "
+        },
+        {
+          "choice": " I am who I am "
+        },
+        {
+          "choice": " The God of your fathers "
+        }
+      ],
+      "answer": " I am who I am ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What was Moses with the elders of Israel to request from Pharaoh (Ex. 3:18)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They go three days into the desert to offer sacrifices to God "
+        },
+        {
+          "choice": " The Egyptians free them to return to the land of Canaan "
+        },
+        {
+          "choice": " Pharaoh give them a sabbatical year for their slavery in Egypt "
+        },
+        {
+          "choice": " Lambs, so they could offer up a Passover to the Lord "
+        }
+      ],
+      "answer": " They go three days into the desert to offer sacrifices to God ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did God say he would have to do before Pharaoh would let the Israelites leave Egypt (Ex. 3:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Turn the Nile River into blood "
+        },
+        {
+          "choice": " Destroy the crops of Egypt in a famine "
+        },
+        {
+          "choice": " Soften Pharaoh's heart "
+        },
+        {
+          "choice": " Strike the Egyptians with wonders "
+        }
+      ],
+      "answer": " Strike the Egyptians with wonders ",
+      "type": "epi_4"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Near what town of Judah did the Danite soldiers camp that was named “Mahaneh Dan (Judg 18:12)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bethshemesh"
+        },
+        {
+          "choice": " Gibeon"
+        },
+        {
+          "choice": " Keilah"
+        },
+        {
+          "choice": " Kiriath Jearim"
+        }
+      ],
+      "answer": " Kiriath Jearim ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What was the camp area called that was west of Kiriath Jearim where the Danite soldiers camped on their way to Laish (Judg 18:12)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rogel Dan"
+        },
+        {
+          "choice": " Mahaneh Dan"
+        },
+        {
+          "choice": " Mispah Dan"
+        },
+        {
+          "choice": " Shiloah Dan"
+        }
+      ],
+      "answer": " Mahaneh Dan ",
+      "type": "epi_4"
+    },
+    {
+      "question": " In what tribal area was the house of Micah (Judg 18:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ephraim "
+        },
+        {
+          "choice": " Judah "
+        },
+        {
+          "choice": " Reuben "
+        },
+        {
+          "choice": " Zebulun "
+        }
+      ],
+      "answer": " Ephraim ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Why did the Danites go to Micah’s house (Judg 18:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He invited them to spend the night there  "
+        },
+        {
+          "choice": " They needed food and water "
+        },
+        {
+          "choice": " For Micah’s ephods and household gods "
+        },
+        {
+          "choice": " Micah was formerly from the tribe of Dan "
+        }
+      ],
+      "answer": " For Micah’s ephods and household gods ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who told the Danite warriors about the idols in Micah’s house (Judg 18:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Micah’s Levite that he had made his priest "
+        },
+        {
+          "choice": " The man of God out of Judah "
+        },
+        {
+          "choice": " A woman at the well of Shechem "
+        },
+        {
+          "choice": " The five Danites who had spied out Laish "
+        }
+      ],
+      "answer": " The five Danites who had spied out Laish ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who did the Danites greet at Micah’s house (Judg 18:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Micah "
+        },
+        {
+          "choice": " Micah’s servant "
+        },
+        {
+          "choice": " Micah’s priest "
+        },
+        {
+          "choice": " Micah’s son "
+        }
+      ],
+      "answer": " Micah’s priest ",
+      "type": "epi_4"
+    },
+    {
+      "question": " The Danites took all of the following EXCEPT ______ from Micah’s house (Judg18:17). ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The carved image "
+        },
+        {
+          "choice": " The incense altar "
+        },
+        {
+          "choice": " The ephod "
+        },
+        {
+          "choice": " The household gods "
+        }
+      ],
+      "answer": "The incense altar ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who took the idols from Micah’s house (Judg 18:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " All of the Danite warriors "
+        },
+        {
+          "choice": " The young Levite who had become Micah’s priest "
+        },
+        {
+          "choice": " The five Danites who had spied out the land "
+        },
+        {
+          "choice": " The Lord "
+        }
+      ],
+      "answer": " The five Danites who had spied out the land ",
+      "type": "epi_4"
+    },
+    {
+      "question": " In the narrative who objected to the Danites taking Micah’s household gods (Judg 18:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Levite whom Micah had made a priest "
+        },
+        {
+          "choice": " Micah’s mother "
+        },
+        {
+          "choice": " Micah "
+        },
+        {
+          "choice": " The Danites who had spied out the land "
+        }
+      ],
+      "answer": " The Levite whom Micah had made a priest ",
+      "type": "epi_4"
+    },
+    {
+      "question": " According to the Danite spies reasoning with Micah’s Levite priest, what would be better for the Levite (Judg 18:19)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To serve a tribe rather than one man "
+        },
+        {
+          "choice": " To die rather than stay with Micah "
+        },
+        {
+          "choice": " To serve the Lord rather than serving idols "
+        },
+        {
+          "choice": " To travel to Laish and live in prosperity among them "
+        }
+      ],
+      "answer": " To serve a tribe rather than one man ",
+      "type": "epi_4"
+    }
+  ]
+}

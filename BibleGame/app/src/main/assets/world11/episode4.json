@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What request did Nehemiah make to the Lord besides that God remember him for what he did (Neh 13:14)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " That God bless his people Israel"
+        },
+        {
+          "choice": " That God forgive the sins of Israel"
+        },
+        {
+          "choice": " That God condemn Tobiah and Sanballat"
+        },
+        {
+          "choice": " That God not blot out what he had so faithfully done"
+        }
+      ],
+      "answer": " That God not blot out what he had so faithfully done ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Nehemiah warn the men of Judah of (Neh 13:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To close the gates of Jerusalem every night "
+        },
+        {
+          "choice": " Selling food on the Sabbath "
+        },
+        {
+          "choice": " Caring for the Levites and the priests "
+        },
+        {
+          "choice": " Drinking wine when they were in the temple "
+        }
+      ],
+      "answer": " Selling food on the Sabbath ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Nehemiah see the men of Judah doing on the Sabbath (Neh 13:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Plowing their fields "
+        },
+        {
+          "choice": " Winnowing the wheat "
+        },
+        {
+          "choice": " Treading winepresses "
+        },
+        {
+          "choice": " Cutting the grain "
+        }
+      ],
+      "answer": " Treading winepresses ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What were the men of Tyre doing in Jerusalem (Neh 13:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Buying the men of Judah as slaves "
+        },
+        {
+          "choice": " Selling fish on the Sabbath "
+        },
+        {
+          "choice": " Cutting the cedars of Lebanon on the Sabbath "
+        },
+        {
+          "choice": " Offering sacrifices to Baal "
+        }
+      ],
+      "answer": " Selling fish on the Sabbath ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who did Nehemiah say “What is this wicked thing you are doing—desecrating the Sabbath day?” to (Neh 13:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests "
+        },
+        {
+          "choice": " The Levites "
+        },
+        {
+          "choice": " The nobles "
+        },
+        {
+          "choice": " The foreigners "
+        }
+      ],
+      "answer": " The nobles ",
+      "type": "epi_4"
+    },
+    {
+      "question": " To what did Nehemiah attribute all the calamity coming on Jerusalem (Neh 13:18)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Violating the Sabbath "
+        },
+        {
+          "choice": " Worshipping other gods "
+        },
+        {
+          "choice": " Not keeping the feasts of Israel "
+        },
+        {
+          "choice": "  Not keeping the temple pure "
+        }
+      ],
+      "answer": " Violating the Sabbath ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Nehemiah order to be done on the Sabbath (Neh 13:19)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The people all appear at the temple "
+        },
+        {
+          "choice": " The gates to be shut until the Sabbath was over "
+        },
+        {
+          "choice": " The guards on the walls to not let anyone enter Jerusalem "
+        },
+        {
+          "choice": " The fields be abandoned on the Sabbath "
+        }
+      ],
+      "answer": " The gates to be shut until the Sabbath was over ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who spent the night by the walls of Jerusalem (Neh 13:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests and Levites "
+        },
+        {
+          "choice": " The singers and temple servants "
+        },
+        {
+          "choice": " The merchants and sellers "
+        },
+        {
+          "choice": " The enemies of Israel "
+        }
+      ],
+      "answer": " The merchants and sellers ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How did Nehemiah threatened the merchants that spent the night outside of the walls (Neh 13:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He would send his guards out after them "
+        },
+        {
+          "choice": " He would burn their goods "
+        },
+        {
+          "choice": " He would put them in prison "
+        },
+        {
+          "choice": " He would lay his hands on them "
+        }
+      ],
+      "answer": " He would lay his hands on them ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who did Nehemiah order to purify themselves and guard the gates on the Sabbath (Neh 13:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests "
+        },
+        {
+          "choice": " The Levites "
+        },
+        {
+          "choice": " The temple servants "
+        },
+        {
+          "choice": " The gatekeepers "
+        }
+      ],
+      "answer": " The Levites ",
+      "type": "epi_4"
+    }
+  ]
+}

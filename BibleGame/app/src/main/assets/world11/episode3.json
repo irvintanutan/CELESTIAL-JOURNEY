@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What evil thing did Eliashib do while Nehemiah was gone (Neh 13:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Spent the tithes and offerings on himself"
+        },
+        {
+          "choice": " Gave Tobiah a room in the courts of the house of God"
+        },
+        {
+          "choice": "Opened the gates and allowed foreigners to enter Jerusalem"
+        },
+        {
+          "choice": " Would not distribute the food supplies to the Levites"
+        }
+      ],
+      "answer": " Gave Tobiah a room in the courts of the house of God ",
+      "type": "epi_3"
+    },
+    {
+      "question": " In what year of Artaxerxes did Nehemiah return to the king (Neh 13:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 15th "
+        },
+        {
+          "choice": " 23rd "
+        },
+        {
+          "choice": " 30th "
+        },
+        {
+          "choice": " 32nd "
+        }
+      ],
+      "answer": " 32nd ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Nehemiah says Artaxerxes was king of _______ when he returned after rebuilding the walls of Jerusalem (Neh 13:6)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Persia "
+        },
+        {
+          "choice": " Susa "
+        },
+        {
+          "choice": " Nineveh "
+        },
+        {
+          "choice": " Babylon"
+        }
+      ],
+      "answer": " Babylon ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What did Nehemiah do when he returned from being with Artaxerxes after he had rebuilt the walls (Neh 13:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He threw all Tobiah’s household goods out of the storeroom "
+        },
+        {
+          "choice": " He built defenses against Tobiah and Sanballat "
+        },
+        {
+          "choice": " He built a palace for himself "
+        },
+        {
+          "choice": " He gave supplies from Artaxerxes to the fatherless and widows "
+        }
+      ],
+      "answer": " He threw all Tobiah’s household goods out of the storeroom ",
+      "type": "epi_3"
+    },
+    {
+      "question": " To whom had the assigned portions not been given when Nehemiah was away (Neh 13:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests "
+        },
+        {
+          "choice": " The Levites "
+        },
+        {
+          "choice": " The gatekeepers "
+        },
+        {
+          "choice": " The guards "
+        }
+      ],
+      "answer": " The Levites ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When the Levites were not given their allotted portions how did they respond (Neh 13:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They wrote a letter to Nehemiah "
+        },
+        {
+          "choice": " They refused to do the work of the temple "
+        },
+        {
+          "choice": " They protested to Ezra the scribe "
+        },
+        {
+          "choice": "  They went back to their own fields "
+        }
+      ],
+      "answer": "  They went back to their own fields ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When Nehemiah found out the Levites were not receiving their allotments what did he ask the officals (Neh 13:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Why is the house of God neglected? "
+        },
+        {
+          "choice": " Why have you neglected the Levites who serve God? "
+        },
+        {
+          "choice": " What have you done with the tithes and offerings? "
+        },
+        {
+          "choice": " How could you defy the Lord your God? "
+        }
+      ],
+      "answer": " Why is the house of God neglected? ",
+      "type": "epi_3"
+    },
+    {
+      "question": " After Nehemiah came back all Judah brought tithes of all of the following EXCEPT (Neh 13:11)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Honey"
+        },
+        {
+          "choice": " New wine "
+        },
+        {
+          "choice": " Grain "
+        },
+        {
+          "choice": " Oil "
+        }
+      ],
+      "answer": " Honey ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Nehemiah after he returned put over the storerooms all of the following EXCEPT (Neh 13:13) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Shelemiah the priest "
+        },
+        {
+          "choice": " Zadok the scribe "
+        },
+        {
+          "choice": " Eliphaz the gatekeeper "
+        },
+        {
+          "choice": " Pedaiah the Levite "
+        }
+      ],
+      "answer": " Eliphaz the gatekeeper ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Why did Nehemiah put Zadok the scribe over the storerooms (Neh 13:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Because he was considered trustworthy "
+        },
+        {
+          "choice": " Because he was the chief officer "
+        },
+        {
+          "choice": " Because he feared the Lord "
+        },
+        {
+          "choice": " Because he knew the Book of the Law "
+        }
+      ],
+      "answer": " Because he was considered trustworthy ",
+      "type": "epi_3"
+    }
+  ]
+}

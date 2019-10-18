@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " In what direction does the Jordan River flow?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " East to west "
+        },
+        {
+          "choice": " West to east "
+        },
+        {
+          "choice": " North to south "
+        },
+        {
+          "choice": " South to north "
+        }
+      ],
+      "answer": " North to south ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where does the Jordan River end?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Into the Sea of Galilee "
+        },
+        {
+          "choice": " Into the Mediterranean Sea "
+        },
+        {
+          "choice": " Into the Dead Sea "
+        },
+        {
+          "choice": " Into the Nile River "
+        }
+      ],
+      "answer": " Into the Dead Sea ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What River was Moses taken out of when he was an infant?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Nile River "
+        },
+        {
+          "choice": " The Sinai River "
+        },
+        {
+          "choice": " The Jabbok River "
+        }
+      ],
+      "answer": " The Nile River ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Near the ford of which river did the LORD change Jacob's name to Israel? (Genesis 32:22-28) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jabbok River "
+        },
+        {
+          "choice": " The Nile River "
+        },
+        {
+          "choice": " The Euphrates River "
+        },
+        {
+          "choice": " The Tigris River "
+        }
+      ],
+      "answer": " The Jabbok River ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What two rivers of Damascus are mentioned in the Bible? (2 Kings 5:11-12 KJV)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abana and Pharpar "
+        },
+        {
+          "choice": " Tigris and Euphrates Eve "
+        },
+        {
+          "choice": " Damascus and Syria "
+        },
+        {
+          "choice": " Lebanon and Hermon "
+        }
+      ],
+      "answer": " Abana and Pharpar ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What will be the source of the great river in the Kingdom of God? (Revelation 21:1 KJV)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jerusalem "
+        },
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Sea of Galilee "
+        },
+        {
+          "choice": " Out of the throne of God and of the Lamb "
+        }
+      ],
+      "answer": " Out of the throne of God and of the Lamb ",
+      "type": "epi_4"
+    },
+    {
+      "question": " On which creative day did God make the sun, moon, and stars? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 2 "
+        },
+        {
+          "choice": " 4 "
+        },
+        {
+          "choice": " 6 "
+        },
+        {
+          "choice": " 7 "
+        }
+      ],
+      "answer": " 4 ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How did God describe His creation when He saw everything that He had made? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Glorious"
+        },
+        {
+          "choice": "Good"
+        },
+        {
+          "choice": "Magnificent"
+        },
+        {
+          "choice": "Very Good"
+        }
+      ],
+      "answer": " Very Good ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did God do on the seventh day? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Created animals "
+        },
+        {
+          "choice": " Created light "
+        },
+        {
+          "choice": " Created man "
+        },
+        {
+          "choice": " None of the above "
+        }
+      ],
+      "answer": " None of the above ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Of what did God make a woman? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Dust "
+        },
+        {
+          "choice": " Light "
+        },
+        {
+          "choice": " Rib "
+        },
+        {
+          "choice": " Water "
+        }
+      ],
+      "answer": " Rib ",
+      "type": "epi_4"
+    }
+  ]
+}

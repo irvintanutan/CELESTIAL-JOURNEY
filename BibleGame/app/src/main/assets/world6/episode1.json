@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Where was Micah from (Judg 17:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The hill country of Ephraim "
+        },
+        {
+          "choice": " The hill country of Judah "
+        },
+        {
+          "choice": " The desert of the Negev "
+        },
+        {
+          "choice": " The valley of Jezreel "
+        }
+      ],
+      "answer": " The hill country of Ephraim ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Who took the silver from his mother (Judg 17:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ephraim "
+        },
+        {
+          "choice": " Samson "
+        },
+        {
+          "choice": " Micah "
+        },
+        {
+          "choice": " The Levite "
+        }
+      ],
+      "answer": " Micah ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How much silver did Micah take from his mother (Judg 17:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Twelve thousand shekels of silver "
+        },
+        {
+          "choice": " Eleven hundred shekels of silver "
+        },
+        {
+          "choice": " Seven talents of silver "
+        },
+        {
+          "choice": " Five talents of silver "
+        }
+      ],
+      "answer": " Eleven hundred shekels of silver ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did Micah’s mother do after he returned the silver (Judg 17:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Consecrated it to the Lord "
+        },
+        {
+          "choice": " Gave it away "
+        },
+        {
+          "choice": " Kept it hidden from Micah "
+        },
+        {
+          "choice": " Buried it in a cave "
+        }
+      ],
+      "answer": " Consecrated it to the Lord ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was Micah to do with the silver he returned to his mother (Judg 17:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Give it away "
+        },
+        {
+          "choice": " Use it to pay taxes "
+        },
+        {
+          "choice": " Cast an idol out of it "
+        },
+        {
+          "choice": " Overlay an image with it "
+        }
+      ],
+      "answer": " Overlay an image with it ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How much of the silver did Micah’s mother use to make the idol (Judg 17:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Two hundred shekels of silver "
+        },
+        {
+          "choice": " Eleven hundred shekels of silver "
+        },
+        {
+          "choice": " Five hundred shekels of silver "
+        },
+        {
+          "choice": " One hundred shekels of silver "
+        }
+      ],
+      "answer": " Two hundred shekels of silver ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Where did Micah put the idol made from the silver (Judg 17:5)?? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In his house "
+        },
+        {
+          "choice": " In the temple "
+        },
+        {
+          "choice": " Gave it back to his mother "
+        },
+        {
+          "choice": " Gave it to the priest "
+        }
+      ],
+      "answer": " In his house ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Who did Micah install as his priest (Judg 17:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The city scribe "
+        },
+        {
+          "choice": " His uncle "
+        },
+        {
+          "choice": " His son "
+        },
+        {
+          "choice": " His father "
+        }
+      ],
+      "answer": " His son ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was paralleled with the observation that everyone did as they saw fit (Judg17:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They were wicked and evil "
+        },
+        {
+          "choice": " God had given them permission "
+        },
+        {
+          "choice": " The was no priest "
+        },
+        {
+          "choice": " There was no king "
+        }
+      ],
+      "answer": " There was no king ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Where was the young Levite who visited Micah from? (Judg 17:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bethlehem "
+        },
+        {
+          "choice": " Dan "
+        },
+        {
+          "choice": " Beersheba "
+        },
+        {
+          "choice": " Jerusalem "
+        }
+      ],
+      "answer": " Bethlehem ",
+      "type": "epi_1"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+
+{
+  "task":[
+
+    {
+      "question":" Moses would be like what to Aaron when they returned to Egypt (Ex. 4:16)?",
+      "time": "30000",
+      "choices": [
+        {"choice": " A prophet"},
+        {"choice": " An angel"},
+        {"choice": " A priest"},
+        {"choice": " A god"}
+      ],
+      "answer": " A god ",
+      "type":"epi_1"
+    },
+
+
+
+
+    {
+      "question":" After God's call to Moses at the burning bush, what did Moses tell Jethro was his reason for returning to Egypt (Ex. 4:18)? ",
+      "time":"30000",
+      "choices": [
+        {"choice":" He wanted to see if any of his people were still alive "},
+        {"choice":" God had commanded him to return "},
+        {"choice":" God was going to deliver the Israelites from Egypt "},
+        {"choice":" He was going to tell Pharaoh to let my people go "}
+      ],
+      "answer":" He wanted to see if any of his people were still alive ",
+      "type":"epi_1"
+    }
+
+,
+
+    {
+      "question":  " What did Moses carry in his hand as he returned to Egypt (Ex. 4:20)? ",
+      "time": "30000",
+      "choices": [
+        {"choice": " His son "},
+        {"choice": " The scroll of God's word "},
+        {"choice": " The staff of God "},
+        {"choice": " A flame of fire "}
+      ],
+      "answer": " The staff of God ",
+      "type": "epi_1"
+    }
+
+,
+
+
+    {
+      "question":" Moses was to tell Pharaoh, Israel was God's ________ (Ex. 4:22) ",
+      "time":"30000",
+      "choices":[
+        {"choice":" Sheep "},
+        {"choice":" Firstborn "},
+        {"choice": " Chosen "},
+        {"choice": " Servant "}
+      ],
+      "answer": " Firstborn ",
+      "type": "epi_1"
+    }
+,
+
+
+    {
+      "question": " As Moses was returning to Egypt, what did Zipporah, his wife, do (Ex. 4:25)? ",
+      "time": "30000",
+      "choices": [
+        {"choice":" She cut off her son's foreskin with a flint knife "},
+        {"choice":" She rebelled against Moses and returned home "},
+        {"choice":" She carried Moses' staff "},
+        {"choice":" She brought Moses' son to him for his blessing "}
+      ],
+      "answer": " She cut off her son's foreskin with a flint knife ",
+      "type": "epi_1"
+    }
+,
+        {
+          "question": " Who said Bridegroom of blood (Ex. 4:26)? ",
+          "time": "30000",
+          "choices": [
+            {"choice": " Miriam "},
+            {"choice": " Asenath "},
+            {"choice": " Pharaoh's daughter "},
+            {"choice":"  Zipporah "}
+          ],
+          "answer": "  Zipporah ",
+          "type": "epi_1"
+        }
+,
+
+
+        {
+          "question":" When Moses performed the sign miracles for the Israelite elders, what was their response (Ex. 4:31)? ",
+          "time": "30000",
+          "choices": [
+            {"choice": " They spoke against Moses "},
+            {"choice": " They feared what Pharaoh would do to them "},
+            {"choice": " They believed "},
+            {"choice": " They rejoiced "}
+          ],
+          "answer": " They believed ",
+          "type":"epi_1"
+        }
+,
+
+
+        {
+          "question": " Who tried to kill Moses as he returned to Egypt (Ex. 4:24)? ",
+          "time": "30000",
+          "choices": [
+            {"choice": " Zipporah "},
+            {"choice": " Aaron "},
+            {"choice": " Pharaoh "},
+            {"choice": " God "}
+          ],
+          "answer": " God ",
+          "type":"epi_1"
+        }
+,
+
+
+        {
+          "question": " What did Zipporah touch with her son's foreskin (Ex. 4:25)? ",
+          "time": "30000",
+          "choices": [
+            {"choice": " Moses' staff "},
+            {"choice": " Moses' feet "},
+            {"choice": " Moses' hand "},
+            {"choice": " The ground "}
+          ],
+          "answer": " Moses' feet ",
+          "type": "epi_1"
+        }
+
+
+,
+
+
+        {
+          "question": " Moses told Pharaoh that God wanted him to let the Israelites go, so they could (Ex. 5:1) ",
+          "time": "30000",
+          "choices": [
+            {"choice": " Return to Canaan "},
+            {"choice": " Hold a festival to God in the desert "},
+            {"choice": " Leave Egypt with wealth in payment for their slavery "},
+            {"choice": " Go to Sinai to receive God's law "}
+          ],
+          "answer": " Hold a festival to God in the desert ",
+          "type":  "epi_1"
+        }
+
+
+]}

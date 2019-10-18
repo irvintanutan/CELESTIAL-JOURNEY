@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " At what gate did the leaders walking on the wall continue up the steps into the City of David (Neh 12:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Dung Gate "
+        },
+        {
+          "choice": " The Water Gate "
+        },
+        {
+          "choice": " The Sheep Gate "
+        },
+        {
+          "choice": " The Fountain Gate "
+        }
+      ],
+      "answer": " The Fountain Gate ",
+      "type": "epi_5"
+    },
+    {
+      "question": " At the Fountain Gate the leaders on the wall went up the steps of ______ (Neh 12:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The City of David "
+        },
+        {
+          "choice": " The spring of Gihon "
+        },
+        {
+          "choice": " The Ophel "
+        },
+        {
+          "choice": " The temple "
+        }
+      ],
+      "answer": " The City of David ",
+      "type": "epi_5"
+    },
+    {
+      "question": " From the Fountain Gate the leaders walking on the wall passed what gate next (Neh12:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Dung Gate "
+        },
+        {
+          "choice": " The Water Gate "
+        },
+        {
+          "choice": " The Sheep Gate "
+        },
+        {
+          "choice": " . The Lions’ Gate "
+        }
+      ],
+      "answer": " The Water Gate ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Whose house did the leaders traveling on the wall on the east go by (Neh 12:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Solmon’s "
+        },
+        {
+          "choice": " Nehemiah’s "
+        },
+        {
+          "choice": " Ezra’s "
+        },
+        {
+          "choice": " David’s "
+        }
+      ],
+      "answer": " David’s ",
+      "type": "epi_5"
+    },
+    {
+      "question": " With which choir on the wall did Nehemiah himself go (Neh 12:38)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The first one that went by the Fountain Gate "
+        },
+        {
+          "choice": " The second one that went to the Ephraim Gate "
+        },
+        {
+          "choice": " The third on that went to the Fish Gate "
+        },
+        {
+          "choice": " The fourth one that went to the temple "
+        }
+      ],
+      "answer": " The second one that went to the Ephraim Gate ",
+      "type": "epi_5"
+    },
+    {
+      "question": " To what wall did the second choir go (Neh 12:38)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Tall Wall "
+        },
+        {
+          "choice": " The Stepped Wall "
+        },
+        {
+          "choice": " The Broad Wall "
+        },
+        {
+          "choice": " The south wall "
+        }
+      ],
+      "answer": " The Broad Wall ",
+      "type": "epi_5"
+    },
+    {
+      "question": " The second choir traveling on the wall when to which tower (Neh 12:38)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Tower of Goliath "
+        },
+        {
+          "choice": " The Tower of the Essenes "
+        },
+        {
+          "choice": " The Corner Tower "
+        },
+        {
+          "choice": " The Tower of the Ovens "
+        }
+      ],
+      "answer": " The Tower of the Ovens ",
+      "type": "epi_5"
+    },
+    {
+      "question": " All of the following gates were traversed by the second choir EXCEPT (Neh 12:39) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Gate of Ephraim "
+        },
+        {
+          "choice": " The Water Gate "
+        },
+        {
+          "choice": " The Gate of Jeshanah "
+        },
+        {
+          "choice": " The Fish Gate "
+        }
+      ],
+      "answer": " The Water Gate ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What two towers did the second choir pass while traversing the wall (Neh 12:39)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Tower of Hananel and the Tower of the Hundred "
+        },
+        {
+          "choice": " The Tower of Asaph and the Tower of the Three Hundred "
+        },
+        {
+          "choice": " The Tower of Goliath and the Tower of David "
+        },
+        {
+          "choice": " The Tower of Ephraim and the Tower of the Citadel "
+        }
+      ],
+      "answer": " The Tower of Hananel and the Tower of the Hundred ",
+      "type": "epi_5"
+    },
+    {
+      "question": "At what gate did the second choir stop (Neh 12:39)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Gate of Ephraim "
+        },
+        {
+          "choice": " The Gate of the Guard "
+        },
+        {
+          "choice": " The Gate of Jeshanah"
+        },
+        {
+          "choice": " The Fish Gate"
+        }
+      ],
+      "answer": " The Gate of the Guard ",
+      "type": "epi_5"
+    }
+  ]
+}

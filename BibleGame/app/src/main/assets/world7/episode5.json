@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What role in the kingdom did Darius son of Xerxes have (Dan 9:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He ruled over Judah and Jerusalem "
+        },
+        {
+          "choice": " He was made ruler over the Babylonian kingdom "
+        },
+        {
+          "choice": " He ruled from Susa over the Medes and the Persians "
+        },
+        {
+          "choice": " He sat on the throne of his father for time, times and ½ time "
+        }
+      ],
+      "answer": " He was made ruler over the Babylonian kingdom ",
+      "type": "epi_5"
+    },
+    {
+      "question": " When Daniel realized the seventy years of Jerusalem’s desolation were up he pleaded to God in prayer with all of the following EXCEPT (Dan 9:3) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Fasting "
+        },
+        {
+          "choice": " Anointed his head with oil "
+        },
+        {
+          "choice": " Sackcloth "
+        },
+        {
+          "choice": " Ashes "
+        }
+      ],
+      "answer": " Anointed his head with oil ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How did Daniel address God in his prayer over the seventy years (Dan 9:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " As the Most High God "
+        },
+        {
+          "choice": " As the One who freed his people from their bondage "
+        },
+        {
+          "choice": " As the one who keeps his covenant of love "
+        },
+        {
+          "choice": " As the maker of heaven and earth "
+        }
+      ],
+      "answer": " As the one who keeps his covenant of love ",
+      "type": "epi_5"
+    },
+    {
+      "question": " With whom does God keep his covenant of love (Dan 9:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " With those who love him and obey his commands "
+        },
+        {
+          "choice": " With those who walk in his ways "
+        },
+        {
+          "choice": " With the righteous and holy people of God "
+        },
+        {
+          "choice": " With those giving justice to the fatherless and widows "
+        }
+      ],
+      "answer": "With those who love him and obey his commands ",
+      "type": "epi_5"
+    },
+    {
+      "question": " When Daniel is confessing the sins of the nation in regard to the seventy years of exile he uses all of the following terms EXCEPT (Dan 9:5) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Wicked"
+        },
+        {
+          "choice": " Rebelled"
+        },
+        {
+          "choice": " Sinned"
+        },
+        {
+          "choice": " Fell short"
+        }
+      ],
+      "answer": " Fell short ",
+      "type": "epi_5"
+    },
+    {
+      "question": " To whom does Daniel say Israel had not listened (Dan 9:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Book of the Law "
+        },
+        {
+          "choice": " The Levitical teachers of Israel "
+        },
+        {
+          "choice": " God’s servants the prophets "
+        },
+        {
+          "choice": " The visions and dreams God had sent "
+        }
+      ],
+      "answer": " God’s servants the prophets ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Daniel says in his prayer of confession that the prophets had spoken to all of the following groups EXCEPT (Dan 9:6) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Priests "
+        },
+        {
+          "choice": " Kings "
+        },
+        {
+          "choice": " Princes "
+        },
+        {
+          "choice": " Our fathers "
+        }
+      ],
+      "answer": " Priests ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Why does Daniel admit that the men of Judah were covered with shame (Dan 9:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Because they did not believe God "
+        },
+        {
+          "choice": " Because of their unfaithfulness "
+        },
+        {
+          "choice": " Because they worshipped other gods "
+        },
+        {
+          "choice": " Because they fell short of God’s kingdom "
+        }
+      ],
+      "answer": " Because of their unfaithfulness ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Daniel lists all of the following as being covered with shame because of their sin EXCEPT (Dan 9:8) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kings "
+        },
+        {
+          "choice": " Princes "
+        },
+        {
+          "choice": " Our fathers "
+        },
+        {
+          "choice": " Priests "
+        }
+      ],
+      "answer": " Priests ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How does Daniel say God gave them his law (Dan 9:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He wrote it with his finger on stone "
+        },
+        {
+          "choice": " He put it in the ark of the covenant "
+        },
+        {
+          "choice": " He gave it to them through the prophets "
+        },
+        {
+          "choice": " He had it written down and read by the Levites "
+        }
+      ],
+      "answer": " He gave it to them through the prophets ",
+      "type": "epi_5"
+    }
+  ]
+}

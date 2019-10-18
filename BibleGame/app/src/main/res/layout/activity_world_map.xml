@@ -9,13 +9,143 @@
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/map1"
-        android:layout_width="@dimen/_160sdp"
-        android:layout_height="@dimen/_160sdp"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
         android:layout_alignParentLeft="true"
-        android:layout_marginTop="@dimen/_370sdp"
-        android:layout_marginLeft="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_420sdp"
+        android:layout_marginLeft="@dimen/_35sdp"
         >
     </androidx.appcompat.widget.AppCompatImageView>
 
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map2"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="209dp"
+        android:layout_marginTop="@dimen/_400sdp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp">
+
+    </androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map3"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="211dp"
+        android:layout_marginTop="@dimen/_350sdp"
+        android:layout_marginEnd="70dp"
+        android:layout_marginRight="70dp"></androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map4"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="@dimen/_350sdp"
+        android:layout_marginEnd="140dp"
+        android:layout_marginRight="140dp"></androidx.appcompat.widget.AppCompatImageView>
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map5"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="172dp"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:layout_marginEnd="31dp"
+        android:layout_marginRight="31dp"></androidx.appcompat.widget.AppCompatImageView>
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map6"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="@dimen/_280sdp"
+        android:layout_marginEnd="150dp"
+        android:layout_marginRight="150dp"></androidx.appcompat.widget.AppCompatImageView>
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map7"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="130dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="@dimen/_230sdp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"></androidx.appcompat.widget.AppCompatImageView>
+
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map8"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="@dimen/_210sdp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"></androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map9"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/_190sdp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"></androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map10"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="@dimen/_150sdp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"></androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map11"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/_130sdp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"></androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/map12"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_130sdp"
+        android:layout_marginStart="80dp"
+        android:layout_marginLeft="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="@dimen/_100sdp" ></androidx.appcompat.widget.AppCompatImageView>
 
 </RelativeLayout>

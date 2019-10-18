@@ -1,0 +1,215 @@
+{
+  "task": [
+    {
+      "question": "What did God create on the seventh day?  (Genesis 2:2)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Man"
+        },
+        {
+          "choice": "Language "
+        },
+        {
+          "choice": "Woman"
+        },
+        {
+          "choice": "Nothing "
+        }
+      ],
+      "answer": "Nothing ",
+      "type": "epi_3"
+    },
+    {
+      "question": "What did God think of His work? (Genesis 1:31)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "It was sufficient"
+        },
+        {
+          "choice": "It was good"
+        },
+        {
+          "choice": "It was perfect"
+        },
+        {
+          "choice": "It was glorious"
+        }
+      ],
+      "answer": "It was good",
+      "type": "epi_3"
+    },
+    {
+      "question": "What did God call the firmament? (Genesis 1:8)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Earth"
+        },
+        {
+          "choice": "Heaven"
+        },
+        {
+          "choice": "Cloud "
+        },
+        {
+          "choice": "Space "
+        }
+      ],
+      "answer": "Heaven",
+      "type": "epi_3"
+    },
+    {
+      "question": "What did God call the expanse or space He made on the second day to separate the waters above and below (Gen. 1:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Sky/heaven"
+        },
+        {
+          "choice": "Oceans/seas "
+        },
+        {
+          "choice": "Outer space/stars "
+        },
+        {
+          "choice": "Outer space/stars "
+        }
+      ],
+      "answer": "Sky/heaven",
+      "type": "epi_3"
+    },
+    {
+      "question": "After creating the heavens and the earth, what was the first thing God created (Gen 1:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Water"
+        },
+        {
+          "choice": "Land"
+        },
+        {
+          "choice": "Sky "
+        },
+        {
+          "choice": "Light"
+        }
+      ],
+      "answer": "Light",
+      "type": "epi_3"
+    },
+    {
+      "question": "After separating the waters above and below, what happened next to the waters below on day 3 (Gen. 1:9)? The waters were _______  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Lifted up as the land rose "
+        },
+        {
+          "choice": "Frozen under the heavens "
+        },
+        {
+          "choice": "Gathered into one place "
+        },
+        {
+          "choice": "Scattered to the ends of the earth "
+        }
+      ],
+      "answer": "Gathered into one place ",
+      "type": "epi_3"
+    },
+    {
+      "question": "After the waters were fashioned into seas, what appeared on the third day (Gen 1:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The birds and the fish "
+        },
+        {
+          "choice": "The mountains tops"
+        },
+        {
+          "choice": "The hand of the Lord"
+        },
+        {
+          "choice": "The dry land  "
+        }
+      ],
+      "answer": "The dry land  ",
+      "type": "epi_3"
+    },
+    {
+      "question": "What was the land to bring forth (Gen. 1:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Plants and animals "
+        },
+        {
+          "choice": "Plants and trees "
+        },
+        {
+          "choice": "Rocks and hills"
+        },
+        {
+          "choice": "Flowing brooks and rivers   "
+        }
+      ],
+      "answer": "Plants and trees ",
+      "type": "epi_3"
+    },
+    {
+      "question": "What were to mark the seasons and years (Gen 1:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The ocean tides "
+        },
+        {
+          "choice": "The stars and heavens  "
+        },
+        {
+          "choice": "The sun and moon"
+        },
+        {
+          "choice": "The plants and animals  "
+        }
+      ],
+      "answer": "The sun and moon",
+      "type": "epi_3"
+    },
+    {
+      "question": "What did the lesser light rule (Gen. 1:16)?  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The sky"
+        },
+        {
+          "choice": "The night  "
+        },
+        {
+          "choice": "The earth "
+        },
+        {
+          "choice": "The darkness"
+        }
+      ],
+      "answer": "The night  ",
+      "type": "epi_3"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+

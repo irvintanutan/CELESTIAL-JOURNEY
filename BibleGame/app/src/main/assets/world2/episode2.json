@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How did God curse the animal that deceived Eve? (Genesis 3:14)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He bound it to the skies and forbade it to ever perch and rest "
+        },
+        {
+          "choice": " He caused it to be constantly hunted by all other animals "
+        },
+        {
+          "choice": " He forced it to live on the ground and in the dust "
+        },
+        {
+          "choice": " He sent it to live under the ground and never see light "
+        }
+      ],
+      "answer": " He forced it to live on the ground and in the dust ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What does Eve's name mean? (Genesis 3:20)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Mother of all living "
+        },
+        {
+          "choice": " Mother of death "
+        },
+        {
+          "choice": " Blessed mother "
+        },
+        {
+          "choice": " Mother of knowledge"
+        }
+      ],
+      "answer": " Mother of all living ",
+      "type": "epi_2"
+    },
+    {
+      "question": " How did God say mankind was similar to Him? (Genesis 3:22)  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They could know good from evil "
+        },
+        {
+          "choice": " They could feel joy and sorrow "
+        },
+        {
+          "choice": " They would live forever "
+        },
+        {
+          "choice": " They could create life "
+        }
+      ],
+      "answer": " They could know good from evil ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Why did God protect the tree of life?  (Genesis 3:22)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " So that Adam and Eve would not lose the ability to bear children "
+        },
+        {
+          "choice": " So that man would live forever "
+        },
+        {
+          "choice": " To ensure that He could never be destroyed "
+        },
+        {
+          "choice": " So that man couldn't obtain a means to live forever "
+        }
+      ],
+      "answer": " So that Adam and Eve would not lose the ability to bear children ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did God place at the east of the garden of Eden to guard the tree of life? (Genesis 3:24)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A pit of poisonous serpents "
+        },
+        {
+          "choice": " A dragon with seven heads "
+        },
+        {
+          "choice": " Cherubims and a flaming sword "
+        },
+        {
+          "choice": " A seraph with six wings "
+        }
+      ],
+      "answer": " Cherubims and a flaming sword ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did the Lord do for Adam and Eve before He exiled them? (Genesis 3:21)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He fed them "
+        },
+        {
+          "choice": " He clothed them "
+        },
+        {
+          "choice": " He armed them with weapons "
+        },
+        {
+          "choice": " He allowed them to rest "
+        }
+      ],
+      "answer": " He clothed them ",
+      "type": "epi_2"
+    },
+    {
+      "question": " On what day of Creation were the first humans made? (Genesis 1:27,31) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The first day "
+        },
+        {
+          "choice": " The third day "
+        },
+        {
+          "choice": " The sixth day "
+        },
+        {
+          "choice": " The seventh day "
+        }
+      ],
+      "answer": " The sixth day ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where was the first male human created? (Genesis 2:7-8) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In tropical Africa "
+        },
+        {
+          "choice": " Somewhere before the Garden of Eden was planted "
+        },
+        {
+          "choice": " In the Garden of Eden "
+        },
+        {
+          "choice": " The Bible doesn't say "
+        }
+      ],
+      "answer": " Somewhere before the Garden of Eden was planted ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where was the first female human created? (Genesis 2:15,21-25) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In tropical Africa "
+        },
+        {
+          "choice": " Somewhere before the Garden of Eden was planted "
+        },
+        {
+          "choice": " In the Garden of Eden "
+        },
+        {
+          "choice": " The Bible doesn't say "
+        }
+      ],
+      "answer": " In the Garden of Eden ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who was/were the first to be commanded by the LORD to not take of the tree of the knowledge of good and evil? (Genesis 2:15-18) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Adam, before Eve was created "
+        },
+        {
+          "choice": " Eve, on the day she was created "
+        },
+        {
+          "choice": " Adam and Eve, together "
+        },
+        {
+          "choice": " Adam and Eve, separately "
+        }
+      ],
+      "answer": " Adam, before Eve was created ",
+      "type": "epi_2"
+    }
+  ]
+}

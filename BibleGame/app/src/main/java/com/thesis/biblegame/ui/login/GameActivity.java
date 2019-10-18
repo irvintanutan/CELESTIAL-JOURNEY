@@ -30,6 +30,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.preference.PreferenceManager;
 
+import com.bumptech.glide.Glide;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
@@ -108,6 +109,8 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
         //countdown = findViewById(R.id.countDown);
         mProgressBar = findViewById(R.id.progressbar);
         pause = findViewById(R.id.pause);
+        Glide.with(getApplicationContext()).load(new Sprite(GameActivity.this).sprites("sprite_button.png",
+                2, 5).get(2)).into(pause);
 
         txtScore = findViewById(R.id.score);
         life1 = findViewById(R.id.life1);
@@ -151,7 +154,21 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
             LayoutInflater inflater = getLayoutInflater();
             View alertLayout = inflater.inflate(R.layout.pause, null);
 
-            final Button positive = alertLayout.findViewById(R.id.positive);
+            final ImageView resume = alertLayout.findViewById(R.id.resume);
+
+            final ImageView restart = alertLayout.findViewById(R.id.restart);
+
+            final ImageView home = alertLayout.findViewById(R.id.home);
+
+
+            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
+                    2, 5).get(8)).into(resume);
+
+            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
+                    2, 5).get(6)).into(restart);
+
+            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
+                    2, 5).get(5)).into(home);
 
 
             AlertDialog.Builder alert = new AlertDialog.Builder(GameActivity.this);
@@ -160,12 +177,30 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
             // disallow cancel of AlertDialog on click of back button and outside touch
             alert.setCancelable(false);
             final AlertDialog dialog = alert.create();
+            dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
             dialog.show();
 
-            positive.setOnClickListener(v1 -> {
+            resume.setOnClickListener(v1 -> {
 
                 dialog.dismiss();
                 countDownTimer.resume();
+            });
+
+            restart.setOnClickListener(v1 -> {
+
+                dialog.dismiss();
+                life = 3;
+                score = 1;
+                createQuestion();
+
+            });
+
+            home.setOnClickListener(v1 -> {
+
+                dialog.dismiss();
+                startActivity(new Intent(GameActivity.this, Menu.class));
+                finish();
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
             });
 
         });
@@ -264,7 +299,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
 
                 positive.setOnClickListener(v1 -> {
                     dialog.dismiss();
-                    pref = getApplicationContext().getSharedPreferences("MyPref", 0);
+                    pref = getApplicationContext().getSharedPreferences(ModGLobal.worldPref, 0);
                     editor = pref.edit();
 
                     int lastScore = pref.getInt("score", 0);

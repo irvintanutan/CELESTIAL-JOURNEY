@@ -21,8 +21,7 @@ public class HowToPlayActivity extends AppCompatActivity {
 
 
 
-        ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(this, new Sprite(getApplicationContext())
-                .sprites("howtoplay.jpg" , 1 , 5 ));
+        ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(this, ModGLobal.howToSprite);
 
         viewPager.setAdapter(viewPagerAdapter);
     }

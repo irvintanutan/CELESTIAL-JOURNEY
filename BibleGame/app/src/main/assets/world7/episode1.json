@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " In what year of Belshazzar did Daniel have his second vision (Dan 8:1)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Third"
+        },
+        {
+          "choice": " Fifth"
+        },
+        {
+          "choice": " Seventh"
+        },
+        {
+          "choice": " Twelfth"
+        }
+      ],
+      "answer": " Third ",
+      "type": "epi_1"
+    },
+    {
+      "question": " In Daniel’s “Ram and Goat” vision where did he see himself (Dan 8:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bablyon "
+        },
+        {
+          "choice": " Jerusalem "
+        },
+        {
+          "choice": " Susa "
+        },
+        {
+          "choice": " Damascus "
+        }
+      ],
+      "answer": " Susa ",
+      "type": "epi_1"
+    },
+    {
+      "question": " During whose reign did Daniel have his “Ram and Goat” vision (Dan 8:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nebuchadnezzar "
+        },
+        {
+          "choice": " Belshazzar "
+        },
+        {
+          "choice": " Cyrus "
+        },
+        {
+          "choice": " Darius "
+        }
+      ],
+      "answer": " Belshazzar ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Where in Susa did Daniel see himself in the “Ram and Goat” vision (Dan 8:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " By the gate and road to Nuzu "
+        },
+        {
+          "choice": " By the temple of Sulgi god of Susa "
+        },
+        {
+          "choice": " On the wall of Susa "
+        },
+        {
+          "choice": " Beside the Ulai Canal "
+        }
+      ],
+      "answer": " Beside the Ulai Canal ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was standing before Daniel in his vision at the Ulai Canal in Susa (Dan 8:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A lamb with a fleece white as snow "
+        },
+        {
+          "choice": " A ram with two horns "
+        },
+        {
+          "choice": " An ox with a yoke "
+        },
+        {
+          "choice": " A lion with two wings of an eagle "
+        }
+      ],
+      "answer": " A ram with two horns ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was unique about the ram which Daniel saw in his vision (Dan 89:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It had one horn was longer than the other "
+        },
+        {
+          "choice": " It had the legs of a horse "
+        },
+        {
+          "choice": " It flew on the wings of an eagle "
+        },
+        {
+          "choice": "  It walked upright like a man "
+        }
+      ],
+      "answer": " It had one horn was longer than the other ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The ram Daniel saw in his vision charged in all of the following directions EXCEPT (Dan 8:4) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " North "
+        },
+        {
+          "choice": " South "
+        },
+        {
+          "choice": " East "
+        },
+        {
+          "choice": " West "
+        }
+      ],
+      "answer": " East ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Where did the goat come from in Daniel’s vision (Dan 8:5)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " North"
+        },
+        {
+          "choice": " South"
+        },
+        {
+          "choice": " East"
+        },
+        {
+          "choice": " West"
+        }
+      ],
+      "answer": " West ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was unique about how the goat traveled in Daniel’s vision (Dan 8:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It did not touch the earth "
+        },
+        {
+          "choice": " It flew on eagle’s wings "
+        },
+        {
+          "choice": " It rode on the back of the ram "
+        },
+        {
+          "choice": " It was carried on a chariot "
+        }
+      ],
+      "answer": " It did not touch the earth ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did the ram do in Daniel’s vision (Dan 8:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Flew up into the clouds "
+        },
+        {
+          "choice": " Struck and pierced the city wall "
+        },
+        {
+          "choice": " Carried the ram to a safe place "
+        },
+        {
+          "choice": " Struck and shattered the ram’s two horns "
+        }
+      ],
+      "answer": " Struck and shattered the ram’s two horns ",
+      "type": "epi_1"
+    }
+  ]
+}

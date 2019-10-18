@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Who were sought out for the music when the wall of Jerusalem was dedicated (Neh 12:27)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests "
+        },
+        {
+          "choice": " The Levites "
+        },
+        {
+          "choice": " The servants of the temple "
+        },
+        {
+          "choice": " The officials "
+        }
+      ],
+      "answer": " The Levites ",
+      "type": "epi_4"
+    },
+    {
+      "question": " All of the following instruments were mentioned in regard to the dedication of the wall of Jerusalem EXCEPT (Neh 12:27) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Flutes "
+        },
+        {
+          "choice": " Cymbals "
+        },
+        {
+          "choice": " Harps "
+        },
+        {
+          "choice": " Lyres "
+        }
+      ],
+      "answer": " Flutes ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where had the singers settled in the land of Israel (Neh 12:28)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Scattered throughout the tribes of Israel "
+        },
+        {
+          "choice": " In all the Levitical cities "
+        },
+        {
+          "choice": " In villages around Jerusalem "
+        },
+        {
+          "choice": " .In Bethlehem "
+        }
+      ],
+      "answer": " In villages around Jerusalem ",
+      "type": "epi_4"
+    },
+    {
+      "question": " At the dedication of the walls of Jerusalem all of the following were mentioned as purified EXCEPT (Neh 12:30) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests "
+        },
+        {
+          "choice": " The temple "
+        },
+        {
+          "choice": " The Levites "
+        },
+        {
+          "choice": " The people "
+        }
+      ],
+      "answer": " The temple ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where did Nehemiah have the leaders go when the walls were dedicated (Neh 12:31)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " On top of the wall "
+        },
+        {
+          "choice": " Inside the wall "
+        },
+        {
+          "choice": " At the entrance of the city gates "
+        },
+        {
+          "choice": " Outside the wall "
+        }
+      ],
+      "answer": " On top of the wall ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How many choirs did Nehemiah assign to go on the walls of Jerusalem (Neh 12:31)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Five "
+        },
+        {
+          "choice": " Four "
+        },
+        {
+          "choice": " Three "
+        },
+        {
+          "choice": " Two "
+        }
+      ],
+      "answer": " Two ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What two groups did Nehemiah assign to go in opposite directions on top of the wall of Jeusalem (Neh 12:31)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Priests "
+        },
+        {
+          "choice": " Temple servants "
+        },
+        {
+          "choice": " Choirs "
+        },
+        {
+          "choice": " Wall builders "
+        }
+      ],
+      "answer": " Choirs ",
+      "type": "epi_4"
+    },
+    {
+      "question": " The first choir was to go in the direction of what gate on the wall of Jerusalem to the right (Neh 12:31)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Dung Gate "
+        },
+        {
+          "choice": " The Water Gate"
+        },
+        {
+          "choice": " The Sheep Gate "
+        },
+        {
+          "choice": " The Lions’ Gate"
+        }
+      ],
+      "answer": " The Dung Gate ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who prescribed the musical instruments that were played as they walked on the wall of Jerusalem to dedicate it (Neh 12:36)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The sons of Asaph "
+        },
+        {
+          "choice": " Solomon "
+        },
+        {
+          "choice": " David "
+        },
+        {
+          "choice": " The choirmaster "
+        }
+      ],
+      "answer": " David ",
+      "type": "epi_4"
+    },
+    {
+      "question": "Who led the procession on the wall to the right toward Dung Gate (Neh 12:36)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nehemiah "
+        },
+        {
+          "choice": " Hanani "
+        },
+        {
+          "choice": " Eliashib the high priest "
+        },
+        {
+          "choice": " Ezra the scribe "
+        }
+      ],
+      "answer": " Ezra the scribe ",
+      "type": "epi_4"
+    }
+  ]
+}

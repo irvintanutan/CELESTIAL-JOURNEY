@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Which part of the Devil's temptation of Eve was true? (Genesis 3:5,22)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ye shall not surely die "
+        },
+        {
+          "choice": " In the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil "
+        },
+        {
+          "choice": " Fruit from trees "
+        },
+        {
+          "choice": " Vegetables that they worked to grow "
+        }
+      ],
+      "answer": " In the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Which part of the Devil's temptation of Eve was a lie? (Genesis 3:19,22)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ye shall not surely die "
+        },
+        {
+          "choice": " In the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil "
+        },
+        {
+          "choice": " Fruit from trees "
+        },
+        {
+          "choice": " Vegetables that they worked to grow "
+        }
+      ],
+      "answer": " Ye shall not surely die ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What new kind of plants began to grow after the first humans made themselves into sinners? (Genesis 3:17-19)  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Palm trees "
+        },
+        {
+          "choice": " Evergreen trees "
+        },
+        {
+          "choice": " Vegetables "
+        },
+        {
+          "choice": " Weeds "
+        }
+      ],
+      "answer": " Weeds ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What did Adam and Eve eat after they were driven out of the Garden of Eden? (Genesis 9:3)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Fruit from trees "
+        },
+        {
+          "choice": " Vegetables that they worked to grow "
+        },
+        {
+          "choice": " Meat "
+        },
+        {
+          "choice": " Fish "
+        }
+      ],
+      "answer": " Vegetables that they worked to grow ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who made the first leather and fur clothing for Adam and Eve? (Genesis 3:21)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Adam "
+        },
+        {
+          "choice": " Eve "
+        },
+        {
+          "choice": " Cain "
+        },
+        {
+          "choice": " The LORD "
+        }
+      ],
+      "answer": " The LORD ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Where were all of Adam and Eve's children born? (Genesis 3:24, 4:1-2)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In Eden, before the Garden of Eden was planted "
+        },
+        {
+          "choice": " In the Garden of Eden "
+        },
+        {
+          "choice": " Outside of the Garden of Eden after Adam and Eve were expelled from the Garden "
+        },
+        {
+          "choice": " Abel in the Garden of Eden, Cain outside of the Garden of Eden "
+        }
+      ],
+      "answer": " Outside of the Garden of Eden after Adam and Eve were expelled from the Garden ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How many rivers flowed from the Garden of Eden? (Genesis 2:10) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " One "
+        },
+        {
+          "choice": " Two "
+        },
+        {
+          "choice": " Three "
+        },
+        {
+          "choice": " Four "
+        }
+      ],
+      "answer": " One ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Which 4 rivers received their waters from the Garden of Eden? (KJV) (Genesis 2:10-14 KJV) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Pison, Gihon, Hiddekel, Euphrates "
+        },
+        {
+          "choice": " Jordan, Gihon, Hiddekel, Euphrates "
+        },
+        {
+          "choice": " Jordan, Nile, Hiddekel, Euphrates "
+        },
+        {
+          "choice": " Jordan, Gihon, Hiddekel, Euphrates "
+        }
+      ],
+      "answer": " Pison, Gihon, Hiddekel, Euphrates ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What is another name that was given to the Hiddekel River? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Tigris "
+        },
+        {
+          "choice": " Nile "
+        },
+        {
+          "choice": " Jordan "
+        },
+        {
+          "choice": " Euphrates "
+        }
+      ],
+      "answer": " Tigris ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What river flows through the Sea of Galilee? (Genesis 2:15-18) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Tigris River "
+        },
+        {
+          "choice": " The Euphrates River "
+        },
+        {
+          "choice": " The Lebanon River "
+        }
+      ],
+      "answer": " The Jordan River ",
+      "type": "epi_3"
+    }
+  ]
+}

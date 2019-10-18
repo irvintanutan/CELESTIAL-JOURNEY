@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": "What happened to David when he got old (1 Kgs 1:1)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "He could not see"
+        },
+        {
+          "choice": "He could not hear"
+        },
+        {
+          "choice": "He could not stay warm"
+        },
+        {
+          "choice": "He could not walk"
+        }
+      ],
+      "answer": "He could not hear",
+      "type": "epi_1"
+    },
+    {
+      "question": "What did King David initially use to try to keep warm (1Kgs. 1:1)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Sheepskins"
+        },
+        {
+          "choice": "Covers"
+        },
+        {
+          "choice": "Cloaks"
+        },
+        {
+          "choice": "A small fire"
+        }
+      ],
+      "answer": "Covers",
+      "type": "epi_1"
+    },
+    {
+      "question": " What purpose did King David’s servants suggest the young virgin be found who would serve the king (1Kgs. 1:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To feed him "
+        },
+        {
+          "choice": " To keep him company "
+        },
+        {
+          "choice": " To keep him warm "
+        },
+        {
+          "choice": " To wait on him "
+        }
+      ],
+      "answer": " To keep him warm ",
+      "type": "epi_1"
+    },
+    {
+      "question": " After a search was done who did they find to keep David warm (1 Kgs 1:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abigail "
+        },
+        {
+          "choice": " Maacah "
+        },
+        {
+          "choice": " Hamutal "
+        },
+        {
+          "choice": " Abishag "
+        }
+      ],
+      "answer": " Abishag ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Where or what group was Abishag identified with (1 Kgs. 1:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Gibeonites "
+        },
+        {
+          "choice": " Gileadites "
+        },
+        {
+          "choice": " Shilonites "
+        },
+        {
+          "choice": " Shunammites "
+        }
+      ],
+      "answer": " Gileadites ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What was noted about Abishag (1 Kgs 4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " She was very intelligent "
+        },
+        {
+          "choice": " She had no children "
+        },
+        {
+          "choice": " She was very beautiful "
+        },
+        {
+          "choice": " She was the daughter of the king of Ammon "
+        }
+      ],
+      "answer": " She was very beautiful ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How did the text characterize David’s relationship with Abigshag (1 Kgs 1:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He had no relations with her "
+        },
+        {
+          "choice": " He saw her only in winter "
+        },
+        {
+          "choice": " He provided for her food and clothing "
+        },
+        {
+          "choice": " He chose her as his favorite wife "
+        }
+      ],
+      "answer": " He had no relations with her ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Who was Adonijah’s mother (1 Kgs 1:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bathsheba "
+        },
+        {
+          "choice": " Maacha "
+        },
+        {
+          "choice": " Ahinoam "
+        },
+        {
+          "choice": " Haggith "
+        }
+      ],
+      "answer": " Haggith ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did Adonijah, David’s son, seek for himself (1 Kgs 1:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The kingship "
+        },
+        {
+          "choice": " The right of the first born "
+        },
+        {
+          "choice": " To kill the other sons of David "
+        },
+        {
+          "choice": " To take over the army "
+        }
+      ],
+      "answer": " The kingship ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did Adonijah do to announce himself as king (1 Kgs 1:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests to anoint his head with oil and proclaim him king "
+        },
+        {
+          "choice": " The prophet Nathan to announce him as king "
+        },
+        {
+          "choice": " Chariots and 50 men to run ahead of him "
+        },
+        {
+          "choice": " He proclaimed a holiday in Israel "
+        }
+      ],
+      "answer": " Chariots and 50 men to run ahead of him ",
+      "type": "epi_1"
+    }
+  ]
+}

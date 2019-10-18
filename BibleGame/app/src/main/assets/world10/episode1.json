@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Who settled in Jerusalem (Neh 11:1)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Levites"
+        },
+        {
+          "choice": " The poor"
+        },
+        {
+          "choice": " The leaders of the people"
+        },
+        {
+          "choice": " Sanballat and Tobiah"
+        }
+      ],
+      "answer": " The leaders of the people ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How did the people determine who would live in Jerualem (Neh 11:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They cast lots "
+        },
+        {
+          "choice": " Only certain families were allowed to live there "
+        },
+        {
+          "choice": " One had to be of the tribe of Judah "
+        },
+        {
+          "choice": " A prophet designated them "
+        }
+      ],
+      "answer": " They cast lots ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How does Nehemiah label Jerusalem (Neh 11:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The city of God "
+        },
+        {
+          "choice": " The city of peace "
+        },
+        {
+          "choice": " The holy city "
+        },
+        {
+          "choice": " The New Jerusalem "
+        }
+      ],
+      "answer": " The holy city ",
+      "type": "epi_1"
+    },
+    {
+      "question": " All of the following are listed as living in the towns of Judah each on his own property EXCEPT (Neh 11:3) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Temple servants "
+        },
+        {
+          "choice": " Singers "
+        },
+        {
+          "choice": " Servants and descendants fo Solomon’s servants "
+        },
+        {
+          "choice": " Levites "
+        }
+      ],
+      "answer": " Singers ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Over what district of the city was Judah from the tribe of Benjamin (Neh 11:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Second district "
+        },
+        {
+          "choice": " The Maale district "
+        },
+        {
+          "choice": " Mount Zion "
+        },
+        {
+          "choice": " The City of David "
+        }
+      ],
+      "answer": " The Second district ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Seraiah the priest was said to be the supervisor over the __________ (Neh 11:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The sacrifices and offerings "
+        },
+        {
+          "choice": " The gates of the city "
+        },
+        {
+          "choice": " The "
+        },
+        {
+          "choice": "  The house of God "
+        }
+      ],
+      "answer": "  The house of God ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Seraiah was a descendant of what famous priestly family (Neh 11:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zadok and Hilkiah "
+        },
+        {
+          "choice": " Phineas and Aaron "
+        },
+        {
+          "choice": " Abiathar and Abner "
+        },
+        {
+          "choice": " Perez and Zerah "
+        }
+      ],
+      "answer": " Zadok and Hilkiah ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The Levites Shabbethai and Jozabad where heads who had charge of __________ (Neh 11:16) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The ark of the covenant and the table of shewbread "
+        },
+        {
+          "choice": " The altar of burnt offering "
+        },
+        {
+          "choice": " The sacrifices and offerings "
+        },
+        {
+          "choice": " The outside work of the house of God "
+        }
+      ],
+      "answer": " The outside work of the house of God ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Mattaniah was a Levite in Jerusalem who was said to be director who led __________ (Neh 11:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The sacrifices and offerings "
+        },
+        {
+          "choice": " In the thanskgiving and prayer "
+        },
+        {
+          "choice": " In the singing "
+        },
+        {
+          "choice": " In the reading of the Law "
+        }
+      ],
+      "answer": " In the thanskgiving and prayer ",
+      "type": "epi_1"
+    },
+    {
+      "question": " All of the following groups were listed and their leaders as living in Jerusalem EXCEPT (Neh 11:4ff) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Descendants of Judah "
+        },
+        {
+          "choice": " Descendants of Benjamin "
+        },
+        {
+          "choice": " Descendants of David "
+        },
+        {
+          "choice": " Priests "
+        }
+      ],
+      "answer": " Priests ",
+      "type": "epi_1"
+    }
+  ]
+}

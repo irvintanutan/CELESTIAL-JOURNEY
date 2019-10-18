@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": "What God did on the seventh day? (Genesis 2:2-3) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Create children for the man and woman "
+        },
+        {
+          "choice": "Rest"
+        },
+        {
+          "choice": "Create wind "
+        },
+        {
+          "choice": "Light "
+        }
+      ],
+      "answer": " Rest",
+      "type": "epi_2"
+    },
+    {
+      "question": "The sequence of the day and night began on what day (Gen. 1:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "First"
+        },
+        {
+          "choice": "Second"
+        },
+        {
+          "choice": "Third "
+        },
+        {
+          "choice": "Fourth"
+        }
+      ],
+      "answer": "First",
+      "type": "epi_2"
+    },
+    {
+      "question": "God made the man out of ________?  (Genesis 2:7) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Stone"
+        },
+        {
+          "choice": "Dew"
+        },
+        {
+          "choice": "A piece of His own body "
+        },
+        {
+          "choice": "Dust"
+        }
+      ],
+      "answer": "Dust",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did God place His human creations? (Genesis 2:15-22)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Garden"
+        },
+        {
+          "choice": "Paradise"
+        },
+        {
+          "choice": "Zion "
+        },
+        {
+          "choice": "The wilderness"
+        }
+      ],
+      "answer": "Garden",
+      "type": "epi_2"
+    },
+    {
+      "question": "God create the woman out of _________?  (Genesis 2:18)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Dust "
+        },
+        {
+          "choice": "Dew"
+        },
+        {
+          "choice": "From the rib of man"
+        },
+        {
+          "choice": "Stone   "
+        }
+      ],
+      "answer": "From the rib of man",
+      "type": "epi_2"
+    },
+    {
+      "question": " Why did God create  woman ________?  (Genesis 2:22-24)",
+      "time": "20000",
+      "choices": [
+        {
+          "choice": "So she could oversee the man"
+        },
+        {
+          "choice": "So she could keep the man company"
+        },
+        {
+          "choice": "So she could serve the man"
+        },
+        {
+          "choice": "So she could help the man"
+        }
+      ],
+      "answer": "So she could help the man",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who named the living creatures? (Genesis 2:20)",
+      "time": "20000",
+      "choices": [
+        {
+          "choice": "God"
+        },
+        {
+          "choice": "Adam & Eve"
+        },
+        {
+          "choice": "Eve"
+        },
+        {
+          "choice": "Adam"
+        }
+      ],
+      "answer": "Adam",
+      "type": "epi_2"
+    },
+    {
+      "question": "God command the following to Adam and Eve except? (Genesis 1:28) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Have dominion over all living things "
+        },
+        {
+          "choice": "Work and be industrious"
+        },
+        {
+          "choice": "Be fruitful and multiply"
+        },
+        {
+          "choice": "Subdue the earth "
+        }
+      ],
+      "answer": "Work and be industrious",
+      "type": "epi_2"
+    },
+    {
+      "question": "How did God create humans? (Genesis 1:26-27) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "In His image"
+        },
+        {
+          "choice": "Through evolution of primates"
+        },
+        {
+          "choice": "The goodness and love"
+        },
+        {
+          "choice": "The dust of the earth "
+        }
+      ],
+      "answer": "In His image",
+      "type": "epi_2"
+    },
+    {
+      "question": "What did God call the dry land and the waters? (Genesis 1:20) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Mountains; Oceans"
+        },
+        {
+          "choice": "Valleys; Lakes"
+        },
+        {
+          "choice": "Earth; Seas"
+        },
+        {
+          "choice": "Stone; Water "
+        }
+      ],
+      "answer": "Earth; Seas",
+      "type": "epi_2"
+    }
+  ]
+}

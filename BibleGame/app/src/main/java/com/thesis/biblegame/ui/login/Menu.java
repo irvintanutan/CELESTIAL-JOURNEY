@@ -43,12 +43,17 @@ public class Menu extends AppCompatActivity {
 
         FirebaseApp.initializeApp(this);
         // 0 - for private mode`
-        SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", 0);
-        editor = pref.edit();
         int total = 0;
 
-        for (int a = 1; a <= 10; a++) {
-            total += pref.getInt("epi" + a, 0);
+        String [] worlds = {"world1" , "world2" ,"world3" ,"world4" ,"world5" ,"world6" ,"world7" ,"world8" ,"world9" ,"world10" ,"world11" ,
+                "world12" ,};
+
+        for (int world = 0 ; world < worlds.length ; world++) {
+            SharedPreferences pref = getApplicationContext().getSharedPreferences(worlds[world], 0);
+            editor = pref.edit();
+            for (int a = 1; a <= 10; a++) {
+                total += pref.getInt("epi" + a, 0);
+            }
         }
 
         FirebaseUser usersRef = FirebaseAuth.getInstance().getCurrentUser();

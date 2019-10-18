@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Where did Adam and Eve live? (Genesis 2:8)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Eden "
+        },
+        {
+          "choice": " Sodom "
+        },
+        {
+          "choice": " Zion "
+        },
+        {
+          "choice": " Israel "
+        }
+      ],
+      "answer": " Eden ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Which two trees grew in the midst of the garden? (Genesis 2:9)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The tree of death and the tree of joy and despair "
+        },
+        {
+          "choice": " The tree of life and the tree of death "
+        },
+        {
+          "choice": " The tree of knowledge of good and evil and the tree of joy and despair "
+        },
+        {
+          "choice": " The tree of life and the tree of knowledge of good and evil "
+        }
+      ],
+      "answer": " The tree of life and the tree of knowledge of good and evil ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Which tree bore fruit that God forbade Adam and Eve to partake of ? (Genesis 2:16-17)  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The tree of life "
+        },
+        {
+          "choice": " The tree of death "
+        },
+        {
+          "choice": " The tree of knowledge of good and evil "
+        },
+        {
+          "choice": " The tree of joy and despair "
+        }
+      ],
+      "answer": " The tree of knowledge of good and evil ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What would NOT happen to anyone who would partake of such fruit?  (Genesis 3:16-19)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They would become all-knowing "
+        },
+        {
+          "choice": " They would know for themselves the difference between right and wrong "
+        },
+        {
+          "choice": " They would be able to bear children "
+        },
+        {
+          "choice": " They would die "
+        }
+      ],
+      "answer": " They would become all-knowing ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What animal deceived Eve? (Genesis 3:1-6)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A wolf "
+        },
+        {
+          "choice": " A fox "
+        },
+        {
+          "choice": " A crow "
+        },
+        {
+          "choice": " A serpent "
+        }
+      ],
+      "answer": " A serpent ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The animal who deceived Eve represents: (Genesis 1:20-23)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Adam "
+        },
+        {
+          "choice": " Jesus "
+        },
+        {
+          "choice": " The spirits of Eve's unborn children "
+        },
+        {
+          "choice": " Lucifer "
+        }
+      ],
+      "answer": " Jesus ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did the deceptive animal convince Eve to do? (Genesis 3:1-6) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Partake of the forbidden fruit "
+        },
+        {
+          "choice": " Kill an animal "
+        },
+        {
+          "choice": " Leave Adam "
+        },
+        {
+          "choice": " Blaspheme against the Lord "
+        }
+      ],
+      "answer": " Partake of the forbidden fruit ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did Adam do after Eve obeyed the animal and transgressed against the Lord's commandment? (Genesis 3:6) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He forgave her "
+        },
+        {
+          "choice": " He condemned her "
+        },
+        {
+          "choice": " He exiled her "
+        },
+        {
+          "choice": " He also transgressed against the Lord's commandment "
+        }
+      ],
+      "answer": " He also transgressed against the Lord's commandment ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Why did Adam hide himself from the Lord? (Genesis 3:10) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He was embarrassed because he realized he was naked "
+        },
+        {
+          "choice": " He wanted to see if he could outwit the Lord "
+        },
+        {
+          "choice": " He wanted the Lord to prove to him that He can see all"
+        },
+        {
+          "choice": " He was ashamed of his wife's transgression "
+        }
+      ],
+      "answer": " He was embarrassed because he realized he was naked ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did the Lord NOT do as a result of the disobedience of Adam and Eve? (Genesis 3:16-19) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Give them the ability to feel emotion "
+        },
+        {
+          "choice": " Cause them to work the ground for food "
+        },
+        {
+          "choice": " Cast them out of Eden and His presence "
+        },
+        {
+          "choice": " Kill them instantly "
+        }
+      ],
+      "answer": " Kill them instantly ",
+      "type": "epi_1"
+    }
+  ]
+}

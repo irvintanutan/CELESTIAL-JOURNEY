@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Where did Deborah lure Sisera’s army to (Judg 4:7)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River"
+        },
+        {
+          "choice": " Mount Tabor"
+        },
+        {
+          "choice": " En Gedi Sprnig"
+        },
+        {
+          "choice": " Kishon River"
+        }
+      ],
+      "answer": " Kishon River ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Sisera do when he heard that Barak had gathered an army (Judg 4:12-13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Reported to Jabin "
+        },
+        {
+          "choice": " Gathered his army to Kishon River "
+        },
+        {
+          "choice": " Gathered his army to Mt. Tabor "
+        },
+        {
+          "choice": " Gathered his army to the Jordan River "
+        }
+      ],
+      "answer": " Gathered his army to Kishon River ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did the Levite do with the various cut up parts of his concubine (Judg 19:29)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Buried them in Shiloh in Ephraim "
+        },
+        {
+          "choice": " Burned them and scattered them in the Jordan River "
+        },
+        {
+          "choice": " Sent them out to Israel "
+        },
+        {
+          "choice": " Sent them back to her father "
+        }
+      ],
+      "answer": " Sent them out to Israel ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where did David go to fight the Arameans after gathering all Israel and crossing the Jordan River (2 Sam 10:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ugarit "
+        },
+        {
+          "choice": " Damascus "
+        },
+        {
+          "choice": " Helam "
+        },
+        {
+          "choice": " Heshbon "
+        }
+      ],
+      "answer": " Helam ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What plan seemed good to Absalom from Ahithophel for going after David (2 Sam17:1f)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Choosing 12,000 men and setting out after David tonight "
+        },
+        {
+          "choice": " Rallying all Israel and then attacking David "
+        },
+        {
+          "choice": " Setting an ambush for David when he tried to cross the Jordan River "
+        },
+        {
+          "choice": " Sending messengers of Jabesh Gilead to get help from east of the Jordan "
+        }
+      ],
+      "answer": " Choosing 12,000 men and setting out after David tonight ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Jonathan and Ahimaaz tell David to do as Absalom prepared to pursue him (2 Sam 17:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Stay by the Valley of Jabbok "
+        },
+        {
+          "choice": " Go to Gilgal where Zadok would send news of Absalom’s plans "
+        },
+        {
+          "choice": " Cross the Jordan River "
+        },
+        {
+          "choice": " Flee to the mountains "
+        }
+      ],
+      "answer": " Cross the Jordan River ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where as David when Absalom crossed the Jordan River (2 Sam 17:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Aroer "
+        },
+        {
+          "choice": " Dibon "
+        },
+        {
+          "choice": " Heshbon "
+        },
+        {
+          "choice": " Mahanaim "
+        }
+      ],
+      "answer": " Mahanaim ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where did the men of Judah come to help David across the Jordan River (2 Sam19:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Gilgal "
+        },
+        {
+          "choice": " Bethel "
+        },
+        {
+          "choice": " Michmash "
+        },
+        {
+          "choice": " Adam "
+        }
+      ],
+      "answer": " Gilgal ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What two fellows associated with Saul and the Benjamites rushed down to meet David as he crossed the Jordan River after defeating Absalom (2 Sam 19:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Eliphaz and Zadok "
+        },
+        {
+          "choice": " Shimei and Ziba "
+        },
+        {
+          "choice": " Nathan and Gad "
+        },
+        {
+          "choice": " Mephibosheth and Ish-bosheth "
+        }
+      ],
+      "answer": " Shimei and Ziba ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who begged David’s forgiveness at the crossing of the Jordan River after Absalom was defeated (2 Sam 19:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Barzillai "
+        },
+        {
+          "choice": " Ziba "
+        },
+        {
+          "choice": " Shimei "
+        }
+      ],
+      "answer": " Shimei ",
+      "type": "epi_4"
+    }
+  ]
+}

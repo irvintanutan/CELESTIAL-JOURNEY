@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " From which of Levi's sons was Moses' father descended (Ex. 6:18)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Uzziel"
+        },
+        {
+          "choice": " Kohath"
+        },
+        {
+          "choice": " Gershon"
+        },
+        {
+          "choice": " Merari"
+        }
+      ],
+      "answer": " Kohath ",
+      "type": " epi_4"
+    },
+    {
+      "question": " The LORD said that he made Moses like a _______ to Pharaoh (Ex. 7:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Friend "
+        },
+        {
+          "choice": " Prophet "
+        },
+        {
+          "choice": " Priest "
+        },
+        {
+          "choice": " God "
+        }
+      ],
+      "answer": " God ",
+      "type": "epi_4"
+    },
+    {
+      "question": " In Aaron's speaking to Pharaoh on Moses' behalf, Aaron was acting like a_______ to Moses (Ex. 7:2) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Brother "
+        },
+        {
+          "choice": " Prophet "
+        },
+        {
+          "choice": " Priest "
+        },
+        {
+          "choice": " Angel "
+        }
+      ],
+      "answer": " Prophet ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What was the basic message Aaron was to tell Pharaoh (Ex. 7:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To repent lest a greater judgment come on Egypt "
+        },
+        {
+          "choice": " His son would die if he did not release Israel God's son "
+        },
+        {
+          "choice": " Let Israel go out of his country "
+        },
+        {
+          "choice": " To not harden his heart but have compassion on Israel "
+        }
+      ],
+      "answer": " Let Israel go out of his country ",
+      "type": "epi_4"
+    },
+    {
+      "question": " God said He would multiply His miracles in Egypt and that he would do what to Pharaoh's heart (Ex. 7:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Harden it "
+        },
+        {
+          "choice": " Soften it "
+        },
+        {
+          "choice": " Break it "
+        },
+        {
+          "choice": " Forgive it "
+        }
+      ],
+      "answer": " Harden it ",
+      "type": "epi_4"
+    },
+    {
+      "question": " When God stretched out his hand against Egypt, what did God say the Egyptians would know (Ex. 7:5)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Israelites were his children "
+        },
+        {
+          "choice": " That there were no other Gods "
+        },
+        {
+          "choice": " That God made a promise with Israel "
+        },
+        {
+          "choice": " That he was the LORD "
+        }
+      ],
+      "answer": " That he was the LORD ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How old was Moses when he did his first miracle before Pharaoh (Ex. 7:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 40 "
+        },
+        {
+          "choice": " 80 "
+        },
+        {
+          "choice": " 90 "
+        },
+        {
+          "choice": " 120 "
+        }
+      ],
+      "answer": " 80 ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Aaron was how many years older than Moses (Ex. 7:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " One year "
+        },
+        {
+          "choice": " Three years "
+        },
+        {
+          "choice": " Five years "
+        },
+        {
+          "choice": " Ten years "
+        }
+      ],
+      "answer": " Three years ",
+      "type": "epi_4"
+    },
+    {
+      "question": " When Aaron threw down the staff before Pharaoh what happened (Ex. 7:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It turned the Nile to blood "
+        },
+        {
+          "choice": " It cracked the floor in two "
+        },
+        {
+          "choice": " It became a snake "
+        },
+        {
+          "choice": " It became a fish "
+        }
+      ],
+      "answer": " It became a snake ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How did Aaron's staff respond when the magicians threw down their staffs (Ex. 7:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It ate them "
+        },
+        {
+          "choice": " It scared the others so they fled "
+        },
+        {
+          "choice": " It grew larger "
+        },
+        {
+          "choice": " It poisoned them "
+        }
+      ],
+      "answer": " It ate them ",
+      "type": "epi_4"
+    }
+  ]
+}

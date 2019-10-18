@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What were the Levites with Jeshua in charge of (Neh 12:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The sacrifices and offerings "
+        },
+        {
+          "choice": " The articles for the temple "
+        },
+        {
+          "choice": " The distribution of food "
+        },
+        {
+          "choice": " The songs of thanksgiving "
+        }
+      ],
+      "answer": " The songs of thanksgiving ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Whose son was Joiakim (Neh 12:10)?? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jeshua "
+        },
+        {
+          "choice": " Zerubbabel "
+        },
+        {
+          "choice": " Ezra "
+        },
+        {
+          "choice": " Nehemiah "
+        }
+      ],
+      "answer": " Jeshua ",
+      "type": "epi_3"
+    },
+    {
+      "question": " The heads of the priestly families were listed in whose days (Neh 12:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zerubbabel"
+        },
+        {
+          "choice": " Ezra"
+        },
+        {
+          "choice": " Joiakim"
+        },
+        {
+          "choice": " Nehemiah"
+        }
+      ],
+      "answer": " Joiakim ",
+      "type": "epi_3"
+    },
+    {
+      "question": " In whose reign were the family heads of the Levites in the days of Eliashib recorded (Neh 12:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Cyrus "
+        },
+        {
+          "choice": " Darius "
+        },
+        {
+          "choice": " Xerxes "
+        },
+        {
+          "choice": " Artaxerxes "
+        }
+      ],
+      "answer": " Darius ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Where were the family heads of Levi up to the time of Johanan son of Eliashib recorded (Neh 12:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In the Book of the Law "
+        },
+        {
+          "choice": " In the Book of Life "
+        },
+        {
+          "choice": " In the Book of Iddo the seer "
+        },
+        {
+          "choice": " In the Book of the Annals "
+        }
+      ],
+      "answer": " In the Book of the Annals ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who prescribed that one section of Levites respond to the other while giving praise (Neh 12:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Moses"
+        },
+        {
+          "choice": " David"
+        },
+        {
+          "choice": " Solomon"
+        },
+        {
+          "choice": "  Hezekiah"
+        }
+      ],
+      "answer": " David ",
+      "type": "epi_3"
+    },
+    {
+      "question": " David was identified by the label (Neh 12:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The man of God "
+        },
+        {
+          "choice": " The servant of the Lord "
+        },
+        {
+          "choice": " The man after God’s own heart "
+        },
+        {
+          "choice": " The son of God "
+        }
+      ],
+      "answer": " The man of God ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Talmon was a gatekeeper. What did he guard at the gates (Neh 12:25)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Book of the Law "
+        },
+        {
+          "choice": " The elders of the city  "
+        },
+        {
+          "choice": " Poor who came to the gates "
+        },
+        {
+          "choice": " The storerooms "
+        }
+      ],
+      "answer": " The storerooms ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What title was Nehemiah called by (Neh 12:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priest "
+        },
+        {
+          "choice": " The governor "
+        },
+        {
+          "choice": " The king’s official "
+        },
+        {
+          "choice": " The king of Judea "
+        }
+      ],
+      "answer": " The governor ",
+      "type": "epi_3"
+    },
+    {
+      "question": " By what title besides priest was Ezra identified with (Neh 12:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The prophet "
+        },
+        {
+          "choice": " The man of God "
+        },
+        {
+          "choice": " The scribe "
+        },
+        {
+          "choice": " The governor "
+        }
+      ],
+      "answer": " The scribe ",
+      "type": "epi_3"
+    }
+  ]
+}

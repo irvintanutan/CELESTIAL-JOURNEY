@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " For how many days did Moses want Pharaoh to release Israel to go into the desert (Ex. 5:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 3 days "
+        },
+        {
+          "choice": " 7 days "
+        },
+        {
+          "choice": " 14 days "
+        },
+        {
+          "choice": " 21 days "
+        }
+      ],
+      "answer": " 3 days ",
+      "type": " epi_2"
+    },
+    {
+      "question": " After Moses' initial meeting with Pharaoh, what did Pharaoh command his slave drivers (Ex. 5:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Not to provide food for the Israelites"
+        },
+        {
+          "choice": " Not to provide water for the Israelites"
+        },
+        {
+          "choice": " Not to provide stone for the Isaelites"
+        },
+        {
+          "choice": " Not to provide straw for the Israelites"
+        }
+      ],
+      "answer": " Not to provide straw for the Israelites ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Pharaoh assumed the Israelites were being ________ in asking to go sacrifice to their God (Ex. 5:8) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rebellious "
+        },
+        {
+          "choice": " Hypocritical "
+        },
+        {
+          "choice": " Lazy "
+        },
+        {
+          "choice": " Deceptive "
+        }
+      ],
+      "answer": " Lazy ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Moses warned Pharaoh if he did not let the Israelites go he would be struck with what two things (Ex. 5:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Plagues and sword "
+        },
+        {
+          "choice": " Famine and revolt "
+        },
+        {
+          "choice": " Enemies and thick darkness "
+        },
+        {
+          "choice": " Earthquakes and drought "
+        }
+      ],
+      "answer": " Plagues and sword ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did the Israelites use the straw for (Ex. 5:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Feeding their animals "
+        },
+        {
+          "choice": " Making baskets "
+        },
+        {
+          "choice": " Making pyramids "
+        },
+        {
+          "choice": " Making bricks "
+        }
+      ],
+      "answer": " Making bricks ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The Israelite brick foremen came back from Pharaoh and said Moses had given Pharaoh what to kill them (Ex. 5:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A stone "
+        },
+        {
+          "choice": " A whip "
+        },
+        {
+          "choice": " A sword "
+        },
+        {
+          "choice": "  A rod "
+        }
+      ],
+      "answer": " A sword ",
+      "type": "epi_2"
+    },
+    {
+      "question": " When the Israelite foremen did not reach their quota of bricks what happened to them (Ex. 5:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They would be beaten "
+        },
+        {
+          "choice": " They would be killed "
+        },
+        {
+          "choice": " They would be thrown into the Nile "
+        },
+        {
+          "choice": " They would be made to be common laborers again "
+        }
+      ],
+      "answer": " They would be beaten ",
+      "type": "epi_2"
+    },
+    {
+      "question": " God said because of his ________, Pharaoh would drive the Israelites out of Egypt (Ex. 6:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Mighty hand "
+        },
+        {
+          "choice": " Powerful rod "
+        },
+        {
+          "choice": " Promise "
+        },
+        {
+          "choice": " Faithfulness "
+        }
+      ],
+      "answer": " Mighty hand ",
+      "type": "epi_2"
+    },
+    {
+      "question": " God appeared to Abraham, Isaac and Jacob by what name (Ex. 6:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " LORD "
+        },
+        {
+          "choice": " Ebenezer "
+        },
+        {
+          "choice": " God Almighty "
+        },
+        {
+          "choice": " The Rider of the clouds "
+        }
+      ],
+      "answer": " God Almighty ",
+      "type": "epi_2"
+    },
+    {
+      "question": " By what name or character did God not make him self known to Abraham (Ex. 6:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " LORD "
+        },
+        {
+          "choice": " Ebenezer "
+        },
+        {
+          "choice": " God Almighty "
+        },
+        {
+          "choice": " The Rider of the clouds "
+        }
+      ],
+      "answer": " LORD ",
+      "type": "epi_2"
+    }
+  ]
+}

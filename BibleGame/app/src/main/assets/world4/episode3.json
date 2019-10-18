@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Bathsheba told David that all of the following were invited by Adonijah to his coronation EXCEPT (1 Kgs 1:19)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Joab"
+        },
+        {
+          "choice": " Abiathar the priest"
+        },
+        {
+          "choice": " All the king’s sons"
+        },
+        {
+          "choice": " Zadok the prophet"
+        }
+      ],
+      "answer": " Zadok the prophet ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What did Bathsheba tell David that she and Solomon would be treated as after David died if Adonijah became king (1 Kgs 1:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Enemies of Israel "
+        },
+        {
+          "choice": " Slaves "
+        },
+        {
+          "choice": " Criminals "
+        },
+        {
+          "choice": " Outcasts "
+        }
+      ],
+      "answer": " Criminals ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Bathsheba told David whose eyes were looking to David to see who would be the next ruler (1 Kgs 1:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The eyes of the neighboring kingdoms "
+        },
+        {
+          "choice": " The eyes of the king’s sons "
+        },
+        {
+          "choice": " The eyes of all Israel "
+        },
+        {
+          "choice": " The eyes of all Jerusalem "
+        }
+      ],
+      "answer": " The eyes of all Israel ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What were the supporters of Adonijah declaring as they ate and drank with him according to Nathan the prophet (1 Kgs 1:25)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " All hail the king! "
+        },
+        {
+          "choice": " Praise be to the LORD who has established Adonijah’s kingdom! "
+        },
+        {
+          "choice": " Adonijah is king of Israel! "
+        },
+        {
+          "choice": " Long live King Adonijah! "
+        }
+      ],
+      "answer": " Long live King Adonijah! ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What action symbolized the kingship to the supporters of Solomon (1 Kgs 1:27)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ruling with the scepter"
+        },
+        {
+          "choice": " Sitting on the throne"
+        },
+        {
+          "choice": " Wearing the crown"
+        },
+        {
+          "choice": " Offering large sacrifices"
+        }
+      ],
+      "answer": " Sitting on the throne ",
+      "type": "epi_3"
+    },
+    {
+      "question": " After Nathan’s declaration and question on who should be king, who did the king call (1 Kgs 1:28)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Bathsheba "
+        },
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Adonijah "
+        },
+        {
+          "choice": " Zadok "
+        }
+      ],
+      "answer": " Bathsheba ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did David describe the LORD in his oath to Bathsheba about Solomon becoming the next king (1Kgs 1:29)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " One who comes to the aid of the needy "
+        },
+        {
+          "choice": " One who has always listened to his prayers "
+        },
+        {
+          "choice": " One who loves justice "
+        },
+        {
+          "choice": " One who has delivered him out of every trouble "
+        }
+      ],
+      "answer": " One who has delivered him out of every trouble ",
+      "type": "epi_3"
+    },
+    {
+      "question": " David called upon all of the following to initiate the coronation of Solomon as king of Israel instead of Adonijah EXCEPT (1 Kgs 1:32) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zadok the priest "
+        },
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Nathan the prophet "
+        },
+        {
+          "choice": " Benaiah "
+        }
+      ],
+      "answer": " Joab ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What type of animal were Zadok, Nathan and Benaiah supposed to set Solomon on (1 Kgs 1:33)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A camel "
+        },
+        {
+          "choice": " A mule "
+        },
+        {
+          "choice": " A white horse "
+        },
+        {
+          "choice": " A chariot "
+        }
+      ],
+      "answer": " A mule ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What office did Zadok and Nathan hold (1 Kgs 1:34)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Gatekeeper and Cupbearer "
+        },
+        {
+          "choice": " King and Sage "
+        },
+        {
+          "choice": " Priest and Prophet "
+        },
+        {
+          "choice": " Advisor and Record-Keeper "
+        }
+      ],
+      "answer": " Priest and Prophet ",
+      "type": "epi_3"
+    }
+  ]
+}

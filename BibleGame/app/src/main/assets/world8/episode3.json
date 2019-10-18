@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Where did Moses flee to after Pharaoh found out he killed the Egyptian (Ex. 2:15)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The land of Canaan"
+        },
+        {
+          "choice": " The land of Midian"
+        },
+        {
+          "choice": " The land of Goshen"
+        },
+        {
+          "choice": " The land of the Philistines"
+        }
+      ],
+      "answer": " The land of Midian ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Whose daughters did Moses aid in watering their flocks (Ex. 2:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priest of Midian "
+        },
+        {
+          "choice": " The king of the Philistines "
+        },
+        {
+          "choice": " The judge of Moab "
+        },
+        {
+          "choice": " The captain of Amalek "
+        }
+      ],
+      "answer": " The priest of Midian ",
+      "type": "epi_3"
+    },
+    {
+      "question": " The priest of Midian had how many daughters (Ex. 2:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 4 "
+        },
+        {
+          "choice": " 7 "
+        },
+        {
+          "choice": " 10 "
+        },
+        {
+          "choice": " 12 "
+        }
+      ],
+      "answer": " 7 ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who became Moses' wife (Ex. 2:21)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Dinah "
+        },
+        {
+          "choice": " Asenath"
+        },
+        {
+          "choice": " Zipporah "
+        },
+        {
+          "choice": " Miriam"
+        }
+      ],
+      "answer": " Zipporah ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Moses' son was named _______ because he had become an alien in a foreign land (Ex. 2:22) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Merari "
+        },
+        {
+          "choice": " Kohath "
+        },
+        {
+          "choice": " Jethro "
+        },
+        {
+          "choice": " Gershom "
+        }
+      ],
+      "answer": " Gershom ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When the Israelites groaned about their slavery in Egypt, what did God remember (Ex. 2:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Their troubles and taskmasters "
+        },
+        {
+          "choice": " His covenant with Abraham "
+        },
+        {
+          "choice": " Moses in the desert "
+        },
+        {
+          "choice": "  Joseph "
+        }
+      ],
+      "answer": " His covenant with Abraham ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who was Moses' father-in-law (Ex. 3:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jethro "
+        },
+        {
+          "choice": " Zipporah "
+        },
+        {
+          "choice": " Asenath "
+        },
+        {
+          "choice": " Abimelech "
+        }
+      ],
+      "answer": " Jethro ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Moses' father-in-law was a priest for what tribal group (Ex. 3:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Philistines "
+        },
+        {
+          "choice": " Hittites "
+        },
+        {
+          "choice": " Midianites "
+        },
+        {
+          "choice": " Perrizites "
+        }
+      ],
+      "answer": " Midianites ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What mountain was called the Mountain of God (Ex. 3:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zion "
+        },
+        {
+          "choice": " Horeb "
+        },
+        {
+          "choice": " Hermon "
+        },
+        {
+          "choice": " Tabor "
+        }
+      ],
+      "answer": " Horeb ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did the angel of the Lord first appear to Moses (Ex. 3:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In clouds on the mountain top "
+        },
+        {
+          "choice": " In a dream "
+        },
+        {
+          "choice": " As a human being "
+        },
+        {
+          "choice": " In a burning bush "
+        }
+      ],
+      "answer": " In a burning bush ",
+      "type": "epi_3"
+    }
+  ]
+}

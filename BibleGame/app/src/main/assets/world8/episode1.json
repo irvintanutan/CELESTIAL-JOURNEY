@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How many of Jacob's family went down into Egypt (Ex. 1:5)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 50"
+        },
+        {
+          "choice": " 60"
+        },
+        {
+          "choice": " 70"
+        },
+        {
+          "choice": " 100"
+        }
+      ],
+      "answer": " 70",
+      "type": "epi_1"
+    },
+    {
+      "question": " As Joseph's generation died, what did the Israelites do in Egypt (Ex. 1:7)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Worshipped other gods "
+        },
+        {
+          "choice": " Multiplied "
+        },
+        {
+          "choice": " Became wealthy "
+        },
+        {
+          "choice": " Spread out in the land of Egypt "
+        }
+      ],
+      "answer": " Multiplied ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How was the oppressive new king of Egypt identified (Ex. 1:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " As one who did not know about Joseph "
+        },
+        {
+          "choice": " As one who feared neither God nor man "
+        },
+        {
+          "choice": " As one who was hard hearted "
+        },
+        {
+          "choice": " As one who served other gods "
+        }
+      ],
+      "answer": " As one who did not know about Joseph ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Besides Pithom, what other city did the Israelites build (Ex. 1:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Amon-Re "
+        },
+        {
+          "choice": " Giza "
+        },
+        {
+          "choice": " Amarna "
+        },
+        {
+          "choice": " Rameses "
+        }
+      ],
+      "answer": " Rameses ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did the new King of Egypt fear in regard to the Israelites ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They would plunder the wealth of Egypt "
+        },
+        {
+          "choice": " They would destroy the gods of Egypt "
+        },
+        {
+          "choice": " They would join Egypt's enemies in war "
+        },
+        {
+          "choice": " They would intermarry with the Egyptians "
+        }
+      ],
+      "answer": " They would join Egypt's enemies in war ",
+      "type": "epi_1"
+    },
+    {
+      "question": " With what two substances did the Egyptians make the Israelites' lives bitter with hard labor (Ex. 1:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Stone and chisels "
+        },
+        {
+          "choice": " Brick and mortar "
+        },
+        {
+          "choice": " Yoke and oxen "
+        },
+        {
+          "choice": "  Sickle and hoe "
+        }
+      ],
+      "answer": " Brick and mortar ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did the king command the Hebrew midwives to do (Ex. 1:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kill all the babies of the Israelites "
+        },
+        {
+          "choice": " Throw the Israelite babies into the river "
+        },
+        {
+          "choice": " Kill the mothers before they had their babies "
+        },
+        {
+          "choice": " Kill all the male Israelite babies "
+        }
+      ],
+      "answer": " Kill all the male Israelite babies ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What were the names of the Hebrew midwives (Ex. 1:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Shiphrah and Puah "
+        },
+        {
+          "choice": " Ruth and Naomi "
+        },
+        {
+          "choice": " Asenath and Potiphar "
+        },
+        {
+          "choice": " Zipporah and Miriam "
+        }
+      ],
+      "answer": " Shiphrah and Puah ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What motivated the midwives to refuse to do what the king of Egypt had commanded them (Ex. 1:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They obeyed the voice of the Lord "
+        },
+        {
+          "choice": " They had compassion on the children "
+        },
+        {
+          "choice": " They had compassion on the Israelite mothers "
+        },
+        {
+          "choice": " They feared God "
+        }
+      ],
+      "answer": " They feared God ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What excuse did the midwives give the King of Egypt explaining why they let the babies live (Ex. 1:19)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " God had protected the Israelite babies "
+        },
+        {
+          "choice": " The Hebrew women gave birth before they got there "
+        },
+        {
+          "choice": " The Israelite men protected their babies "
+        },
+        {
+          "choice": " The babies were hidden before they arrived "
+        }
+      ],
+      "answer": " The Hebrew women gave birth before they got there ",
+      "type": "epi_1"
+    }
+  ]
+}

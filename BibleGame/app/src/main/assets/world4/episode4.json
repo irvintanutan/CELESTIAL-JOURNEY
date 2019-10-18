@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " David instructed Zadok, Nathan and Benaiah to do all of the following in making Solomon king EXCEPT (1 Kgs 1:34f)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Drink from the Gihon spring "
+        },
+        {
+          "choice": " Sound the trumpet "
+        },
+        {
+          "choice": " Anoint him king "
+        },
+        {
+          "choice": " Shout “Long live King Solomon” "
+        }
+      ],
+      "answer": " Drink from the Gihon spring ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Adonijah was at En Rogel trying to proclaim himself king where did David have Solomon made king (1 Kgs 1:33)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " En Gedi "
+        },
+        {
+          "choice": " Gihon Spring "
+        },
+        {
+          "choice": " The pool of Siloam "
+        },
+        {
+          "choice": " The poo of Bethesda "
+        }
+      ],
+      "answer": " Gihon Spring ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What other groups helped in the coronation of Solomon besides Zadok, Nathan and Benaiah (1 Kgs 1:38)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Edomites and Ammonites "
+        },
+        {
+          "choice": " The Merarites and Kohathites "
+        },
+        {
+          "choice": " The Jebusites and Hittites "
+        },
+        {
+          "choice": " The Kerethites and Pelethites "
+        }
+      ],
+      "answer": " The Kerethites and Pelethites ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who expressed his wished to David that the Lord be with Solomon as he was with David (1 Kgs 1:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nathan "
+        },
+        {
+          "choice": " Bathsheba "
+        },
+        {
+          "choice": " Benaiah "
+        },
+        {
+          "choice": " Zadok "
+        }
+      ],
+      "answer": " Benaiah ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Where did Zadok take out the horn of oil from (1 Kgs 1:39)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " His donkey’s pack "
+        },
+        {
+          "choice": " The sacred tent "
+        },
+        {
+          "choice": " The king’s storehouse "
+        },
+        {
+          "choice": " The folds of his garment "
+        }
+      ],
+      "answer": " The sacred tent ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What instrument was played as the people went up after Solomon who had just been proclaimed king (1 Kgs 1:40)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Trumpets "
+        },
+        {
+          "choice": " Harps "
+        },
+        {
+          "choice": " Lyres "
+        },
+        {
+          "choice": " Flutes "
+        }
+      ],
+      "answer": " Flutes ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What happened as a result of the people’s rejoicing (1 Kgs 1:40)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The ground shook with the sound "
+        },
+        {
+          "choice": " The flocks and herds trampled each other underfoot "
+        },
+        {
+          "choice": " The people became drunk "
+        },
+        {
+          "choice": " Solomon was forcibly carried up to Jerusalem "
+        }
+      ],
+      "answer": " The ground shook with the sound ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What initially tipped Adonijah and Joab off that something was happening in the city of Jerusalem (1 Kgs 1:41)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The smoke from the sacrifices "
+        },
+        {
+          "choice": " The sound of the shout of the people "
+        },
+        {
+          "choice": " The sound of the trumpets "
+        },
+        {
+          "choice": " The voice of the city crier "
+        }
+      ],
+      "answer": " The sound of the trumpets ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who arrived to warn Adonijah and announce that David had made Solomon king (1Kgs 1:42)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Asahel, Joab’s brother "
+        },
+        {
+          "choice": " Jonathan, Abiathar’s son "
+        },
+        {
+          "choice": " Shimei, the Benjamite "
+        },
+        {
+          "choice": " Barzillai the Gileadite "
+        }
+      ],
+      "answer": " Jonathan, Abiathar’s son ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What did Adonijah expect when he saw that Jonathan son of Abiathar the priest had arrived (1 Kgs 1:42)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To be anointed king "
+        },
+        {
+          "choice": " To begin a ritual sacrifice "
+        },
+        {
+          "choice": " To hear good news "
+        },
+        {
+          "choice": " To be rebuked "
+        }
+      ],
+      "answer": " To hear good news ",
+      "type": "epi_4"
+    }
+  ]
+}

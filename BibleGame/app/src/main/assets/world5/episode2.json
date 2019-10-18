@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What river was a border with the Ammonites (Deut. 3:16)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jordan river"
+        },
+        {
+          "choice": " Jabbok river"
+        },
+        {
+          "choice": " Litani river"
+        },
+        {
+          "choice": " River of Egypt"
+        }
+      ],
+      "answer": " Jabbok river ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The western tribal border for Reuben and Gad followed the Jordan River from ___________ to the Salt Sea (Deut. 3:17) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Red Sea "
+        },
+        {
+          "choice": " Panion "
+        },
+        {
+          "choice": " Kinnereth "
+        },
+        {
+          "choice": " Ram "
+        }
+      ],
+      "answer": " Kinnereth ",
+      "type": "epi_2"
+    },
+    {
+      "question": " One of the requirements of the city of refuge was that they were to be located __________ (Deut. 19:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " On the mountain tops "
+        },
+        {
+          "choice": " On the western side "
+        },
+        {
+          "choice": " By the Jordan river "
+        },
+        {
+          "choice": " Centrally "
+        }
+      ],
+      "answer": " Centrally ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What two kings came out to fight against Israel before they crossed the Jordan river (Deut. 29:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Og king of Bashan and Balak king of Moab "
+        },
+        {
+          "choice": " Abimelech king of Philistia and Phicol king of Amalek "
+        },
+        {
+          "choice": " Og king of Bashan and Sihon king of Heshbon "
+        },
+        {
+          "choice": " Abimelech king of Philistia and Balak king of Moab "
+        }
+      ],
+      "answer": " Og king of Bashan and Sihon king of Heshbon ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The LORD told Moses that he was not allowed to cross (Deut. 31:2) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Mount of Pisgah "
+        },
+        {
+          "choice": " The Salt Sea "
+        },
+        {
+          "choice": " The boundary of Moab "
+        }
+      ],
+      "answer": " The Jordan River ",
+      "type": "epi_2"
+    },
+    {
+      "question": " After the death of Moses, what was Joshua instructed to cross over (Josh. 1:2) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Desert of Paran "
+        },
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Plains of Moab "
+        },
+        {
+          "choice": " The Jabbok River "
+        }
+      ],
+      "answer": " The Jordan River ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did the spies have to cross to return to Joshua (Josh. 2:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The desert "
+        },
+        {
+          "choice": " The King's Highway "
+        },
+        {
+          "choice": " The Salt Sea "
+        },
+        {
+          "choice": " The Jordan River "
+        }
+      ],
+      "answer": " The Jordan River ",
+      "type": "epi_2"
+    },
+    {
+      "question": " When did Joshua cross the Jordan river (Josh. 4:19) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " First day of the first month "
+        },
+        {
+          "choice": " The fifteenth day of the seventh month "
+        },
+        {
+          "choice": " The tenth day of the first month "
+        },
+        {
+          "choice": " The last day of the seventh month "
+        }
+      ],
+      "answer": " The tenth day of the first month ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The LORD dried up the Jordan River so that all the peoples of the earth might know (Josh. 4:24) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " That the LORD keeps his promise "
+        },
+        {
+          "choice": " That the hand of the LORD is powerful "
+        },
+        {
+          "choice": " That God is an awesome God "
+        },
+        {
+          "choice": " That the LORD is a holy God "
+        }
+      ],
+      "answer": " That the hand of the LORD is powerful ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The LORD dried up the Jordan River so that Israel might (Josh. 4:24) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Trust God "
+        },
+        {
+          "choice": " Believe in God "
+        },
+        {
+          "choice": " Worship God "
+        },
+        {
+          "choice": " Fear God "
+        }
+      ],
+      "answer": " Fear God ",
+      "type": "epi_2"
+    }
+  ]
+}

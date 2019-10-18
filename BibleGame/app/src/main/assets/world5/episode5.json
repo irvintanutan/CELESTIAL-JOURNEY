@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How did Moses record the stages of their journey (Num. 33:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " As he remembered it "
+        },
+        {
+          "choice": " At the LORD's command "
+        },
+        {
+          "choice": " He took it from his travel journal "
+        },
+        {
+          "choice": " He consulted with the elders of Israel "
+        }
+      ],
+      "answer": " At the LORD's command ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did Israel start their journey from Egypt (Num. 33:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rameses "
+        },
+        {
+          "choice": " Elim "
+        },
+        {
+          "choice": " Mount Hor "
+        },
+        {
+          "choice": " Pi Hahiroth "
+        }
+      ],
+      "answer": " Rameses ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did Israel pass through the Red Sea (Num. 33:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rameses "
+        },
+        {
+          "choice": " Elim "
+        },
+        {
+          "choice": " Mount Hor "
+        },
+        {
+          "choice": " Pi Hahiroth "
+        }
+      ],
+      "answer": " Pi Hahiroth ",
+      "type": "epi_5"
+    },
+    {
+      "question": " After Israel passed through the Red Sea and took a three day journey,where did they camp (Num. 33:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Elim "
+        },
+        {
+          "choice": " Mount Hor "
+        },
+        {
+          "choice": " Pi Hahiroth "
+        },
+        {
+          "choice": " Marah "
+        }
+      ],
+      "answer": " Marah ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where were there twelve springs and seventy palm trees (Num. 33:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rameses "
+        },
+        {
+          "choice": " Elim "
+        },
+        {
+          "choice": " Mount Hor "
+        },
+        {
+          "choice": " Pi Hahiroth "
+        }
+      ],
+      "answer": " Elim ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did Aaron die on the border of Edom after leaving Kadesh (Num. 33:37)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rameses "
+        },
+        {
+          "choice": " Elim "
+        },
+        {
+          "choice": " Mount Hor "
+        },
+        {
+          "choice": " Pi Hahiroth "
+        }
+      ],
+      "answer": " Mount Hor ",
+      "type": "epi_5"
+    },
+    {
+      "question": " The Canaanite king of what city heard that the Israelites were coming (Num. 33:40)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Hebron "
+        },
+        {
+          "choice": " Lachish "
+        },
+        {
+          "choice": " Arad "
+        },
+        {
+          "choice": " Ramon "
+        }
+      ],
+      "answer": " Arad ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Where did Israel end up camping just prior to entering the promised land (Num. 33:48)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Gilead "
+        },
+        {
+          "choice": " Arnon "
+        },
+        {
+          "choice": " The hill country of the Amorites "
+        },
+        {
+          "choice": " The plains of Moab "
+        }
+      ],
+      "answer": " The plains of Moab ",
+      "type": "epi_5"
+    },
+    {
+      "question": " The plains of Moab are directly across from what city (Num. 33:48)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jerusalem "
+        },
+        {
+          "choice": " Jericho "
+        },
+        {
+          "choice": " Bethelehem "
+        },
+        {
+          "choice": " Bethel "
+        }
+      ],
+      "answer": " Jericho ",
+      "type": "epi_5"
+    },
+    {
+      "question": " When Israel entered the promised land, God commanded them to destroy all of the following EXCEPT (Num. 33:52) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Threshing floors "
+        },
+        {
+          "choice": " Their carved images "
+        },
+        {
+          "choice": " Their cast idols "
+        },
+        {
+          "choice": " Their high places "
+        }
+      ],
+      "answer": " Threshing floors ",
+      "type": "epi_5"
+    }
+  ]
+}

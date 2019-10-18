@@ -1,0 +1,210 @@
+{
+  "task": [
+    {
+      "question": "Where did Moses flee to after Pharaoh found out he killed the Egyptian (Ex. 2:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The land of Canaan "
+        },
+        {
+          "choice": "The land of Midian "
+        },
+        {
+          "choice": "The land of Goshen "
+        },
+        {
+          "choice": "The land of the Philistines "
+        }
+      ],
+      "answer": "The land of Midian ",
+      "type": "epi_3"
+    },
+    {
+      "question": "Whose daughters did Moses aid in watering their flocks (Ex. 2:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The priest of Midian"
+        },
+        {
+          "choice": "The king of the Philistines "
+        },
+        {
+          "choice": "The judge of Moab "
+        },
+        {
+          "choice": "The captain of Amalek "
+        }
+      ],
+      "answer": "The priest of Midian",
+      "type": "epi_3"
+    },
+    {
+      "question": "Who became Moses' wife (Ex. 2:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Dinah"
+        },
+        {
+          "choice": "Asenath"
+        },
+        {
+          "choice": "Zipporah"
+        },
+        {
+          "choice": "Miriam "
+        }
+      ],
+      "answer": "Zipporah",
+      "type": "epi_3"
+    },
+    {
+      "question": "What mountain was called the Mountain of God (Ex. 3:1)?  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Zion"
+        },
+        {
+          "choice": "Horeb"
+        },
+        {
+          "choice": "Hermon"
+        },
+        {
+          "choice": "Tabor"
+        }
+      ],
+      "answer": "Horeb",
+      "type": "epi_3"
+    },
+    {
+      "question": "How did the angel of the Lord first appear to Moses (Ex. 3:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "In clouds on the mountain top  "
+        },
+        {
+          "choice": "In a dream "
+        },
+        {
+          "choice": "As a human being "
+        },
+        {
+          "choice": "In a burning bush  "
+        }
+      ],
+      "answer": "In a burning bush  ",
+      "type": "epi_3"
+    },
+    {
+      "question": "God said he would redeem the Israelites out of Egypt and they would become his _________ (Ex. 6:7)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Friends"
+        },
+        {
+          "choice": "Nation "
+        },
+        {
+          "choice": "People "
+        },
+        {
+          "choice": "Bride"
+        }
+      ],
+      "answer": "People ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Why did the Israelites not listen to Moses (Ex. 6:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Because they did not believe him "
+        },
+        {
+          "choice": "Because it was better to be slaves than die in the desert"
+        },
+        {
+          "choice": "Because of their cruel bondage "
+        },
+        {
+          "choice": "Because they did not fear God   "
+        }
+      ],
+      "answer": "Because of their cruel bondage ",
+      "type": "epi_3"
+    },
+    {
+      "question": "What was the basic message Aaron was to tell Pharaoh (Ex. 7:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "To repent lest a greater judgment come on Egypt"
+        },
+        {
+          "choice": "His son would die if he did not release Israel God's son"
+        },
+        {
+          "choice": "Let Israel go out of his country "
+        },
+        {
+          "choice": "To not harden his heart but have compassion on Israel  "
+        }
+      ],
+      "answer": "Let Israel go out of his country ",
+      "type": "epi_3"
+    },
+    {
+      "question": " God said He would multiply His miracles in Egypt and that he would do what to Pharaoh's heart (Ex. 7:3)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Harden"
+        },
+        {
+          "choice": "Soften"
+        },
+        {
+          "choice": "Break"
+        },
+        {
+          "choice": "Forgive"
+        }
+      ],
+      "answer": "Harden",
+      "type": "epi_3"
+    },
+    {
+      "question": "How old was Moses when he did his first miracle before Pharaoh (Ex. 7:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "40 "
+        },
+        {
+          "choice": "80 "
+        },
+        {
+          "choice": "90"
+        },
+        {
+          "choice": "120"
+        }
+      ],
+      "answer": "80 ",
+      "type": "epi_3"
+    }
+  ]
+}
+
+
+
+  
+
+	

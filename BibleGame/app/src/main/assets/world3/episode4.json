@@ -1,0 +1,210 @@
+{
+  "task": [
+    {
+      "question": "Moses warned, frogs would come into what part of Pharaoh's house (Ex. 8:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Kitchen "
+        },
+        {
+          "choice": "Living room "
+        },
+        {
+          "choice": "Bedroom"
+        },
+        {
+          "choice": "Roof of his house"
+        }
+      ],
+      "answer": "Bedroom",
+      "type": "epi_4"
+    },
+    {
+      "question": "Who stretched out his hands to bring the frogs on Egypt (Ex. 8:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Moses"
+        },
+        {
+          "choice": "Miriam "
+        },
+        {
+          "choice": "Korah"
+        },
+        {
+          "choice": "Aaron"
+        }
+      ],
+      "answer": "Aaron",
+      "type": "epi_4"
+    },
+    {
+      "question": "Pharaoh said that if Moses removed the frogs he would do what (Ex. 8:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Leave Egypt forever"
+        },
+        {
+          "choice": "Let the Israelites go offer sacrifices to the LORD"
+        },
+        {
+          "choice": "Not kill the infants"
+        },
+        {
+          "choice": "Destroy his own magicians"
+        }
+      ],
+      "answer": "Let the Israelites go offer sacrifices to the LORD",
+      "type": "epi_4"
+    },
+    {
+      "question": "What plague did the magicians try but were not able to duplicate (Ex. 8:18)?  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Frogs"
+        },
+        {
+          "choice": "Nile to blood"
+        },
+        {
+          "choice": "Gnats"
+        },
+        {
+          "choice": "Flies"
+        }
+      ],
+      "answer": "Gnats",
+      "type": "epi_4"
+    },
+    {
+      "question": "The gnats came out of what in Egypt (Ex. 8:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The water "
+        },
+        {
+          "choice": "The sand "
+        },
+        {
+          "choice": "The rain"
+        },
+        {
+          "choice": "The dust "
+        }
+      ],
+      "answer": "The dust ",
+      "type": "epi_4"
+    },
+    {
+      "question": "Where did Moses announce the plague of the flies to Pharaoh (Ex. 8:20)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "As Pharaoh was seated on his throne"
+        },
+        {
+          "choice": "As Pharaoh went to water"
+        },
+        {
+          "choice": "As Pharaoh went out to see his land"
+        },
+        {
+          "choice": "As Pharaoh came to Goshen"
+        }
+      ],
+      "answer": "As Pharaoh went to water",
+      "type": "epi_4"
+    },
+    {
+      "question": " After the flies left, what did Pharaoh do (Ex. 8:31)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "He humbled himself before the LORD "
+        },
+        {
+          "choice": "He refused to let the Israelites go and hardened his heart"
+        },
+        {
+          "choice": "He called his magicians for their counsel "
+        },
+        {
+          "choice": "He ordered the slave drivers to kill the Israelite foremen   "
+        }
+      ],
+      "answer": "He refused to let the Israelites go and hardened his heart",
+      "type": "epi_4"
+    },
+    {
+      "question": "All of the following animals were smitten as the livestock of Egypt EXCEPT (Ex. 9:3) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Horses"
+        },
+        {
+          "choice": "Donkeys"
+        },
+        {
+          "choice": "Dogs"
+        },
+        {
+          "choice": "Cattle  "
+        }
+      ],
+      "answer": "Dogs",
+      "type": "epi_4"
+    },
+    {
+      "question": " When did the LORD strike down the firstborn of Egypt (Ex. 12:29)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Sun set"
+        },
+        {
+          "choice": "Sun rise"
+        },
+        {
+          "choice": "Noon"
+        },
+        {
+          "choice": "Mid-night"
+        }
+      ],
+      "answer": "Mid-night",
+      "type": "epi_4"
+    },
+    {
+      "question": "When leaving Egypt, the Israelites traveled from Ramases to _____ (Ex. 12:37)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Pithom"
+        },
+        {
+          "choice": "Giza"
+        },
+        {
+          "choice": "The Red Sea"
+        },
+        {
+          "choice": "Succoth"
+        }
+      ],
+      "answer": "Succoth",
+      "type": "epi_4"
+    }
+  ]
+}
+
+
+
+  
+
+	

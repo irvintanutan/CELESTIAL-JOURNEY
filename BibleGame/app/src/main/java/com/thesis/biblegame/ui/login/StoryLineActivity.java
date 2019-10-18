@@ -24,8 +24,7 @@ public class StoryLineActivity extends AppCompatActivity {
         viewPager = findViewById(R.id.viewPager);
 
 
-        ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(this, new Sprite(getApplicationContext())
-                .sprites("sprite_storyline.jpg", 1, 5));
+        ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(this, ModGLobal.storySprite);
 
         viewPager.setAdapter(viewPagerAdapter);
     }

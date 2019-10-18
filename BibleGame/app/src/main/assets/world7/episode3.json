@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How long did the holy one tell Daniel it would be until the sanctuary would be reconsecrated in his vision (Dan 8:14)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 12 full moons"
+        },
+        {
+          "choice": " Seven Passovers and seven Days of Atonement"
+        },
+        {
+          "choice": " 2,300 evenings and mornings"
+        },
+        {
+          "choice": " 120 days of years"
+        }
+      ],
+      "answer": " 2,300 evenings and mornings ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What did the holy one tell Daniel would happen in 2,300 evenings and mornings (Dan 8:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The sanctuary would be reconecrated "
+        },
+        {
+          "choice": " The walls of Jerusalem would be rebuilt "
+        },
+        {
+          "choice": " The Broad Wall would be restored "
+        },
+        {
+          "choice": " There would be dancing and singing in the Holy City "
+        }
+      ],
+      "answer": " The sanctuary would be reconecrated ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who was commanded to tell Daniel what his vision meant (Dan 8:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Michael "
+        },
+        {
+          "choice": " The angel of the Lord "
+        },
+        {
+          "choice": " Azazel "
+        },
+        {
+          "choice": " Gabriel "
+        }
+      ],
+      "answer": " Gabriel ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When Gabriel approached Daniel what did he do (Dan 8:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He asked him what the meaning of the vision was "
+        },
+        {
+          "choice": " He fell prostrate at his feet terrified "
+        },
+        {
+          "choice": " He hid from him "
+        },
+        {
+          "choice": " He gazed upon him but could not speak "
+        }
+      ],
+      "answer": " He fell prostrate at his feet terrified ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did Gabriel address Daniel in his vision (Dan 8:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Servant of the Lord "
+        },
+        {
+          "choice": " Holy one of God "
+        },
+        {
+          "choice": " Son of man "
+        },
+        {
+          "choice": " One highly favored "
+        }
+      ],
+      "answer": " Son of man ",
+      "type": "epi_3"
+    },
+    {
+      "question": " When did Gabriel tell Daniel the vision he had seen was concerning (Dan 8:17)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The end times "
+        },
+        {
+          "choice": " The time of the future kingdom "
+        },
+        {
+          "choice": " The time of the fall of Babylon "
+        },
+        {
+          "choice": " The time of the anointed one "
+        }
+      ],
+      "answer": " The end times ",
+      "type": "epi_3"
+    },
+    {
+      "question": " The time that the vision would take place was called a time of _____ by Gabriel in  Daniel’s vision (Dan 8:19)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Joy "
+        },
+        {
+          "choice": " Trouble "
+        },
+        {
+          "choice": " Sorrow "
+        },
+        {
+          "choice": " Wrath "
+        }
+      ],
+      "answer": " Wrath ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Whom did Gabriel tell Daniel that the two horned ram in his vision represented (Dan 8:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " East and West Rome "
+        },
+        {
+          "choice": " The Medes and Persians "
+        },
+        {
+          "choice": " The Chaldeans and Assyrians "
+        },
+        {
+          "choice": " Greece and Rome "
+        }
+      ],
+      "answer": " The Medes and Persians ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Whom did Gabriel tell Daniel that theshaggy goat represented in Daniel’s vision (Dan 8:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Babylon "
+        },
+        {
+          "choice": " Greece "
+        },
+        {
+          "choice": " The Medes and Persians "
+        },
+        {
+          "choice": " Rome "
+        }
+      ],
+      "answer": " Greece ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What was the large horn between the eyes of the shaggy goat in Daniel’s vision (Dan 8:21)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Greece’s first king "
+        },
+        {
+          "choice": " The first king of Medo-Persia "
+        },
+        {
+          "choice": " Nebuchadnezzar "
+        },
+        {
+          "choice": " Belshazzar "
+        }
+      ],
+      "answer": " Greece’s first king ",
+      "type": "epi_3"
+    }
+  ]
+}

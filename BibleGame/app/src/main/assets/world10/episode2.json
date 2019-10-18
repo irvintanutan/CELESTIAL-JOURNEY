@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How lived on the hill of Ophel in Jerusalem (Neh 11:21)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests"
+        },
+        {
+          "choice": " The Levites"
+        },
+        {
+          "choice": " The singers"
+        },
+        {
+          "choice": " The temple servants"
+        }
+      ],
+      "answer": " The temple servants ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Whose descendants were the singers responsbile for the service of the house of God (Neh 11:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Asaph "
+        },
+        {
+          "choice": " Korah "
+        },
+        {
+          "choice": " David "
+        },
+        {
+          "choice": " Jonathan "
+        }
+      ],
+      "answer": " Asaph ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who were under the kings orders which regulated their daily activity (Neh 11:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The temple servants "
+        },
+        {
+          "choice": " The governor "
+        },
+        {
+          "choice": " The nobles "
+        },
+        {
+          "choice": " The singers "
+        }
+      ],
+      "answer": " The singers ",
+      "type": "epi_2"
+    },
+    {
+      "question": " All the the towns were listed as occupied by the returnees EXCEPT (Neh 11:25ff) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kiriath Arba "
+        },
+        {
+          "choice": " Azekah "
+        },
+        {
+          "choice": " Lachish "
+        },
+        {
+          "choice": " Gibeon "
+        }
+      ],
+      "answer": " Gibeon ",
+      "type": "epi_2"
+    },
+    {
+      "question": " It says the people were living from ____ to ____ (Neh 11:30) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Gath to Socoh "
+        },
+        {
+          "choice": " Beersheba to the Valley of Hinnom "
+        },
+        {
+          "choice": " Lachish to the Kidron Valley "
+        },
+        {
+          "choice": " Ziklag to Wadi Qelt "
+        }
+      ],
+      "answer": " Beersheba to the Valley of Hinnom ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who lived in Micmash, Ai and Bethel (Neh 11:31)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The descendants of King Saul"
+        },
+        {
+          "choice": " The families of the Amalekites "
+        },
+        {
+          "choice": " The descendants of the Benjamites "
+        },
+        {
+          "choice": "  The clans of Amraphael the goldsmith "
+        }
+      ],
+      "answer": " The descendants of the Benjamites ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did some of the divisions of Levites of Judah settle (Neh 11:36)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In Benjamin "
+        },
+        {
+          "choice": " In Ephraim "
+        },
+        {
+          "choice": " In the other side of the Jordan "
+        },
+        {
+          "choice": " In the Jezreel Valley "
+        }
+      ],
+      "answer": " In Benjamin ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Nehemiah 12 lists the priests and Levites who returned with _________ (Neh 12:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nehemiah "
+        },
+        {
+          "choice": " Ezekiel "
+        },
+        {
+          "choice": " Zerubbabel "
+        },
+        {
+          "choice": " Ezra "
+        }
+      ],
+      "answer": " Zerubbabel ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Nehemiah 12 lists the priests and Levites who returned with _________ (Neh 12:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nehemiah "
+        },
+        {
+          "choice": " Jeshua "
+        },
+        {
+          "choice": " Ezekiel "
+        },
+        {
+          "choice": " Ezra "
+        }
+      ],
+      "answer": " Jeshua ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The leaders of the priests were listed as returning in the days of _______ (Neh 12:7) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jeshua "
+        },
+        {
+          "choice": " Nehemiah "
+        },
+        {
+          "choice": " Zerubbabel "
+        },
+        {
+          "choice": " Ezra "
+        }
+      ],
+      "answer": " Jeshua ",
+      "type": "epi_2"
+    }
+  ]
+}

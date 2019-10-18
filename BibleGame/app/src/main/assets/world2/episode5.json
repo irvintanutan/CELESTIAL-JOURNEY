@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Of which tree was Adam not to eat??",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Apple tree"
+        },
+        {
+          "choice": " Fruit tree"
+        },
+        {
+          "choice": " Tree of knowledge of good and evil"
+        },
+        {
+          "choice": " Tree of Life"
+        }
+      ],
+      "answer": " Tree of knowledge of good and evil ",
+      "type": "epi_5"
+    },
+    {
+      "question": " After disobeying, how did Adam and his wife cover themselves? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Coats of skins "
+        },
+        {
+          "choice": " Fig leaves "
+        },
+        {
+          "choice": " Jewish garments "
+        },
+        {
+          "choice": " Modest apparel "
+        }
+      ],
+      "answer": " Fig leaves ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What promise was made regarding the seed of the woman?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " It would multiply as stars of sky "
+        },
+        {
+          "choice": " It would multiply as sand of sea "
+        },
+        {
+          "choice": " It would bruise the serpent's head "
+        },
+        {
+          "choice": " All of the above "
+        }
+      ],
+      "answer": " It would bruise the serpent's head ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who said, Am I my brother's keeper? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abel "
+        },
+        {
+          "choice": " Adam "
+        },
+        {
+          "choice": " Cain "
+        },
+        {
+          "choice": " Noah "
+        }
+      ],
+      "answer": " Cain ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What son was born to replace Abel? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Cain "
+        },
+        {
+          "choice": " Enoch "
+        },
+        {
+          "choice": " Isaac "
+        },
+        {
+          "choice": " Seth "
+        }
+      ],
+      "answer": " Seth ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What unusual thing happened to Enoch? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " God talked with him in the cool of the day "
+        },
+        {
+          "choice": " God took him "
+        },
+        {
+          "choice": " He died over 900 years old "
+        },
+        {
+          "choice": " All of the above "
+        }
+      ],
+      "answer": " God took him ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Which man lived the longest? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Adam "
+        },
+        {
+          "choice": " Enoch "
+        },
+        {
+          "choice": " Lamech "
+        },
+        {
+          "choice": " None of the above "
+        }
+      ],
+      "answer": " None of the above ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who was a son of Noah? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Enoch "
+        },
+        {
+          "choice": " Japheth "
+        },
+        {
+          "choice": " Lamech "
+        },
+        {
+          "choice": " All of the above "
+        }
+      ],
+      "answer": " Japheth ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How many doors were in the Ark? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 1 "
+        },
+        {
+          "choice": " 2 "
+        },
+        {
+          "choice": " 3 "
+        },
+        {
+          "choice": " 7 "
+        }
+      ],
+      "answer": " 1 ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How many of each kind of unclean animal was Noah to bring into the Ark ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " 1 "
+        },
+        {
+          "choice": " 2 "
+        },
+        {
+          "choice": " 7 "
+        },
+        {
+          "choice": " 14 "
+        }
+      ],
+      "answer": " 2 ",
+      "type": "epi_5"
+    }
+  ]
+}

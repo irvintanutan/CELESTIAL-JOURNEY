@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What tribe was Micah’s Levite from (Judg 17:7)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Dan"
+        },
+        {
+          "choice": " Levi"
+        },
+        {
+          "choice": " Benjamin"
+        },
+        {
+          "choice": " Judah"
+        }
+      ],
+      "answer": " Judah ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Why did Micah’s Levite leave Bethlehem (Judg 17:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Lord instructed him to "
+        },
+        {
+          "choice": " He was searching for some other place to stay "
+        },
+        {
+          "choice": " He was on the run from men who wanted him dead "
+        },
+        {
+          "choice": " He was searching for Micah "
+        }
+      ],
+      "answer": " He was searching for some other place to stay ",
+      "type": "epi_2"
+    },
+    {
+      "question": " How much did Micah offer to the Levite (Judg 17:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Ten shekels of silver a year "
+        },
+        {
+          "choice": " Just provisions, clothes and food "
+        },
+        {
+          "choice": " Eleven hundred shekels of silver a year "
+        },
+        {
+          "choice": " Protection from the Levites enemies "
+        }
+      ],
+      "answer": " Ten shekels of silver a year ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What other provisions, besides silver, did Micah offer the Levite (Judg 17:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Protection and provision "
+        },
+        {
+          "choice": " A scroll and glory "
+        },
+        {
+          "choice": " Food and clothing "
+        },
+        {
+          "choice": " All of the above "
+        }
+      ],
+      "answer": " Food and clothing ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did Micah think have a Levite for his priest would mean (Judg 17:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " That he was all powerful "
+        },
+        {
+          "choice": " That the Lord would be good to him "
+        },
+        {
+          "choice": " That he was no longer cursed "
+        },
+        {
+          "choice": " That he would be prosperous "
+        }
+      ],
+      "answer": " That the Lord would be good to him ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who had not yet come into inheritance among the tribes of Israel and were seeking outa place of their own (Judg 18:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Benjamites "
+        },
+        {
+          "choice": " The Ephraimites "
+        },
+        {
+          "choice": " The Danites "
+        },
+        {
+          "choice": " The Levites "
+        }
+      ],
+      "answer": " The Danites ",
+      "type": "epi_2"
+    },
+    {
+      "question": " How many men did the Danites send out to spy out and explore the land (Judg 18:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Twelve "
+        },
+        {
+          "choice": " Five "
+        },
+        {
+          "choice": " Seven "
+        },
+        {
+          "choice": " Two "
+        }
+      ],
+      "answer": " Five ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where were the spies that the Danites sent out to spy out and explore the land from (Judg 18:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zorah and Eshtaol "
+        },
+        {
+          "choice": " Keilah and Socoh "
+        },
+        {
+          "choice": " Azekah and Bethshemesh "
+        },
+        {
+          "choice": " Ekron and Gath "
+        }
+      ],
+      "answer": " Zorah and Eshtaol ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did the Danite spies spend the night in Micah’s house (Judg 18:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The hill country of Judah "
+        },
+        {
+          "choice": " The valley of Jezreel "
+        },
+        {
+          "choice": " The hill country of Gilead "
+        },
+        {
+          "choice": " The hill country of Ephraim "
+        }
+      ],
+      "answer": " The hill country of Ephraim ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who did the Danite spies recognize when they spent the night in the hill country of Ephraim (Judg 18:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Micah "
+        },
+        {
+          "choice": " The voice of Micah’s son "
+        },
+        {
+          "choice": " The young Levite "
+        },
+        {
+          "choice": " The man of God out of Judah "
+        }
+      ],
+      "answer": " The young Levite ",
+      "type": "epi_2"
+    }
+  ]
+}

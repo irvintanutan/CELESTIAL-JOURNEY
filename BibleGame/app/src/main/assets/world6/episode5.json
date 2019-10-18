@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What did the Danites ask of the Levite (Judg 18:19)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " To kill Micah"
+        },
+        {
+          "choice": " To help them steal Micah’s idols"
+        },
+        {
+          "choice": " To be their father and priest"
+        },
+        {
+          "choice": " To pray to the Lord for them"
+        }
+      ],
+      "answer": " To be their father and priest ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How did the Levite respond to the Danite’s request (Judg 18:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He took the ephod and the household gods and left "
+        },
+        {
+          "choice": " He killed Micah and left with the Danites "
+        },
+        {
+          "choice": " He refused to go until the Danites threatened him with death "
+        },
+        {
+          "choice": " He asked the Lord to show him a sign "
+        }
+      ],
+      "answer": " He took the ephod and the household gods and left ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who overtook the Danites and shouted at them (Judg 18:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Philistines "
+        },
+        {
+          "choice": " The Gileadites "
+        },
+        {
+          "choice": " The Levites and priests "
+        },
+        {
+          "choice": " The men who lived near Micah "
+        }
+      ],
+      "answer": " The men who lived near Micah ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How did the Danites get Micah to stop chasing after them (Judg 18:25)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They burned his house down "
+        },
+        {
+          "choice": " They burned his fields down "
+        },
+        {
+          "choice": " They threatened that some hot head would kill his family "
+        },
+        {
+          "choice": " They put Micah in prison and set guard over him "
+        }
+      ],
+      "answer": " They threatened that some hot head would kill his family ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How were the people of Laish described before the Danites attacked them (Judg 18:27)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A strong and prosperous people "
+        },
+        {
+          "choice": " A peaceful and unsuspecting people "
+        },
+        {
+          "choice": " A mighty people living in a walled city "
+        },
+        {
+          "choice": " A gentle people with flocks and herds "
+        }
+      ],
+      "answer": " A peaceful and unsuspecting people ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What did the Danites do at Laish (Judg 18:27)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Lived among them "
+        },
+        {
+          "choice": " Attacked them and burned down their city "
+        },
+        {
+          "choice": " Paid them in order to settle there "
+        },
+        {
+          "choice": " Worshipped the gods of the people there "
+        }
+      ],
+      "answer": " Attacked them and burned down their city ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Why were the people of Laish so easy to overtake (Judg 18:28)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " They were weak and had no walls or gates "
+        },
+        {
+          "choice": " The Lord was fighting for the Danites "
+        },
+        {
+          "choice": " They had no alliances with anyone else "
+        },
+        {
+          "choice": " They were surprised by the night attack of the Danites "
+        }
+      ],
+      "answer": "They had no alliances with anyone else ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What city was associated with Laish but too far away to help them (Judg 18:28)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Damascus"
+        },
+        {
+          "choice": " Jabesh Gilead"
+        },
+        {
+          "choice": " Antioch"
+        },
+        {
+          "choice": " Sidon"
+        }
+      ],
+      "answer": " Sidon ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What did the Danites do after attacking Laish (Judg 18:28)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rebuilt the city and settled there "
+        },
+        {
+          "choice": " Buried all the dead and set up a high place there "
+        },
+        {
+          "choice": " Moved on into the area of Sidon "
+        },
+        {
+          "choice": " Sacrificed to God and set up golden calves there "
+        }
+      ],
+      "answer": " Rebuilt the city and settled there ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What was the city of Dan originally called (Judg 18:29)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kiriath Sepher "
+        },
+        {
+          "choice": " Laish "
+        },
+        {
+          "choice": " Kiriath Arba "
+        },
+        {
+          "choice": " Jebus "
+        }
+      ],
+      "answer": " Laish ",
+      "type": "epi_5"
+    }
+  ]
+}

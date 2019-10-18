@@ -181,8 +181,8 @@
             <ImageView
                 android:id="@+id/pause"
                 android:layout_gravity="right"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
                 android:src="@drawable/pause_icon"/>
         </LinearLayout>
     </LinearLayout>

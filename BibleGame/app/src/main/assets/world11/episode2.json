@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " For whom did did the Levites set aside portions for (Neh 12:47)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The singers"
+        },
+        {
+          "choice": " The gatekeepers"
+        },
+        {
+          "choice": "The scribes"
+        },
+        {
+          "choice": " The priests"
+        }
+      ],
+      "answer": " The priests ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What two groups were never to be admitted into the assembly of God (Neh 13:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Edomites and Moabites "
+        },
+        {
+          "choice": " The Moabites and Ammonites "
+        },
+        {
+          "choice": " The Ammonites and the Amalekites "
+        },
+        {
+          "choice": " The Amaelites and Amorites "
+        }
+      ],
+      "answer": " The Moabites and Ammonites ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who was hired to call down a curse on Israel (Neh 13:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Balak "
+        },
+        {
+          "choice": " Rezin "
+        },
+        {
+          "choice": " Hazael "
+        },
+        {
+          "choice": " Balaam "
+        }
+      ],
+      "answer": " Balaam ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did God turn into a blessing (Neh 13:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The curse "
+        },
+        {
+          "choice": " The land "
+        },
+        {
+          "choice": " The Red Sea "
+        },
+        {
+          "choice": " The Law of Moses "
+        }
+      ],
+      "answer": " The curse ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did it say the Moabites and Ammonites were not to be accepted into the assembly of God (Neh 13:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " In the Holiness Code "
+        },
+        {
+          "choice": " In the Book of the Covenant "
+        },
+        {
+          "choice": " In the Book of Moses "
+        },
+        {
+          "choice": " In the Book of the Law "
+        }
+      ],
+      "answer": " In the Book of Moses ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Whom did the people exclude from Israel (Neh 13:3) [Pick what the text actually said]? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " All the Philistines "
+        },
+        {
+          "choice": " All of foreign descent "
+        },
+        {
+          "choice": " All the wives of the Moabites "
+        },
+        {
+          "choice": "  All the Egyptians "
+        }
+      ],
+      "answer": " All of foreign descent ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What was Eliashib the priest in charge of (Neh 13:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The altar "
+        },
+        {
+          "choice": " The reading of the law "
+        },
+        {
+          "choice": " The servants of the temple of God "
+        },
+        {
+          "choice": " The storerooms of the house of God "
+        }
+      ],
+      "answer": " The storerooms of the house of God ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who was Eliashib closely associated with (Neh 13:4)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nehemiah the governor "
+        },
+        {
+          "choice": " Ezra "
+        },
+        {
+          "choice": " Tobiah "
+        },
+        {
+          "choice": " Zerubbabel "
+        }
+      ],
+      "answer": " Tobiah ",
+      "type": "epi_2"
+    },
+    {
+      "question": " All of the following were listed as in the storeroom of the house of God EXCEPT (Neh 13:5) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Honey "
+        },
+        {
+          "choice": " Grain offerings "
+        },
+        {
+          "choice": " New wine "
+        },
+        {
+          "choice": " Oil "
+        }
+      ],
+      "answer": " Honey ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The storeroom of the house of God held the supplies for all of the following EXCEPT(Neh 13:5) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Servants of the temple "
+        },
+        {
+          "choice": " Contributions for the priests "
+        },
+        {
+          "choice": " Levites "
+        },
+        {
+          "choice": " Singers "
+        }
+      ],
+      "answer": " Servants of the temple ",
+      "type": "epi_2"
+    }
+  ]
+}

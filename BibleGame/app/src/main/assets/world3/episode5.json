@@ -1,0 +1,210 @@
+{
+  "task": [
+    {
+      "question": "How many months was did it take the Israelites to travel from Egypt to the Desert of Sinai (Ex. 19:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "One"
+        },
+        {
+          "choice": "Two "
+        },
+        {
+          "choice": "Three"
+        },
+        {
+          "choice": "Six"
+        }
+      ],
+      "answer": "Three",
+      "type": "epi_5"
+    },
+    {
+      "question": "How was God going to talk to Israel at Mount Sinai (Ex. 19:9)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "From between the cheribim"
+        },
+        {
+          "choice": "In a pillar of fire"
+        },
+        {
+          "choice": "In a dense cloud"
+        },
+        {
+          "choice": "From the seventh heaven"
+        }
+      ],
+      "answer": "In a dense cloud",
+      "type": "epi_5"
+    },
+    {
+      "question": "The Israelites were to consecrate themselves for meeting God on Mount Sinai in all of the following ways EXCEPT (Ex. 19:10f)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Cover their heads"
+        },
+        {
+          "choice": "Wash themselves"
+        },
+        {
+          "choice": "Not touch the mountain"
+        },
+        {
+          "choice": "Abstain from sexual relations"
+        }
+      ],
+      "answer": "Cover their heads",
+      "type": "epi_5"
+    },
+    {
+      "question": "What sound accompanied the descent of the thick cloud on Mount Sinai (Ex. 19:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Harp"
+        },
+        {
+          "choice": "Loud shout"
+        },
+        {
+          "choice": "Cymbals"
+        },
+        {
+          "choice": "Trumpet"
+        }
+      ],
+      "answer": "Trumpet",
+      "type": "epi_5"
+    },
+    {
+      "question": "When God's cloud descended on Mount Sinai, all of the following accompanied that descent EXCEPT (Ex. 19:16) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Thunder and lightning "
+        },
+        {
+          "choice": "Mountain shook "
+        },
+        {
+          "choice": "Angelic hosts appeared"
+        },
+        {
+          "choice": "Smoke went up"
+        }
+      ],
+      "answer": "Angelic hosts appeared",
+      "type": "epi_5"
+    },
+    {
+      "question": "Limits were to be set around Mount Sinai. It was to be set apart as ____ (Ex. 19:23)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Holy"
+        },
+        {
+          "choice": "Righteous"
+        },
+        {
+          "choice": "God's possession"
+        },
+        {
+          "choice": "God's throne"
+        }
+      ],
+      "answer": "Holy",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who was to accompany Moses up Mount Sinai (Ex. 19:24)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "No one "
+        },
+        {
+          "choice": "The priests"
+        },
+        {
+          "choice": "Only Aaron"
+        },
+        {
+          "choice": "The leaders of the tribes  "
+        }
+      ],
+      "answer": "Only Aaron",
+      "type": "epi_5"
+    },
+    {
+      "question": "At the beginning of the ten commandments, how does God identify himself (Ex. 20:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "As the God who made Mount Sinai tremble"
+        },
+        {
+          "choice": "As the God of Moses and Aaron"
+        },
+        {
+          "choice": "As the God who brought them out of Egypt"
+        },
+        {
+          "choice": "As the God that split the Red Sea"
+        }
+      ],
+      "answer": "As the God who brought them out of Egypt",
+      "type": "epi_5"
+    },
+    {
+      "question": " Egypt was viewed in the ten commandments as (Ex. 20:2)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The land of slavery"
+        },
+        {
+          "choice": "The land of the Nile"
+        },
+        {
+          "choice": "The land of deliverance"
+        },
+        {
+          "choice": "The land of Pharaoh"
+        }
+      ],
+      "answer": "The land of slavery",
+      "type": "epi_5"
+    },
+    {
+      "question": "God said not to make idols because he was a _______ God (Ex. 20:5)",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Loving"
+        },
+        {
+          "choice": "Jealous"
+        },
+        {
+          "choice": "Righteous"
+        },
+        {
+          "choice": "Merciful"
+        }
+      ],
+      "answer": "Jealous",
+      "type": "epi_5"
+    }
+  ]
+}
+
+
+
+  
+
+	

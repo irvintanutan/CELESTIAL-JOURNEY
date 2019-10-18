@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " On the day the walls were dedicated what did Nehemiah say God had given them(Neh 12:43)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Blessings"
+        },
+        {
+          "choice": " Protection"
+        },
+        {
+          "choice": " Great joy"
+        },
+        {
+          "choice": " Satisfaction"
+        }
+      ],
+      "answer": " Great joy ",
+      "type": "epi_1"
+    },
+    {
+      "question": " After traversing on the top of the wall were did the choirs take their places (Neh12:40)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " At the gates of the temple "
+        },
+        {
+          "choice": " In the house of God "
+        },
+        {
+          "choice": " By the Sheep Gate "
+        },
+        {
+          "choice": " In front of the governor’s palace "
+        }
+      ],
+      "answer": " In the house of God ",
+      "type": "epi_1"
+    },
+    {
+      "question": " At the dedication of the walls of Jerusalem what could be heard far away (Neh12:43)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The rejoicing "
+        },
+        {
+          "choice": " The sounds of wailing "
+        },
+        {
+          "choice": " The trumpets "
+        },
+        {
+          "choice": " The singnig "
+        }
+      ],
+      "answer": " The rejoicing ",
+      "type": "epi_1"
+    },
+    {
+      "question": " At the dedication of the walls of Jerusalem what could be heard far away (Neh12:43)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The rejoicing "
+        },
+        {
+          "choice": " The sounds of wailing "
+        },
+        {
+          "choice": " The trumpets "
+        },
+        {
+          "choice": " The singnig "
+        }
+      ],
+      "answer": " The rejoicing ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The storerooms held all of the following EXCEPT (Neh 12:44) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Contributions "
+        },
+        {
+          "choice": " Sacrifices "
+        },
+        {
+          "choice": " Firstfruits "
+        },
+        {
+          "choice": " Tithes "
+        }
+      ],
+      "answer": " Sacrifices ",
+      "type": "epi_1"
+    },
+    {
+      "question": " For whom were the people to bring into the storerooms from the fields around the towns (Neh 12:44)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The governors and leaders of the people "
+        },
+        {
+          "choice": " The temple singers "
+        },
+        {
+          "choice": " The servants of the Lord "
+        },
+        {
+          "choice": "  The priests and Levites "
+        }
+      ],
+      "answer": "  The priests and Levites ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Whose commands did the gatekeepers and singers follow (Neh 12:45)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The commands of Moses "
+        },
+        {
+          "choice": " The commands of Solomon "
+        },
+        {
+          "choice": " The commands of Nehemiah "
+        },
+        {
+          "choice": " The commands of David "
+        }
+      ],
+      "answer": " The commands of David ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Who was listed with David as organizing the singers and songs of praise long ago (Neh 12:46)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Korah "
+        },
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Asaph "
+        },
+        {
+          "choice": " Zadok "
+        }
+      ],
+      "answer": " Asaph ",
+      "type": "epi_1"
+    },
+    {
+      "question": " Who was listed with Nehemiah as being in their days people contributed daily portions for the singers (Neh 12:47)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zerubbabel "
+        },
+        {
+          "choice": " Jeshua "
+        },
+        {
+          "choice": " Ezra "
+        },
+        {
+          "choice": " Artaxerxes "
+        }
+      ],
+      "answer": " Zerubbabel ",
+      "type": "epi_1"
+    },
+    {
+      "question": " In the days of Nehemiah all Israel contributed daily portion to _______ (Neh 12:47) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The servants of the temple and guards "
+        },
+        {
+          "choice": " The singers and gatekeepers "
+        },
+        {
+          "choice": " The wall builders and nobles "
+        },
+        {
+          "choice": " The priests and Nazirites "
+        }
+      ],
+      "answer": " The singers and gatekeepers ",
+      "type": "epi_1"
+    }
+  ]
+}

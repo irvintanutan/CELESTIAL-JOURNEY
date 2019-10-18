@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " Who was to ask the Egyptians for their wealth and plunder Egypt (Ex. 3:22)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The priests of Israel"
+        },
+        {
+          "choice": " The women of Israel "
+        },
+        {
+          "choice": " The poor of Israel "
+        },
+        {
+          "choice": " All Israel "
+        }
+      ],
+      "answer": " The women of Israel ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How were the Israelites NOT to leave Egypt (Ex. 3:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Slowly "
+        },
+        {
+          "choice": " In unbelief "
+        },
+        {
+          "choice": " Empty-handed "
+        },
+        {
+          "choice": " With any Egyptians "
+        }
+      ],
+      "answer": " Empty-handed ",
+      "type": "epi_5"
+    },
+    {
+      "question": " To which of Moses' objections did God respond by saying What is that in your hand? (Ex. 4:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " I have never been eloquent "
+        },
+        {
+          "choice": " They will ask me what is his [God's] name "
+        },
+        {
+          "choice": " Who am I that I should go to Pharaoh? "
+        },
+        {
+          "choice": " What if they [Israelites] do not believe me? "
+        }
+      ],
+      "answer": " What if they [Israelites] do not believe me? ",
+      "type": "epi_5"
+    },
+    {
+      "question": " When Moses threw his staff on the ground, what did it become (Ex. 4:3)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " A lion"
+        },
+        {
+          "choice": " A snake"
+        },
+        {
+          "choice": " A lizard"
+        },
+        {
+          "choice": " A locust"
+        }
+      ],
+      "answer": " A snake ",
+      "type": "epi_5"
+    },
+    {
+      "question": " The LORD gave Moses signs so that the Israelites would believe that the God of all of the following EXCEPT _______ had sent Moses (Ex. 4:5) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abraham "
+        },
+        {
+          "choice": " Isaac "
+        },
+        {
+          "choice": " Jacob "
+        },
+        {
+          "choice": " Joseph "
+        }
+      ],
+      "answer": " Joseph ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What belief-causing sign happened when Moses put his hand into his cloak (Ex. 4:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " His hand shriveled up "
+        },
+        {
+          "choice": " His hand became a mighty sword "
+        },
+        {
+          "choice": " His hand became leperous "
+        },
+        {
+          "choice": "  His hand became hairy "
+        }
+      ],
+      "answer": " His hand became leperous ",
+      "type": "epi_5"
+    },
+    {
+      "question": " What third miraculous sign did God give Moses to convince the Israelites to believe that he had met with God (Ex. 4:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Nile water becoming blood "
+        },
+        {
+          "choice": " Causing the sky to become dark "
+        },
+        {
+          "choice": " Dust becoming gnats "
+        },
+        {
+          "choice": " Making frogs come out of the Nile "
+        }
+      ],
+      "answer": " Nile water becoming blood ",
+      "type": "epi_5"
+    },
+    {
+      "question": " How did God respond to Moses' object that he had never been eloquent in speech (Ex. 4:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " God got angry with him "
+        },
+        {
+          "choice": " God asked him who made man's mouth "
+        },
+        {
+          "choice": " Moses was unable to speak for three days "
+        },
+        {
+          "choice": " God asked him if bushes could talk "
+        }
+      ],
+      "answer": " God asked him who made man's mouth ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Moses final objection was to ask God to send someone else. How did God respond to that final objection (Ex. 4:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He said that Aaron the Levite could speak well "
+        },
+        {
+          "choice": " He would put his words into Moses' mouth "
+        },
+        {
+          "choice": " The bush flared up with tongues of fire "
+        },
+        {
+          "choice": " God commanded Moses to go "
+        }
+      ],
+      "answer": " He said that Aaron the Levite could speak well ",
+      "type": "epi_5"
+    },
+    {
+      "question": " Who would put words into Aaron's mouth (Ex. 4:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " God "
+        },
+        {
+          "choice": " The angel of the Lord "
+        },
+        {
+          "choice": " Moses "
+        },
+        {
+          "choice": " Miriam "
+        }
+      ],
+      "answer": " Moses ",
+      "type": "epi_5"
+    }
+  ]
+}

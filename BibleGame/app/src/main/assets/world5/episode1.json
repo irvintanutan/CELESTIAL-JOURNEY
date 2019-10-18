@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " How far did the chariot drivers follow the Aramean army that had abandoned their siege of Samaria (2 Kgs 7:15)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " As far as Beth Shan"
+        },
+        {
+          "choice": " As far as Jabesh Gilead"
+        },
+        {
+          "choice": " As far as Jericho"
+        },
+        {
+          "choice": " As far as the Jordan River"
+        }
+      ],
+      "answer": " As far as the Jordan River ",
+      "type": "epi_1"
+    },
+    {
+      "question": " In the prayer of the Levites who was compared to a stone in mighty waters (Neh 9:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The pursuers of the Israelites at the Red Sea "
+        },
+        {
+          "choice": " The arm strong arm of the Lord "
+        },
+        {
+          "choice": " Moses and the people of Israel "
+        },
+        {
+          "choice": " Joshua at the Jordan River "
+        }
+      ],
+      "answer": " The pursuers of the Israelites at the Red Sea ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What is the land like before the large and mighty army comes (Joel 2:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The garden of Eden "
+        },
+        {
+          "choice": " The green banks of the Jordan River "
+        },
+        {
+          "choice": " The vineyards of Ephraim "
+        },
+        {
+          "choice": " The olive groves of Gillo "
+        }
+      ],
+      "answer": " The garden of Eden ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What will run with water (Joel 3:18)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The Gihon Spring "
+        },
+        {
+          "choice": " The waters of En Gedi "
+        },
+        {
+          "choice": " The ravines of Judah "
+        }
+      ],
+      "answer": " The ravines of Judah ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The night before Jacob's meeting with Esau, where did Jacob go with his family (Gen. 32:22)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Across the Jordan river "
+        },
+        {
+          "choice": " Across the mountain of Gilead "
+        },
+        {
+          "choice": " Across the Dead Sea "
+        },
+        {
+          "choice": " Across the stream of Jabbok "
+        }
+      ],
+      "answer": " Across the stream of Jabbok ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The eastern side of Israel between the Sea of Kinnereth and Salt Sea would be (Num. 34:11f) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Wadi of Egypt "
+        },
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " The King's Highway "
+        },
+        {
+          "choice": " The Desert of Zin "
+        }
+      ],
+      "answer": " The Jordan River ",
+      "type": "epi_1"
+    },
+    {
+      "question": " How many cities of refuge were on the other side of the Jordan river (Num. 35:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Two "
+        },
+        {
+          "choice": " Three "
+        },
+        {
+          "choice": " Four "
+        },
+        {
+          "choice": " Five "
+        }
+      ],
+      "answer": " Three ",
+      "type": "epi_1"
+    },
+    {
+      "question": " After leaving Kadesh Barnea, the Israelites set out along the route to the __________ (Deut. 2:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Negev "
+        },
+        {
+          "choice": " Desert of Sin "
+        },
+        {
+          "choice": " Jordan River "
+        },
+        {
+          "choice": " Red Sea "
+        }
+      ],
+      "answer": " Red Sea ",
+      "type": "epi_1"
+    },
+    {
+      "question": " What did God do to Sihon that resulted in his defeat (Deut. 2:30)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Split the Jordan River "
+        },
+        {
+          "choice": " Rained down hail on him "
+        },
+        {
+          "choice": " Made his spirit stubborn "
+        },
+        {
+          "choice": " Made him afraid of Israel "
+        }
+      ],
+      "answer": " Made his spirit stubborn ",
+      "type": "epi_1"
+    },
+    {
+      "question": " The Jordan river lies in the ________ (Deut. 3:17) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Maktesh "
+        },
+        {
+          "choice": " Pisgah "
+        },
+        {
+          "choice": " Mizpeh "
+        },
+        {
+          "choice": " Arabah "
+        }
+      ],
+      "answer": " Arabah ",
+      "type": "epi_1"
+    }
+  ]
+}

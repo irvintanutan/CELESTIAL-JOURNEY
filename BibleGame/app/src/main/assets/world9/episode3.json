@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " When the Israelites cried out because of being enslaved, what did God remember (Ex. 6:5)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " His compassion"
+        },
+        {
+          "choice": " His covenant"
+        },
+        {
+          "choice": " Pharaoh's evil"
+        },
+        {
+          "choice": " Joseph's faithfulness"
+        }
+      ],
+      "answer": " His covenant ",
+      "type": " epi_3"
+    },
+    {
+      "question": " God said he would redeem the Israelites out of Egypt and they would become his _________ (Ex. 6:7) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Friends "
+        },
+        {
+          "choice": " Nation "
+        },
+        {
+          "choice": " People "
+        },
+        {
+          "choice": " Bride "
+        }
+      ],
+      "answer": " People ",
+      "type": "epi_3"
+    },
+    {
+      "question": " How did God swear to give the land of Canaan to Abraham (Ex. 6:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " With a rock of memorial "
+        },
+        {
+          "choice": " By his own name "
+        },
+        {
+          "choice": " With fire and smoke "
+        },
+        {
+          "choice": " With an uplifted hand "
+        }
+      ],
+      "answer": " With an uplifted hand ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Moses said the Israelites would not listen nor would Pharaoh because (Ex. 6:12) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Pharaoh's heart was hard "
+        },
+        {
+          "choice": " Moses spoke with faltering lips "
+        },
+        {
+          "choice": " Pharaoh did not believe in God "
+        },
+        {
+          "choice": " Moses was despised by his own people "
+        }
+      ],
+      "answer": " Moses spoke with faltering lips ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Levi's three sons were all of the following EXCEPT (Ex. 6:16) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Uzziel "
+        },
+        {
+          "choice": " Kohath "
+        },
+        {
+          "choice": " Gershon "
+        },
+        {
+          "choice": " Merari "
+        }
+      ],
+      "answer": " Uzziel ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Moses' and Aaron's mother was (Ex. 6:20) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zipporah "
+        },
+        {
+          "choice": " Miriam "
+        },
+        {
+          "choice": " Asenath "
+        },
+        {
+          "choice": "  Jochebed "
+        }
+      ],
+      "answer": "  Jochebed ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Moses' and Aaron's father was (Ex. 6:20) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Amminadab "
+        },
+        {
+          "choice": " Putiel "
+        },
+        {
+          "choice": " Amram "
+        },
+        {
+          "choice": " Shaul "
+        }
+      ],
+      "answer": " Amram ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Aaron's four sons were all of the following EXCEPT (Ex. 6:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abihu "
+        },
+        {
+          "choice": " Uzziel "
+        },
+        {
+          "choice": " Nadab "
+        },
+        {
+          "choice": " Eliezar "
+        }
+      ],
+      "answer": " Uzziel ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Why did the Israelites not listen to Moses (Ex. 6:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Because they did not believe him "
+        },
+        {
+          "choice": " Because it was better to be slaves than die in the desert "
+        },
+        {
+          "choice": " Because of their cruel bondage "
+        },
+        {
+          "choice": " Because they did not fear God "
+        }
+      ],
+      "answer": " Because of their cruel bondage ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Who was Israel's firstborn? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Reuben "
+        },
+        {
+          "choice": " Levi "
+        },
+        {
+          "choice": " Simeon "
+        },
+        {
+          "choice": " Judah "
+        }
+      ],
+      "answer": " Reuben ",
+      "type": "epi_3"
+    }
+  ]
+}

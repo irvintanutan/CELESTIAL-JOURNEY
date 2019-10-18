@@ -1,0 +1,205 @@
+{
+  "task": [
+    {
+      "question": " What happened at the height of the power of the goat in Daniel’s vision (Dan 8:8)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The goat fell and the ram trampled him"
+        },
+        {
+          "choice": " The goat’s large horn was broken off"
+        },
+        {
+          "choice": " The goat was shot with an arrow"
+        },
+        {
+          "choice": " The goat was trapped in a net and carried away"
+        }
+      ],
+      "answer": " The goat’s large horn was broken off ",
+      "type": "epi_2"
+    },
+    {
+      "question": " After the goat’s horn was broken off what happened in Daniel’s vision (Dan 8:8)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The goat ran off into the wilderness "
+        },
+        {
+          "choice": " The goat was shot with an arrow "
+        },
+        {
+          "choice": " Four prominent horns grew up "
+        },
+        {
+          "choice": " The horn was ground to dust and scattered "
+        }
+      ],
+      "answer": " Four prominent horns grew up ",
+      "type": "epi_2"
+    },
+    {
+      "question": " How did Daniel identify the land where the small horn that grew up out of the four horns toward (Dan 8:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Beautiful Land "
+        },
+        {
+          "choice": " The Holy Land "
+        },
+        {
+          "choice": " Mount Zion "
+        },
+        {
+          "choice": " The place of the Name "
+        }
+      ],
+      "answer": " The Beautiful Land ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The little horn of Daniel’s vision grew until it reached what (Dan 8:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The clouds "
+        },
+        {
+          "choice": " The host of heaven "
+        },
+        {
+          "choice": " The citadel of Susa "
+        },
+        {
+          "choice": " The highest mountain "
+        }
+      ],
+      "answer": " The host of heaven ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did the goat threw down to the earth and trample on in Daniel’s vision (Dan 8:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The governors and satraps of Persia "
+        },
+        {
+          "choice": " The walls of Babylon "
+        },
+        {
+          "choice": " The kings children "
+        },
+        {
+          "choice": " The starry host "
+        }
+      ],
+      "answer": " The starry host ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The goat set itself up to be as great as _________ (Dan 8:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Prince of Heaven "
+        },
+        {
+          "choice": " The son of man "
+        },
+        {
+          "choice": " The Prince of the host "
+        },
+        {
+          "choice": " The Ancient of Days "
+        }
+      ],
+      "answer": " The Prince of the host ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What was taken away when the goat set itself up as great as the Prince of the host in Daniel’s vision (Dan 8:11)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The daily sacrifice "
+        },
+        {
+          "choice": " The reading of the Law of Moses "
+        },
+        {
+          "choice": " The confession of sin "
+        },
+        {
+          "choice": " The fasting over the destruction of Jerusalem "
+        }
+      ],
+      "answer": " The daily sacrifice ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Under the goat what was trown to the ground (Dan 8:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Justice "
+        },
+        {
+          "choice": " Truth "
+        },
+        {
+          "choice": " The leader of the host of heaven "
+        },
+        {
+          "choice": " The kings of the earth "
+        }
+      ],
+      "answer": " Truth ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What question did one holy one ask another in Daniel’s vision (Dan 8:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " When will the promises to David be fulfilled "
+        },
+        {
+          "choice": " How long until Israel can return "
+        },
+        {
+          "choice": " How long until the vision is fulfilled "
+        },
+        {
+          "choice": " How long, O Lord, will you forget your people Israel "
+        }
+      ],
+      "answer": " How long until the vision is fulfilled ",
+      "type": "epi_2"
+    },
+    {
+      "question": " The holy one asked when all of these from the vision would be fulfilled EXCEPT (Dan 8:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The vision concerning the daily sacrifice "
+        },
+        {
+          "choice": " The host would remain in exile "
+        },
+        {
+          "choice": " The surrender of the sanctuary "
+        },
+        {
+          "choice": " The host will be trampled underfoot "
+        }
+      ],
+      "answer": " The host would remain in exile ",
+      "type": "epi_2"
+    }
+  ]
+}
+

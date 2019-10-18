@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What were the four horns that replaced the horn that was broken off the shaggy goat in Daniel’s vision (Dan 8:22)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Four corners of the earth from which the Israelites would be regathered"
+        },
+        {
+          "choice": " Four cities that would follow Babylon"
+        },
+        {
+          "choice": " Four kingdom that would emerge from Greece"
+        },
+        {
+          "choice": " Four rulers who would rule over Israel until the end"
+        }
+      ],
+      "answer": " Four kingdom that would emerge from Greece ",
+      "type": "epi_4"
+    },
+    {
+      "question": " All of the following will happen in the latter part of the four horns’ reign EXCEPT (Dan 8:23)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Rebels would becomecompletely wicked "
+        },
+        {
+          "choice": " A messenger of the evil one would come "
+        },
+        {
+          "choice": " A stern-faced king would arise "
+        },
+        {
+          "choice": " A master of intrigue would arise "
+        }
+      ],
+      "answer": " A messenger of the evil one would come ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What will the stern-faced king do (Dan 8:24)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He will cause astounding devastation and will succeed "
+        },
+        {
+          "choice": " He will destroy the temple of God and destroy many "
+        },
+        {
+          "choice": " He will ride on a white horse and the world will go after him "
+        },
+        {
+          "choice": " He will destroy the kingdom of Belshazzar and set up his own kingdom "
+        }
+      ],
+      "answer": " He will cause astounding devastation and will succeed ",
+      "type": "epi_4"
+    },
+    {
+      "question": " The stern-faced king that will arise out of the four horns will do all of the following EXCEPT (Dan 8:24f) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Take his stand against the Prince of princes "
+        },
+        {
+          "choice": " Destroy the mighty men and holy people "
+        },
+        {
+          "choice": " Cause deceit to prosper "
+        },
+        {
+          "choice": " Destroy the temple of the Most High "
+        }
+      ],
+      "answer": "Destroy the temple of the Most High ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How will the stern-faced king that will arise out of the four horns be destroyed (Dan 8:25)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Another terrible beast will arise and destroy him "
+        },
+        {
+          "choice": " Not by human power "
+        },
+        {
+          "choice": " A large stone will come down on him "
+        },
+        {
+          "choice": " He will be betrayed "
+        }
+      ],
+      "answer": " Not by human power ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What is Daniel told to do with the vision of the evenings and mornings (Dan 8:26)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Seal it up for it concerns the distant future "
+        },
+        {
+          "choice": " Tell it to the holy people to encourage them "
+        },
+        {
+          "choice": " Look for it to come for the time is drawing near "
+        },
+        {
+          "choice": " Write it down and put it in a jar "
+        }
+      ],
+      "answer": " Seal it up for it concerns the distant future ",
+      "type": "epi_4"
+    },
+    {
+      "question": " What happened to Daniel after the vision of the ram and goat (Dan 8:27)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " He was called into the king’s presence to explain it "
+        },
+        {
+          "choice": " He saw another vision which helped him undersand "
+        },
+        {
+          "choice": " He was exhausted and lay ill for several days "
+        },
+        {
+          "choice": " He wrote the vision down and gave it to Baruch the scribe "
+        }
+      ],
+      "answer": " He was exhausted and lay ill for several days ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Who was the son of Xerxes the Persian king (Dan 9:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Cyrus "
+        },
+        {
+          "choice": " Artaxerxes "
+        },
+        {
+          "choice": " Shalmaneser "
+        },
+        {
+          "choice": " Darius "
+        }
+      ],
+      "answer": " Darius ",
+      "type": "epi_4"
+    },
+    {
+      "question": " Darius was from what group by descent (Dan 9:1)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Persians "
+        },
+        {
+          "choice": " Chaldeans "
+        },
+        {
+          "choice": " Medes "
+        },
+        {
+          "choice": " Arameans "
+        }
+      ],
+      "answer": " Medes ",
+      "type": "epi_4"
+    },
+    {
+      "question": " How did Daniel know that the desolation of Jerusalem would last seventy years (Dan 9:2)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " From the word of the Lord given to Jeremiah "
+        },
+        {
+          "choice": " From the word of the Lord given to Ezekiel "
+        },
+        {
+          "choice": " From the word of the Lord in a night vision "
+        },
+        {
+          "choice": " From the Book of the Law "
+        }
+      ],
+      "answer": " From the word of the Lord given to Jeremiah ",
+      "type": "epi_4"
+    }
+  ]
+}

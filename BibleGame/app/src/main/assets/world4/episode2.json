@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What had David never done with regards to Adonijah (1 Kgs. 1:6)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Questioned his behavior"
+        },
+        {
+          "choice": " Provided for his needs"
+        },
+        {
+          "choice": " Loved him"
+        },
+        {
+          "choice": " Given him gifts"
+        }
+      ],
+      "answer": " Questioned his behavior",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who supported Adonijah’s decision to make himself king (1 Kgs. 1:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zadok and Barzillai "
+        },
+        {
+          "choice": " Abner and Rei "
+        },
+        {
+          "choice": " Joab and Abiathar "
+        },
+        {
+          "choice": " Shimei and Nathan "
+        }
+      ],
+      "answer": " Joab and Abiathar ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who was the priest that Adonijah invited to support his bid for the kingship (1 Kgs 1:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zadok "
+        },
+        {
+          "choice": " Abiathar "
+        },
+        {
+          "choice": " Phineas "
+        },
+        {
+          "choice": " Hilkiah "
+        }
+      ],
+      "answer": " Phineas ",
+      "type": "epi_2"
+    },
+    {
+      "question": " All of the following did not join Adonijah’s announcement of his kingship EXCEPT (1 Kgs. 1:10)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Zadok the priest "
+        },
+        {
+          "choice": " Nathan the prophet "
+        },
+        {
+          "choice": " Joab the commander "
+        },
+        {
+          "choice": " Solomon "
+        }
+      ],
+      "answer": " Joab the commander ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did Adonijah sacrifice sheep (1 Kgs 1:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Near En Rogel "
+        },
+        {
+          "choice": " Near Gihon "
+        },
+        {
+          "choice": " Near Millo "
+        },
+        {
+          "choice": " Near the Mount of Olives "
+        }
+      ],
+      "answer": " Near En Rogel ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Where did Adonijah sacrifice sheep for his proclamation of becoming king (1 Kgs1:9)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Standing Stone of Shechem "
+        },
+        {
+          "choice": " The Stone of Zoheleth "
+        },
+        {
+          "choice": " The Rock of Gilloh "
+        },
+        {
+          "choice": " The Rock of Zeruiah "
+        }
+      ],
+      "answer": " The Standing Stone of Shechem ",
+      "type": "epi_2"
+    },
+    {
+      "question": " Who told Bathsheba of Adonijah’s plot to become king (1 Kgs 1:12)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Abiathar "
+        },
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Nathan "
+        },
+        {
+          "choice": " Benaiah "
+        }
+      ],
+      "answer": " Nathan ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What oath did Bathsheba remind David about (1 Kgs. 1:13)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " David’s promise that Solomon would be king after him "
+        },
+        {
+          "choice": " God’s promise that David’s decedents would build God’s temple "
+        },
+        {
+          "choice": " David’s promise to protect Bathsheba from harm "
+        },
+        {
+          "choice": " God’s promise to be faithful to those who trust in him "
+        }
+      ],
+      "answer": " David’s promise that Solomon would be king after him ",
+      "type": "epi_2"
+    },
+    {
+      "question": " While Bathsheba was to remind David of his oath about Solomon who would come in and confirm what she was saying (1 Kgs 1:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Joab "
+        },
+        {
+          "choice": " Benaiah "
+        },
+        {
+          "choice": " Zadok "
+        },
+        {
+          "choice": " Nathan "
+        }
+      ],
+      "answer": " Nathan ",
+      "type": "epi_2"
+    },
+    {
+      "question": " What did Bathsheba do upon entering the king’s room (1 Kgs. 1:16)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Prostrated herself before the king "
+        },
+        {
+          "choice": " Bowed low and knelt before the king "
+        },
+        {
+          "choice": " Fell to the ground and wept "
+        },
+        {
+          "choice": " Clasped the king’s knees and sought his aid "
+        }
+      ],
+      "answer": " Bowed low and knelt before the king ",
+      "type": "epi_2"
+    }
+  ]
+}

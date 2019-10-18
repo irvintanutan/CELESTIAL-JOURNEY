@@ -1,0 +1,204 @@
+{
+  "task": [
+    {
+      "question": " What was the border between Sihon and the Ammonites (Josh. 12:2)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River"
+        },
+        {
+          "choice": " The Jabbok River"
+        },
+        {
+          "choice": " The Litani River"
+        },
+        {
+          "choice": " The Kishon River"
+        }
+      ],
+      "answer": " The Jabbok River ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Sihon's territory had as its boundaries in the north and south the ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kishon River and the Zered canyon "
+        },
+        {
+          "choice": " Jordan River and the Salt Sea "
+        },
+        {
+          "choice": " Jabbok River and Arnon Gorge "
+        },
+        {
+          "choice": " Galilee and the Negev "
+        }
+      ],
+      "answer": " Jabbok River and Arnon Gorge ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Sihon ruled over the territory north of the of the Sea of the Arabah which is also called (Josh. 12:3) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kinnereth "
+        },
+        {
+          "choice": " The Salt Sea "
+        },
+        {
+          "choice": " The Red Sea "
+        },
+        {
+          "choice": " The Great Sea "
+        }
+      ],
+      "answer": " The Salt Sea ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Sihon ruled the territory east of what two seas (Josh. 12:3)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Kinnereth and Arabah Sea "
+        },
+        {
+          "choice": " The Red Sea and Mediterranean Sea "
+        },
+        {
+          "choice": " The Salt Sea and the Black Sea "
+        },
+        {
+          "choice": " The Red Sea and the Negev "
+        }
+      ],
+      "answer": " The Kinnereth and Arabah Sea ",
+      "type": "epi_3"
+    },
+    {
+      "question": " The southern border of Benjamin came out on the east by the mouth of the Jordan River in the bay of the _________ (Josh. 18:19) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Kinnereth Sea "
+        },
+        {
+          "choice": " The Great Sea "
+        },
+        {
+          "choice": " The Salt Sea "
+        },
+        {
+          "choice": " The Bitter Sea "
+        }
+      ],
+      "answer": " The Salt Sea ",
+      "type": "epi_3"
+    },
+    {
+      "question": " What formed the eastern boundary of Benjamin (Josh. 18:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The desert of Zin "
+        },
+        {
+          "choice": " The Arabah "
+        },
+        {
+          "choice": " Mount Pisgah "
+        },
+        {
+          "choice": " The Jordan "
+        }
+      ],
+      "answer": " The Jordan ",
+      "type": "epi_3"
+    },
+    {
+      "question": " All of the following cities were part of Benjamin's inheritance EXCEPT (Josh. 18:21ff) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Jericho "
+        },
+        {
+          "choice": " Hebron "
+        },
+        {
+          "choice": " Bethel "
+        },
+        {
+          "choice": " Gibeon "
+        }
+      ],
+      "answer": " Hebron ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Where was Adoni-Bezek brought to and died (Judges 1:7)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Damascus "
+        },
+        {
+          "choice": " Jericho "
+        },
+        {
+          "choice": " Jordan river "
+        },
+        {
+          "choice": " Jerusalem "
+        }
+      ],
+      "answer": " Jerusalem ",
+      "type": "epi_3"
+    },
+    {
+      "question": " The angel of the Lord went up form _____________ to Bokim making an accusation against Israel (Judg 2:1) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " Mt. Sinai "
+        },
+        {
+          "choice": " Gilgal "
+        },
+        {
+          "choice": " Jordan River "
+        },
+        {
+          "choice": " Jerusalem "
+        }
+      ],
+      "answer": " Gilgal ",
+      "type": "epi_3"
+    },
+    {
+      "question": " Deborah told Barak he was to muster his troops at what place (Judg 4:6)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": " The Jordan River "
+        },
+        {
+          "choice": " Mount Tabor "
+        },
+        {
+          "choice": " En Gedi spring "
+        },
+        {
+          "choice": " Kishon River "
+        }
+      ],
+      "answer": " Mount Tabor ",
+      "type": "epi_3"
+    }
+  ]
+}

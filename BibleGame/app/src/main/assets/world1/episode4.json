@@ -1,0 +1,215 @@
+{
+  "task": [
+    {
+      "question": "The two lights in the sky were made for what purpose (Gen. 1:14)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "To bring light upon the earth "
+        },
+        {
+          "choice": "To provide direction for the earth"
+        },
+        {
+          "choice": "To aid the separation of the waters "
+        },
+        {
+          "choice": "To separate the day from the night "
+        }
+      ],
+      "answer": "To separate the day from the night ",
+      "type": "epi_4"
+    },
+    {
+      "question": "What other animals were made on the same day as the fish (Gen. 1:20)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Land animals "
+        },
+        {
+          "choice": "Plants"
+        },
+        {
+          "choice": "Birds"
+        },
+        {
+          "choice": "Angels"
+        }
+      ],
+      "answer": "Birds",
+      "type": "epi_4"
+    },
+    {
+      "question": "What blessing or command did God give the fish (Gen. 1:22)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "To fill the waters of the sea "
+        },
+        {
+          "choice": "To swim within the bounds of the sea"
+        },
+        {
+          "choice": "To eat the plants of the sea"
+        },
+        {
+          "choice": "To form families according to their kinds "
+        }
+      ],
+      "answer": "To fill the waters of the sea ",
+      "type": "epi_4"
+    },
+    {
+      "question": "The land animals were produced according to their _______ (Gen. 1:24)  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Likeness"
+        },
+        {
+          "choice": "Image"
+        },
+        {
+          "choice": "Kinds"
+        },
+        {
+          "choice": "habitations "
+        }
+      ],
+      "answer": "Kinds",
+      "type": "epi_4"
+    },
+    {
+      "question": "According to what pattern was humankind built (Gen. 1:26)?",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "The image of God "
+        },
+        {
+          "choice": "The dust of the earth "
+        },
+        {
+          "choice": "The land animals "
+        },
+        {
+          "choice": "The goodness and love"
+        }
+      ],
+      "answer": "The image of God ",
+      "type": "epi_4"
+    },
+    {
+      "question": "Humankind's first role in creation was described in terms of _________ (Gen. 1:26) ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Their worship of God "
+        },
+        {
+          "choice": "Their tending the garden "
+        },
+        {
+          "choice": "Their caring for the land "
+        },
+        {
+          "choice": "Their rule over the animals "
+        }
+      ],
+      "answer": "Their rule over the animals ",
+      "type": "epi_4"
+    },
+    {
+      "question": "God's first blessing on humankind was (Gen. 1:28) _________ ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "To hear and obey "
+        },
+        {
+          "choice": "To multiply and rule "
+        },
+        {
+          "choice": "To tend the garden and its creatures "
+        },
+        {
+          "choice": "To love one another "
+        }
+      ],
+      "answer": "To multiply and rule ",
+      "type": "epi_4"
+    },
+    {
+      "question": "What did God specifically give humans for food (Gen. 1:29)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Seed-bearing plants and trees "
+        },
+        {
+          "choice": "Plants and animals "
+        },
+        {
+          "choice": "Manna from heaven "
+        },
+        {
+          "choice": "The fruit from the tree of life   "
+        }
+      ],
+      "answer": "Seed-bearing plants and trees ",
+      "type": "epi_4"
+    },
+    {
+      "question": "The beasts of the earth and birds were to share what food source with humans (Gen. 1:30)? ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Every green plant  "
+        },
+        {
+          "choice": "The fish of the sea"
+        },
+        {
+          "choice": "Anything but eating their own kind "
+        },
+        {
+          "choice": "The springs of water on the earth "
+        }
+      ],
+      "answer": "Every green plant  ",
+      "type": "epi_4"
+    },
+    {
+      "question": "The rule of humankind was specifically stated to be over all of the following EXCEPT (Gen. 1:28)  ",
+      "time": "30000",
+      "choices": [
+        {
+          "choice": "Birds of the air "
+        },
+        {
+          "choice": "Fish of the sea  "
+        },
+        {
+          "choice": "Every creature that moves on the ground "
+        },
+        {
+          "choice": "The trees of the garden "
+        }
+      ],
+      "answer": "The trees of the garden ",
+      "type": "epi_4"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
