@@ -20,7 +20,8 @@ public class MapActivity extends AppCompatActivity {
 
 
     ImageView episode1, episode2, episode3, episode4, episode5;
-    FloatingActionButton fab;
+    ImageView fab;
+    boolean indicator = false;
 
 
     SharedPreferences pref;
@@ -100,6 +101,8 @@ public class MapActivity extends AppCompatActivity {
                 pref = getApplicationContext().getSharedPreferences("world11", 0);
                 if (pref.getInt("score", 1) < 5)
                     showAlert();
+                else
+                    indicator = true;
                 break;
 
         }
@@ -118,11 +121,78 @@ public class MapActivity extends AppCompatActivity {
         episode4 = findViewById(R.id.button4);
         episode5 = findViewById(R.id.button5);
         fab = findViewById(R.id.floating_action_button);
+        Glide.with(getApplicationContext()).asBitmap().load(ModGLobal.buttonSprites.get(5)).into(fab);
 
 
         mapStarInit();
+        if (indicator) {
+            episode1.setOnClickListener(view -> {
+                Intent intent = new Intent(MapActivity.this, GameActivity.class);
+                ModGLobal.episode = ModGLobal.worldPref + "/episode1.json";
+                ModGLobal.episodePref = "epi1";
+                ModGLobal.level = 2;
+                startActivity(intent);
+                finish();
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+            });
 
-        episode1.setOnClickListener(view -> {
+            episode2.setOnClickListener(view -> {
+                if (pref.getInt("score", 0) > 1) {
+                    Intent intent = new Intent(MapActivity.this, GameActivity.class);
+                    ModGLobal.episode = ModGLobal.worldPref + "/episode2.json";
+                    ModGLobal.episodePref = "epi2";
+                    ModGLobal.level = 3;
+                    startActivity(intent);
+                    finish();
+                    overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                } else {
+                    showAlert("1");
+                }
+            });
+
+            episode3.setOnClickListener(view -> {
+                if (pref.getInt("score", 0) > 2) {
+                    Intent intent = new Intent(MapActivity.this, GameActivity.class);
+                    ModGLobal.episode = ModGLobal.worldPref + "/episode3.json";
+                    ModGLobal.episodePref = "epi3";
+                    ModGLobal.level = 4;
+                    startActivity(intent);
+                    finish();
+                    overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                } else {
+                    showAlert("2");
+                }
+            });
+
+            episode4.setOnClickListener(view -> {
+                if (pref.getInt("score", 0) > 3) {
+                    Intent intent = new Intent(MapActivity.this, GameActivity.class);
+                    ModGLobal.episode = ModGLobal.worldPref + "/episode4.json";
+                    ModGLobal.episodePref = "epi4";
+                    ModGLobal.level = 5;
+                    startActivity(intent);
+                    finish();
+                    overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                } else {
+                    showAlert("3");
+                }
+            });
+
+            episode5.setOnClickListener(view -> {
+                if (pref.getInt("score", 0) > 4) {
+                    Intent intent = new Intent(MapActivity.this, GameActivity.class);
+                    ModGLobal.episode = ModGLobal.worldPref + "/episode5.json";
+                    ModGLobal.episodePref = "epi5";
+                    ModGLobal.level = 6;
+                    startActivity(intent);
+                    finish();
+                    overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                } else {
+                    showAlert("4");
+                }
+            });
+        } else {
+
             Intent intent = new Intent(MapActivity.this, GameActivity.class);
             ModGLobal.episode = ModGLobal.worldPref + "/episode1.json";
             ModGLobal.episodePref = "epi1";
@@ -130,64 +200,7 @@ public class MapActivity extends AppCompatActivity {
             startActivity(intent);
             finish();
             overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-        });
-
-        episode2.setOnClickListener(view -> {
-            if (pref.getInt("score", 0) > 1) {
-                Intent intent = new Intent(MapActivity.this, GameActivity.class);
-                ModGLobal.episode = ModGLobal.worldPref + "/episode2.json";
-                ModGLobal.episodePref = "epi2";
-                ModGLobal.level = 3;
-                startActivity(intent);
-                finish();
-                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-            } else {
-                showAlert("1");
-            }
-        });
-
-        episode3.setOnClickListener(view -> {
-            if (pref.getInt("score", 0) > 2) {
-                Intent intent = new Intent(MapActivity.this, GameActivity.class);
-                ModGLobal.episode = ModGLobal.worldPref + "/episode3.json";
-                ModGLobal.episodePref = "epi3";
-                ModGLobal.level = 4;
-                startActivity(intent);
-                finish();
-                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-            } else {
-                showAlert("2");
-            }
-        });
-
-        episode4.setOnClickListener(view -> {
-            if (pref.getInt("score", 0) > 3) {
-                Intent intent = new Intent(MapActivity.this, GameActivity.class);
-                ModGLobal.episode = ModGLobal.worldPref + "/episode4.json";
-                ModGLobal.episodePref = "epi4";
-                ModGLobal.level = 5;
-                startActivity(intent);
-                finish();
-                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-            } else {
-                showAlert("3");
-            }
-        });
-
-        episode5.setOnClickListener(view -> {
-            if (pref.getInt("score", 0) > 4) {
-                Intent intent = new Intent(MapActivity.this, GameActivity.class);
-                ModGLobal.episode = ModGLobal.worldPref + "/episode5.json";
-                ModGLobal.episodePref = "epi5";
-                ModGLobal.level = 6;
-                startActivity(intent);
-                finish();
-                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-            } else {
-                showAlert("4");
-            }
-        });
-
+        }
 
         fab.setOnClickListener(v -> {
             AlertDialog.Builder builder = new AlertDialog.Builder(MapActivity.this);
@@ -316,7 +329,7 @@ public class MapActivity extends AppCompatActivity {
     }
 
 
-    void showAlert(){
+    void showAlert() {
         AlertDialog.Builder builder = new AlertDialog.Builder(MapActivity.this);
 
         builder.setTitle("WARNING");
@@ -332,6 +345,7 @@ public class MapActivity extends AppCompatActivity {
         });
 
         AlertDialog alert = builder.create();
+        alert.setCancelable(false);
         alert.show();
     }
 

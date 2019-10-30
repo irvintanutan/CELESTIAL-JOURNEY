@@ -1,204 +1,191 @@
 {
   "task": [
     {
-      "question": "What two things did God create in the beginning (Gen. 1:1)?",
-      "time": "10000",
+      "question": "Which of the following might BEST explain the event accomplished when God creates a new heaven and a new earth? (Rev.21:1) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. The light and the darkness "
+          "choice": "He annihilates the entire universe and then recreates it from scratch"
         },
         {
-          "choice": "b. The heavens and the earth"
+          "choice": "He annihilates heaven and earth and then recreates it from scratch"
         },
         {
-          "choice": "c. The land and the sea "
+          "choice": " He dissolves the earth and its atmosphere and then renews it clean and fresh "
         },
         {
-          "choice": "d. The world and the stars "
+          "choice": " He annihilates all of His creation and then recreates it from scratch "
         }
       ],
-      "answer": "b. The heavens and the earth",
-      "type": "epi_1"
+      "answer": " He dissolves the earth and its atmosphere and then renews it clean and fresh ",
+      "type": " City12"
     },
     {
-      "question": "What did God create in the first day?",
-      "time": "8000",
+      "question": "New Jerusalem is the eternal city and dwelling place that God has prepared for all those who love Him. (Rev.21:2) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Water "
+          "choice": "True "
         },
         {
-          "choice": "b. Light "
+          "choice": "False "
         },
         {
-          "choice": "c. Celestial bodies (planets, moons, stars, etc.)"
+          "choice": ""
         },
         {
-          "choice": "d. Air "
+          "choice": " "
         }
       ],
-      "answer": "b. Light ",
-      "type": "epi_1"
+      "answer": "True ",
+      "type": " City12"
     },
     {
-      "question": "On the first day after God made the light, what two things did He separate (Gen. 1:4)?   ",
-      "time": "12000",
+      "question": "Which is a true statement concerning New Jerusalem? (Rev. 21: 3-5)",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Land and the sea "
+          "choice": "God will dwell there"
         },
         {
-          "choice": "b. The light on the earth and the light of His presence "
+          "choice": "There will be no more crying, death, sorrow, nor pain"
         },
         {
-          "choice": "c. Light and darkness "
+          "choice": "His love shall be manifested to us and His glory put upon us"
         },
         {
-          "choice": "d. The sun and moon "
+          "choice": "All of the above"
         }
       ],
-      "answer": "c. Light and darkness ",
-      "type": "epi_1"
+      "answer": "All of the above",
+      "type": " City12"
     },
     {
-      "question": "What did God create on the second day?",
-      "time": "8000",
+      "question": " The existence of both the river of water of life and the tree of life might be an indication that we will be “required” to eat and drink in heaven. (Rev. 22: 1-2) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Sky &heaven "
+          "choice": "True"
         },
         {
-          "choice": "b. Oceans &seas"
+          "choice": "False"
         },
         {
-          "choice": "c. Outer space &stars "
+          "choice": ""
         },
         {
-          "choice": "d. Clouds &Vapors"
+          "choice": ""
         }
       ],
-      "answer": "a. Sky &heaven ",
-      "type": "epi_1"
+      "answer": "False",
+      "type": " City12"
     },
     {
-      "question": "What did God create on the third day ",
-      "time": "8000",
+      "question": "Which of the following statements IS NOT true concerning heaven? (Rev. 22: 3-5) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Plant Life "
+          "choice": "There shall be no more curse"
         },
         {
-          "choice": "b. All of these"
+          "choice": "There shall be no night"
         },
         {
-          "choice": "c. Land "
+          "choice": "The throne of God and of the Lamb are in it"
         },
         {
-          "choice": "d. The seas "
+          "choice": "There will no longer be a need to serve God"
         }
       ],
-      "answer": "b. All of these",
-      "type": "epi_1"
+      "answer": "There will no longer be a need to serve God",
+      "type": " City12"
     },
     {
-      "question": " What did God create on the fourth day? ",
-      "time": "10000",
+      "question": "Which of the following BEST explains the “marriage supper of the Lamb”? (Rev. 19 : 9)",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Animals "
+          "choice": " Blessed are those who are called to the marriage supper"
         },
         {
-          "choice": "b. Celestial bodies (planets, moons, stars, etc.)"
+          "choice": " It will commemorate the marriage between Christ and His Church and the bridal relationship between God"
         },
         {
-          "choice": "c. Plants "
+          "choice": "It will be served on earth during the Millennium"
         },
         {
-          "choice": "d. The waters   "
+          "choice": "To explain the evil of marrying one's stepmother"
         }
       ],
-      "answer": "b. Celestial bodies (planets, moons, stars, etc.)",
-      "type": "epi_1"
+      "answer": " It will commemorate the marriage between Christ and His Church and the bridal relationship between God",
+      "type": " City12"
     },
     {
-      "question": "What did God create on the fifth day?",
-      "time": "10000",
+      "question": "Which IS NOT included as a reason why heaven explodes into a chorus of gladness and rejoicing to the glory of God? (Rev 19 : 5-8) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. All animals "
+          "choice": "The Lord God Omnipotent reigns! "
         },
         {
-          "choice": "b. All animals except those that live on the land"
+          "choice": "The marriage of the Lamb has come"
         },
         {
-          "choice": "c. All animals except those that live in the ocean"
+          "choice": "His bride has made herself ready"
         },
         {
-          "choice": "d. All animals except those that live in the sky "
+          "choice": "None, they all explain the rejoicing and gladness "
         }
       ],
-      "answer": "b. All animals except those that live on the land",
-      "type": "epi_1"
+      "answer": "None, they all explain the rejoicing and gladness ",
+      "type": " City12"
     },
     {
-      "question": " Which did God NOT create on the sixth day? ",
-      "time": "8000",
+      "question": "Which of the following IS NOT what John said as he beheld Christ about to leave heaven and return to earth? (Rev. 19:11)",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Some animals   "
+          "choice": "He is called Faithful and True."
         },
         {
-          "choice": "b. Man"
+          "choice": "His robe was white and clean"
         },
         {
-          "choice": "c. Birds"
+          "choice": "His eyes were a flame of fire"
         },
         {
-          "choice": "d. Woman"
+          "choice": "Upon His head were many crowns"
         }
       ],
-      "answer": "c. Birds",
-      "type": "epi_1"
+      "answer": "His robe was white and clean",
+      "type": " City12"
     },
     {
-      "question": "What did God create on the seventh day?  ",
-      "time": "8000",
+      "question": "Which of the following applies to the resurrection? (Rev.  20: 5-6) ",
+      "time": "30000",
       "choices": [
         {
-          "choice": "a. Man"
+          "choice": "Everyone who dies will be resurrected "
         },
         {
-          "choice": "b. Language "
+          "choice": "The saved will all resurrect before the Millennium "
         },
         {
-          "choice": "c. Woman"
+          "choice": "The unsaved will not resurrect until after the Millennium "
         },
         {
-          "choice": "d. Nothing "
+          "choice": "All of the above "
         }
       ],
-      "answer": "d. Nothing ",
-      "type": "epi_1"
-    },
-    {
-      "question": "What did God think of His work?  ",
-      "time": "8000",
-      "choices": [
-        {
-          "choice": "a. It was sufficient"
-        },
-        {
-          "choice": "b. It was good"
-        },
-        {
-          "choice": "c. It was perfect"
-        },
-        {
-          "choice": "d. It was glorious"
-        }
-      ],
-      "answer": "b. It was good",
-      "type": "epi_1"
+      "answer": "All of the above ",
+      "type": " City12"
     }
   ]
 }
+
+
+
+  
+
+	
+

@@ -74,16 +74,15 @@
         tools:layout_editor_absoluteX="149dp"
         tools:layout_editor_absoluteY="459dp" />
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
+    <ImageView
         android:id="@+id/floating_action_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="@dimen/_60sdp"
+        android:layout_height="@dimen/_60sdp"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_gravity="bottom|right"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="6dp"
-        android:src="@drawable/baseline_home_white_18dp"
+        android:layout_marginBottom="6dp" 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

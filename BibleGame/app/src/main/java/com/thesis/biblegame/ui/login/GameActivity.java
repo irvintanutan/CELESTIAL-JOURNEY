@@ -109,8 +109,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
         //countdown = findViewById(R.id.countDown);
         mProgressBar = findViewById(R.id.progressbar);
         pause = findViewById(R.id.pause);
-        Glide.with(getApplicationContext()).load(new Sprite(GameActivity.this).sprites("sprite_button.png",
-                2, 5).get(2)).into(pause);
+        Glide.with(getApplicationContext()).load(ModGLobal.buttonSprites.get(2)).into(pause);
 
         txtScore = findViewById(R.id.score);
         life1 = findViewById(R.id.life1);
@@ -161,14 +160,11 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
             final ImageView home = alertLayout.findViewById(R.id.home);
 
 
-            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
-                    2, 5).get(8)).into(resume);
+            Glide.with(getApplicationContext()).asBitmap().load(ModGLobal.buttonSprites.get(8)).into(resume);
 
-            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
-                    2, 5).get(6)).into(restart);
+            Glide.with(getApplicationContext()).asBitmap().load(ModGLobal.buttonSprites.get(6)).into(restart);
 
-            Glide.with(getApplicationContext()).asBitmap().load(new Sprite(GameActivity.this).sprites("sprite_button.png",
-                    2, 5).get(5)).into(home);
+            Glide.with(getApplicationContext()).asBitmap().load(ModGLobal.buttonSprites.get(5)).into(home);
 
 
             AlertDialog.Builder alert = new AlertDialog.Builder(GameActivity.this);
@@ -396,7 +392,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
                     case 0:
                         txtAnswerA.setText(objChoices.getString("choice"));
                         txtAnswerA.setOnClickListener(view -> {
-                            if (txtAnswerA.getText().toString().equals(finalAnswer)) {
+                            if (txtAnswerA.getText().toString().replace(" " , "").equals(finalAnswer.replace(" " , ""))) {
                                 addScore();
                             } else {
                                 txtAnswerA.startAnimation(animShake);
@@ -409,7 +405,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
                     case 1:
                         txtAnswerB.setText(objChoices.getString("choice"));
                         txtAnswerB.setOnClickListener(view -> {
-                            if (txtAnswerB.getText().toString().equals(finalAnswer)) {
+                            if (txtAnswerB.getText().toString().replace(" " , "").equals(finalAnswer.replace(" " , ""))) {
                                 addScore();
 
                             } else {
@@ -424,7 +420,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
                     case 2:
                         txtAnswerC.setText(objChoices.getString("choice"));
                         txtAnswerC.setOnClickListener(view -> {
-                            if (txtAnswerC.getText().toString().equals(finalAnswer)) {
+                            if (txtAnswerC.getText().toString().replace(" " , "").equals(finalAnswer.replace(" " , ""))) {
                                 addScore();
 
                             } else {
@@ -439,7 +435,7 @@ public class GameActivity extends AppCompatActivity implements RewardedVideoAdLi
                     case 3:
                         txtAnswerD.setText(objChoices.getString("choice"));
                         txtAnswerD.setOnClickListener(view -> {
-                            if (txtAnswerD.getText().toString().equals(finalAnswer)) {
+                            if (txtAnswerD.getText().toString().replace(" " , "").equals(finalAnswer.replace(" " , ""))) {
                                 addScore();
 
                             } else {

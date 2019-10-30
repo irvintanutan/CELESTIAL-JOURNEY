@@ -14,6 +14,8 @@ public class ModGLobal {
 
     public static List<Bitmap> worldMapSprite;
 
+    public static List<Bitmap> buttonSprites;
+
     public static String episode = "";
 
     public static int level = 0;

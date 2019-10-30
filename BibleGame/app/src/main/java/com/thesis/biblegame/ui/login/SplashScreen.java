@@ -37,6 +37,9 @@ public class SplashScreen extends AppCompatActivity {
         ModGLobal.worldMapSprite = new Sprite(getApplicationContext()).sprites("places.png",
                 2, 6);
 
+        ModGLobal.buttonSprites = new Sprite(getApplicationContext()).sprites("sprite_button.png",
+                2, 5);
+
        /* splash = (TextView) findViewById(R.id.splash);
         splash.setTypeface(custom_font);*/
 
